@@ -1,19 +1,19 @@
 [
     {
         "server-name" : "SNAPPY TV MOVIES",
-        "server-api" : "https://raw.githubusercontent.com/snapyyyt/SNAPPYTV2/main/movies.php",
+        "server-api" : "https://raw.githubusercontent.com/snapyyyt/STV/main/movies.php",
         "is-active" : true,
         "logo-url" : "https://i.postimg.cc/vTh7m0bT/photo-2023-08-05-07-13-47-modified.png"
     },
     {
         "server-name" : "Tata Play",
-        "server-api" : "https://snappytv.000webhostapp.com/ch/tata.php",
+        "server-api" : "https://raw.githubusercontent.com/snapyyyt/STV/main/tata.php",
         "is-active" : true,
         "logo-url" : "https://i.ibb.co/WKckHbw/tataplay.png"
     },
     {
         "server-name" : "Jio TV",
-        "server-api" : "https://raw.githubusercontent.com/snapyyyt/SNAPPYTV2/main/jiotv.php",
+        "server-api" : "https://raw.githubusercontent.com/snapyyyt/STV/main/jiotv.php",
         "is-active" : true,
         "logo-url" : "https://i.ibb.co/B2wKbmf/jiotv.png"
     }
