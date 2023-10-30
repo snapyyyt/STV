@@ -16,11 +16,11 @@
         "server-api" : "https://raw.githubusercontent.com/snapyyyt/STV/main/jiotv.php",
         "is-active" : true,
         "logo-url" : "https://i.ibb.co/B2wKbmf/jiotv.png"
-    }
+    },
     {
         "server-name" : "Tata Play 2",
         "server-api" : "https://raw.githubusercontent.com/snapyyyt/STV/main/tata2.php",
         "is-active" : true,
         "logo-url" : "https://i.ibb.co/WKckHbw/tataplay.png"
-    },
+    }
 ]
