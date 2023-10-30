@@ -1,7 +1,7 @@
 [
     {
         "server-name" : "SNAPPY TV MOVIES",
-        "server-api" : "https://raw.githubusercontent.com/snapyyyt/STV/main/movies.php",
+        "server-api" : "https://raw.githubusercontent.com/snapyyyt/STV/main/movie.php",
         "is-active" : true,
         "logo-url" : "https://i.postimg.cc/vTh7m0bT/photo-2023-08-05-07-13-47-modified.png"
     },
