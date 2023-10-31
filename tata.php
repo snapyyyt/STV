@@ -24,7 +24,7 @@
         "group-title": "Kids",
         "channel-name": "SHINCHAN 24/7",
         "tvg-id": "",
-        "video-streaming-link": "http:\/\/starshare.live:8080\/live\/Asif@24680\/Asif@24680\/147724.m3u8",
+        "video-streaming-link": "http:\/\/starshare.live:8080\/live\/asif@24680\/asif@24680\/147724.m3u8",
         "license-type": "widevine",
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
@@ -34,7 +34,7 @@
         "group-title": "Kids",
         "channel-name": "DORAEMON 24/7",
         "tvg-id": "",
-        "video-streaming-link": "http://starshare.live:8080/live/Asif@24680/Asif@24680/66162.m3u8",
+        "video-streaming-link": "http://starshare.live:8080/live/asif@24680/asif@24680/66162.m3u8",
         "license-type": "widevine",
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
