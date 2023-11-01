@@ -78,4 +78,4297 @@
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
     },
-{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-52679-k7zx7qqg-v1\/imageContent-52679-k7zx7qqg-m2.png\" group-title=\"Lifestyle","group-title":"Lifestyle","channel-name":"News World India","video-streaming-link":"https:\/\/koka-koka.vercel.app\/22.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=22","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-56386-kfc14w60-v4\/imageContent-56386-kfc14w60-m4.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Shirdi Sai Baba","video-streaming-link":"https:\/\/koka-koka.vercel.app\/840.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=840","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-56389-kfdgngts-v3\/imageContent-56389-kfdgngts-m3.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Somnath Temple","video-streaming-link":"https:\/\/koka-koka.vercel.app\/842.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=842","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-405-j5jr3sz4-v2\/imageContent-405-j5jr3sz4-m2.png\" group-title=\"Lifestyle","group-title":"Lifestyle","channel-name":"Tata Play Fitness","video-streaming-link":"https:\/\/koka-koka.vercel.app\/121.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=121","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12282-ja02jlp4-v2\/imageContent-12282-ja02jlp4-m2.png\" group-title=\"Lifestyle","group-title":"Lifestyle","channel-name":"Tata Play Beauty","video-streaming-link":"https:\/\/koka-koka.vercel.app\/618.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=618","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-23495-jf92iycg-v3\/imageContent-23495-jf92iycg-m4.png\" group-title=\"Lifestyle","group-title":"Lifestyle","channel-name":"Tata Play Cooking","video-streaming-link":"https:\/\/koka-koka.vercel.app\/641.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=641","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-67692-kwmxxw08-v2\/imageContent-67692-kwmxxw08-m3.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Tata Play Romance","video-streaming-link":"https:\/\/koka-koka.vercel.app\/959.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=959","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-795-j5m7axrc-v1\/imageContent-795-j5m7axrc-m1.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"DD National","video-streaming-link":"https:\/\/koka-koka.vercel.app\/191.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=191","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-25307-jhrhflww-v1\/imageContent-25307-jhrhflww-m1.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"STAR Plus HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/8.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=8","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-6895-j6vqhqnc-v2\/imageContent-6895-j6vqhqnc-m2.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Star Bharat HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/244.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=244","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-43-j5fca4k0-v3\/imageContent-43-j5fca4k0-m4.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"SET HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/15.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=15","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12074-j9oat6qw-v6\/imageContent-12074-j9oat6qw-m6.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"SET","video-streaming-link":"https:\/\/koka-koka.vercel.app\/556.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=556","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-141-j5fpeji0-v3\/imageContent-141-j5fpeji0-m3.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"SONY SAB HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/48.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=48","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12081-j9oc38xc-v8\/imageContent-12081-j9oc38xc-m7.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"SONY SAB","video-streaming-link":"https:\/\/koka-koka.vercel.app\/559.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=559","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-117-j5fl7440-v1\/imageContent-117-j5fl7440-m1.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"&tv HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/40.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=40","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12129-j9p7kluo-v2\/imageContent-12129-j9p7kluo-m3.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"&TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/578.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=578","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11073-j95e7nyo-v1\/imageContent-11073-j95e7nyo-m1.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Zee TV HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/63.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=63","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12077-j9ob4gm0-v2\/imageContent-12077-j9ob4gm0-m2.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Zee TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/557.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=557","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-155-j5frd2uo-v1\/imageContent-155-j5frd2uo-m1.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Colors HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/52.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=52","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12053-j9o3yhko-v1\/imageContent-12053-j9o3yhko-m1.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Colors","video-streaming-link":"https:\/\/koka-koka.vercel.app\/543.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=543","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-304-j5ji9otc-v2\/imageContent-304-j5ji9otc-m2.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Tata Play Javed Akhtar","video-streaming-link":"https:\/\/koka-koka.vercel.app\/95.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=95","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-65443-kty2tkwo-v2\/imageContent-65443-kty2tkwo-m2.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Tata Play Videshi Kahaniyan","video-streaming-link":"https:\/\/koka-koka.vercel.app\/943.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=943","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/TPCTV_Thumbnail-v4\/TPCTV_Thumbnail.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Tata Play Classic TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/964.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=964","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-475-j5jx44s8-v1\/imageContent-475-j5jx44s8-m1.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"UTV Bindass","video-streaming-link":"https:\/\/koka-koka.vercel.app\/142.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=142","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-70821-l3edt8uw-v1\/imageContent-70821-l3edt8uw-m3.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Tata Play Zindagi","video-streaming-link":"https:\/\/koka-koka.vercel.app\/986.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=986","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-49002-k5cch1cg-v2\/imageContent-49002-k5cch1cg-m5.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Investigation Discovery","video-streaming-link":"https:\/\/koka-koka.vercel.app\/633.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=633","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12285-ja1e8580-v3\/imageContent-12285-ja1e8580-m3.png\" group-title=\"Shopping","group-title":"Shopping","channel-name":"Naaptol","video-streaming-link":"https:\/\/koka-koka.vercel.app\/619.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=619","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-21303-je858doo-v2\/imageContent-21303-je858doo-m2.png\" group-title=\"Shopping","group-title":"Shopping","channel-name":"Ezmall","video-streaming-link":"https:\/\/koka-koka.vercel.app\/634.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=634","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12060-j9o91vfc-v2\/imageContent-12060-j9o91vfc-m2.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"STAR Utsav","video-streaming-link":"https:\/\/koka-koka.vercel.app\/551.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=551","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11969-j9luigc0-v2\/imageContent-11969-j9luigc0-m2.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Zee Anmol","video-streaming-link":"https:\/\/koka-koka.vercel.app\/523.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=523","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/RIS_Thumbnail-v3\/RIS_Thumbnail.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Colors Rishtey","video-streaming-link":"https:\/\/koka-koka.vercel.app\/438.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=438","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12071-j9oa4gbc-v5\/imageContent-12071-j9oa4gbc-m4.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Sony Pal","video-streaming-link":"https:\/\/koka-koka.vercel.app\/554.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=554","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-150-j5frd0jc-v3\/imageContent-150-j5frd0jc-m5.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"The Q","video-streaming-link":"https:\/\/koka-koka.vercel.app\/54.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=54","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11266-j9j2spmg-v1\/imageContent-11266-j9j2spmg-m1.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Big Magic","video-streaming-link":"https:\/\/koka-koka.vercel.app\/297.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=297","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-158-j5frd560-v2\/imageContent-158-j5frd560-m3.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Dangal","video-streaming-link":"https:\/\/koka-koka.vercel.app\/51.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=51","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-765-j5m2mbjk-v2\/imageContent-765-j5m2mbjk-m2.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Anjan TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/180.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=180","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-52945-ka1wdss8-v2\/imageContent-52945-ka1wdss8-m2.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Shemaroo TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/818.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=818","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-60986-klq1vs5s-v2\/imageContent-60986-klq1vs5s-m5.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Ishara","video-streaming-link":"https:\/\/koka-koka.vercel.app\/888.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=888","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/SHEUM_Thumbnail-v2\/SHEUM_Thumbnail.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Shemaroo UMANG","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1045.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1045","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11350-j9jpk8pk-v1\/imageContent-11350-j9jpk8pk-m1.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"DD Kisan","video-streaming-link":"https:\/\/koka-koka.vercel.app\/326.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=326","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-49809-k7454ppk-v3\/imageContent-49809-k7454ppk-m6.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Tata Play Hits","video-streaming-link":"https:\/\/koka-koka.vercel.app\/808.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=808","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-1577-j5xrm7fc-v1\/imageContent-1577-j5xrm7fc-m1.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Colors Infinity HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/187.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=187","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11296-j9j5ux7s-v2\/imageContent-11296-j9j5ux7s-m3.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Comedy Central HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/307.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=307","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11293-j9j5u4o0-v3\/imageContent-11293-j9j5u4o0-m2.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Comedy Central","video-streaming-link":"https:\/\/koka-koka.vercel.app\/306.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=306","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/WOMFRE_Thumbnail-v1\/WOMFRE_Thumbnail.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Woman","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1101.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1101","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-18305-jcqmvp7s-v1\/imageContent-18305-jcqmvp7s-m1.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Colors Infinity","video-streaming-link":"https:\/\/koka-koka.vercel.app\/544.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=544","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-43899-jyofyk1s-v4\/imageContent-43899-jyofyk1s-m4.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Tata Play Bollywood Premiere","video-streaming-link":"https:\/\/koka-koka.vercel.app\/486.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=486","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-48748-k4jbpl00-v2\/imageContent-48748-k4jbpl00-m3.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Tata Play Hollywood Local","video-streaming-link":"https:\/\/koka-koka.vercel.app\/789.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=789","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/SGHD_Thumbnail-v2\/SGHD_Thumbnail.png\" group-title=\"Movies","group-title":"Movies","channel-name":"STAR GOLD HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/245.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=245","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-19212-jd2xwa4w-v1\/imageContent-19212-jd2xwa4w-m1.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Star GOLD HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/632.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=632","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/BMSLA_Thumbnail-v2\/BMSLA_Thumbnail.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Tata Play Bollywood Masala","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1130.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1130","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-243-j5fyl2f4-v3\/imageContent-243-j5fyl2f4-m4.png\" group-title=\"Movies","group-title":"Movies","channel-name":"SONY MAX HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/80.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=80","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-441-j5jt3mmg-v3\/imageContent-441-j5jt3mmg-m3.png\" group-title=\"Movies","group-title":"Movies","channel-name":"SONY  MAX","video-streaming-link":"https:\/\/koka-koka.vercel.app\/132.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=132","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-44333-jz3hpme0-v4\/imageContent-44333-jz3hpme0-m8.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Tata Play Classic Cinema","video-streaming-link":"https:\/\/koka-koka.vercel.app\/741.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=741","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11915-j9l5clzs-v1\/imageContent-11915-j9l5clzs-m1.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Zee Cinema HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/503.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=503","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11027-j8yjr8k0-v1\/imageContent-11027-j8yjr8k0-m1.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Zee Cinema","video-streaming-link":"https:\/\/koka-koka.vercel.app\/123.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=123","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-31233-jli1wlvc-v1\/imageContent-31233-jli1wlvc-m1.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Zee Bollywood","video-streaming-link":"https:\/\/koka-koka.vercel.app\/175.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=175","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-42199-jxh2zlj4-v1\/imageContent-42199-jxh2zlj4-m1.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Zee Classic","video-streaming-link":"https:\/\/koka-koka.vercel.app\/727.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=727","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-31419-jmb48u74-v3\/imageContent-31419-jmb48u74-m4.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Tata Play Theatre HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/666.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=666","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11173-j9hth720-v1\/imageContent-11173-j9hth720-m1.png\" group-title=\"Movies","group-title":"Movies","channel-name":"&pictures HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/267.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=267","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-499-j5jydp7s-v1\/imageContent-499-j5jydp7s-m1.png\" group-title=\"Movies","group-title":"Movies","channel-name":"&pictures","video-streaming-link":"https:\/\/koka-koka.vercel.app\/148.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=148","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-34170-jok0hf00-v7\/imageContent-34170-jok0hf00-m8.PNG\" group-title=\"Movies","group-title":"Movies","channel-name":"Tata Play ShortsTV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/677.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=677","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-183-j5fsqz5c-v2\/imageContent-183-j5fsqz5c-m2.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Colors Cineplex HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/61.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=61","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-149-j5frd0jc-v2\/imageContent-149-j5frd0jc-m2.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Colors Cineplex","video-streaming-link":"https:\/\/koka-koka.vercel.app\/53.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=53","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/B4UKad_Thumbnail-v3\/B4UKad_Thumbnail.jpg\" group-title=\"Movies","group-title":"Movies","channel-name":"B4U Kadak","video-streaming-link":"https:\/\/koka-koka.vercel.app\/730.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=730","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11024-j8yix4g8-v1\/imageContent-11024-j8yix4g8-m1.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Zee Action","video-streaming-link":"https:\/\/koka-koka.vercel.app\/100.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=100","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-72254-l6dn8nco-v3\/imageContent-72254-l6dn8nco-m4.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Tata Play South Talkies","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1003.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1003","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-198-j5fsr7mw-v2\/imageContent-198-j5fsr7mw-m3.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Sony Wah","video-streaming-link":"https:\/\/koka-koka.vercel.app\/56.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=56","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-18-j5f9ui8g-v1\/imageContent-18-j5f9ui8g-m1.png\" group-title=\"Movies","group-title":"Movies","channel-name":"B4U Movies","video-streaming-link":"https:\/\/koka-koka.vercel.app\/7.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=7","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-402-j5jq1gko-v3\/imageContent-402-j5jq1gko-m4.png\" group-title=\"Movies","group-title":"Movies","channel-name":"SONY MAX 2","video-streaming-link":"https:\/\/koka-koka.vercel.app\/120.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=120","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-771-j5m3ayw0-v4\/imageContent-771-j5m3ayw0-m4.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Cinema TV India","video-streaming-link":"https:\/\/koka-koka.vercel.app\/182.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=182","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11200-j9i4gzig-v3\/imageContent-11200-j9i4gzig-m4.png\" group-title=\"Movies","group-title":"Movies","channel-name":"WoW Cinema One","video-streaming-link":"https:\/\/koka-koka.vercel.app\/276.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=276","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-798-j5m7esnc-v4\/imageContent-798-j5m7esnc-m11.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Dangal 2","video-streaming-link":"https:\/\/koka-koka.vercel.app\/194.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=194","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11263-j9j1tch4-v2\/imageContent-11263-j9j1tch4-m5.png\" group-title=\"Movies","group-title":"Movies","channel-name":"BFLIX","video-streaming-link":"https:\/\/koka-koka.vercel.app\/296.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=296","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11090-j95hdh6o-v1\/imageContent-11090-j95hdh6o-m1.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Zee Anmol Cinema","video-streaming-link":"https:\/\/koka-koka.vercel.app\/64.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=64","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/ABZYMovies_Thumbnail-v1\/ABZYMovies_Thumbnail.png\" group-title=\"Movies","group-title":"Movies","channel-name":"ABZY Movies","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1117.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1117","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-53943-kblsqraw-v3\/imageContent-53943-kblsqraw-m4.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Goldmines","video-streaming-link":"https:\/\/koka-koka.vercel.app\/823.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=823","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-43106-jxzlt6x4-v2\/imageContent-43106-jxzlt6x4-m7.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Manoranjan TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/731.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=731","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-67799-kx7m7rhc-v1\/imageContent-67799-kx7m7rhc-m2.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Manoranjan Grand","video-streaming-link":"https:\/\/koka-koka.vercel.app\/965.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=965","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-748-j5l5fnts-v1\/imageContent-748-j5l5fnts-m1.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Movies Now","video-streaming-link":"https:\/\/koka-koka.vercel.app\/173.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=173","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-71752-l5hqgxso-v2\/imageContent-71752-l5hqgxso-m1.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Colors Cineplex Bollywood","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1000.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1000","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-1017-j5ngpo2g-v1\/imageContent-1017-j5ngpo2g-m1.png\" group-title=\"Movies","group-title":"Movies","channel-name":"MNX","video-streaming-link":"https:\/\/koka-koka.vercel.app\/234.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=234","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/DHAMB4U_Thumbnail-v2\/DHAMB4U_Thumbnail.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Dhamaka Movies B4U","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1037.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1037","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-93-j5fjv614-v3\/imageContent-93-j5fjv614-m3.png\" group-title=\"Movies","group-title":"Movies","channel-name":"SONY PIX HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/32.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=32","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12080-j9obub60-v6\/imageContent-12080-j9obub60-m6.png\" group-title=\"Movies","group-title":"Movies","channel-name":"SONY PIX","video-streaming-link":"https:\/\/koka-koka.vercel.app\/558.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=558","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12095-j9ooixfs-v1\/imageContent-12095-j9ooixfs-m1.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Movies Now HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/562.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=562","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-826-j5m9kx5c-v1\/imageContent-826-j5m9kx5c-m1.png\" group-title=\"Movies","group-title":"Movies","channel-name":"MN+ HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/210.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=210","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12216-j9qm5hjs-v2\/imageContent-12216-j9qm5hjs-m2.png\" group-title=\"Movies","group-title":"Movies","channel-name":"MNX HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/599.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=599","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-751-j5l5kb9k-v3\/imageContent-751-j5l5kb9k-m3.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Romedy Now","video-streaming-link":"https:\/\/koka-koka.vercel.app\/174.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=174","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-941-j5mhk5fc-v1\/imageContent-941-j5mhk5fc-m1.png\" group-title=\"Sports","group-title":"Sports","channel-name":"DD Sports","video-streaming-link":"https:\/\/koka-koka.vercel.app\/223.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=223","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8301-j7hc0820-v1\/imageContent-8301-j7hc0820-m1.png\" group-title=\"Sports","group-title":"Sports","channel-name":"Star Sports 1 HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/78.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=78","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-1021-j5nj3c68-v1\/imageContent-1021-j5nj3c68-m1.png\" group-title=\"Sports","group-title":"Sports","channel-name":"Star Sports 2 HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/235.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=235","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-60-j5fdr6a0-v1\/imageContent-60-j5fdr6a0-m1.png\" group-title=\"Sports","group-title":"Sports","channel-name":"Star Sports 1 Hindi HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/24.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=24","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-7891-j75vq7k0-v1\/imageContent-7891-j75vq7k0-m1.PNG\" group-title=\"Sports","group-title":"Sports","channel-name":"Star Sports Select 1 HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/246.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=246","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11791-j9kyqpy8-v1\/imageContent-11791-j9kyqpy8-m1.png\" group-title=\"Sports","group-title":"Sports","channel-name":"Star Sports Select 2 HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/463.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=463","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-261-j5fz9bvk-v4\/imageContent-261-j5fz9bvk-m4.png\" group-title=\"Sports","group-title":"Sports","channel-name":"SONY SPORTS TEN 1 HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/81.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=81","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-513-j5jzouqw-v5\/imageContent-513-j5jzouqw-m7.png\" group-title=\"Sports","group-title":"Sports","channel-name":"SONY SPORTS TEN 1","video-streaming-link":"https:\/\/koka-koka.vercel.app\/150.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=150","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11784-j9kylfd4-v2\/imageContent-11784-j9kylfd4-m3.png\" group-title=\"Sports","group-title":"Sports","channel-name":"SONY SPORTS TEN 2 HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/462.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=462","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-742-j5l50le0-v5\/imageContent-742-j5l50le0-m7.png\" group-title=\"Sports","group-title":"Sports","channel-name":"SONY SPORTS TEN 2","video-streaming-link":"https:\/\/koka-koka.vercel.app\/170.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=170","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11787-j9kynnm0-v3\/imageContent-11787-j9kynnm0-m3.png\" group-title=\"Sports","group-title":"Sports","channel-name":"SONY SPORTS TEN 3 HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/464.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=464","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-739-j5l4y6yw-v5\/imageContent-739-j5l4y6yw-m5.png\" group-title=\"Sports","group-title":"Sports","channel-name":"SONY SPORTS TEN 3","video-streaming-link":"https:\/\/koka-koka.vercel.app\/171.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=171","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-108-j5fl5wwg-v3\/imageContent-108-j5fl5wwg-m3.png\" group-title=\"Sports","group-title":"Sports","channel-name":"SONY SPORTS TEN 5 HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/35.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=35","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-74232-la6z41u8-v3\/imageContent-74232-la6z41u8-m5.png\" group-title=\"Sports","group-title":"Sports","channel-name":"Sports 18 - 1 HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1033.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1033","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-70046-l21cybww-v2\/imageContent-70046-l21cybww-m5.png\" group-title=\"Sports","group-title":"Sports","channel-name":"Sports 18 - 1","video-streaming-link":"https:\/\/koka-koka.vercel.app\/980.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=980","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-52842-k980h8vc-v1\/imageContent-52842-k980h8vc-m2.png\" group-title=\"Sports","group-title":"Sports","channel-name":"Eurosport HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/812.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=812","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-35309-jqxwmcq0-v4\/imageContent-35309-jqxwmcq0-m4.png\" group-title=\"Sports","group-title":"Sports","channel-name":"Eurosport","video-streaming-link":"https:\/\/koka-koka.vercel.app\/693.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=693","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-52856-k984c4vc-v1\/imageContent-52856-k984c4vc-m1.png\" group-title=\"Sports","group-title":"Sports","channel-name":"1sports","video-streaming-link":"https:\/\/koka-koka.vercel.app\/815.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=815","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-34886-jqc7dybs-v2\/imageContent-34886-jqc7dybs-m2.png\" group-title=\"News","group-title":"News","channel-name":"DD News HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/691.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=691","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11333-j9joxlw8-v2\/imageContent-11333-j9joxlw8-m2.png\" group-title=\"News","group-title":"News","channel-name":"DD News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/322.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=322","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-759-j5m13014-v2\/imageContent-759-j5m13014-m3.png\" group-title=\"News","group-title":"News","channel-name":"ABP News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/177.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=177","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-47647-k2lbp2q8-v2\/imageContent-47647-k2lbp2q8-m2.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"Tata Play Seniors","video-streaming-link":"https:\/\/koka-koka.vercel.app\/783.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=783","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-483-j5jx9x48-v1\/imageContent-483-j5jx9x48-m1.png\" group-title=\"News","group-title":"News","channel-name":"NDTV India","video-streaming-link":"https:\/\/koka-koka.vercel.app\/179.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=179","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-34652-jpmey8gw-v1\/imageContent-34652-jpmey8gw-m1.png\" group-title=\"News","group-title":"News","channel-name":"Aaj Tak HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/689.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=689","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-537-j5kwkd88-v1\/imageContent-537-j5kwkd88-m1.png\" group-title=\"News","group-title":"News","channel-name":"Aaj Tak","video-streaming-link":"https:\/\/koka-koka.vercel.app\/153.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=153","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/HAGHAR_Thumbnail-v1\/HAGHAR_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"Tata Play Har Ghar Startup","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1056.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1056","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11110-j95ioyag-v1\/imageContent-11110-j95ioyag-m1.png\" group-title=\"News","group-title":"News","channel-name":"Zee News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/259.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=259","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-58613-kj283ly8-v2\/imageContent-58613-kj283ly8-m2.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Tata Play Astro Duniya","video-streaming-link":"https:\/\/koka-koka.vercel.app\/872.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=872","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8568-j7lnde80-v1\/imageContent-8568-j7lnde80-m1.png\" group-title=\"News","group-title":"News","channel-name":"India TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/104.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=104","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-849-j5m9tmf4-v1\/imageContent-849-j5m9tmf4-m1.png\" group-title=\"News","group-title":"News","channel-name":"News 24","video-streaming-link":"https:\/\/koka-koka.vercel.app\/209.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=209","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-64069-kra2o75k-v2\/imageContent-64069-kra2o75k-m2.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"Tata Play JEE Prep","video-streaming-link":"https:\/\/koka-koka.vercel.app\/929.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=929","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-64066-kra2j2qo-v2\/imageContent-64066-kra2j2qo-m2.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"Tata Play NEET Prep","video-streaming-link":"https:\/\/koka-koka.vercel.app\/928.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=928","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-339-j5jm6kko-v1\/imageContent-339-j5jm6kko-m1.png\" group-title=\"News","group-title":"News","channel-name":"News18 India","video-streaming-link":"https:\/\/koka-koka.vercel.app\/106.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=106","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11978-j9lum7d4-v1\/imageContent-11978-j9lum7d4-m1.png\" group-title=\"News","group-title":"News","channel-name":"Zee Hindustan","video-streaming-link":"https:\/\/koka-koka.vercel.app\/514.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=514","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-35599-jrm11j9c-v1\/imageContent-35599-jrm11j9c-m1.PNG\" group-title=\"Hindi","group-title":"Hindi","channel-name":"R Bharat","video-streaming-link":"https:\/\/koka-koka.vercel.app\/696.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=696","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-774-j5m3h6nk-v1\/imageContent-774-j5m3h6nk-m1.png\" group-title=\"News","group-title":"News","channel-name":"India News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/183.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=183","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-114-j5fl632o-v1\/imageContent-114-j5fl632o-m1.png\" group-title=\"News","group-title":"News","channel-name":"News Nation","video-streaming-link":"https:\/\/koka-koka.vercel.app\/36.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=36","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-67672-kwly0m4w-v1\/imageContent-67672-kwly0m4w-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"TV9 Bharatvarsh","video-streaming-link":"https:\/\/koka-koka.vercel.app\/706.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=706","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11859-j9l2n36w-v2\/imageContent-11859-j9l2n36w-m2.png\" group-title=\"News","group-title":"News","channel-name":"TOTAL TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/485.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=485","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-64606-krslbshs-v1\/imageContent-64606-krslbshs-m2.png\" group-title=\"News","group-title":"News","channel-name":"Times Now Navbharat HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/932.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=932","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-67796-kx7lokw8-v2\/imageContent-67796-kx7lokw8-m4.png\" group-title=\"News","group-title":"News","channel-name":"Times Now Navbharat","video-streaming-link":"https:\/\/koka-koka.vercel.app\/966.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=966","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-55547-kdzeosow-v3\/imageContent-55547-kdzeosow-m6.png\" group-title=\"News","group-title":"News","channel-name":"News India 24x7","video-streaming-link":"https:\/\/koka-koka.vercel.app\/831.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=831","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/BH24_Thumbnail-v3\/BH24_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"Bharat 24","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1010.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1010","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-72980-l8fn3f28-v2\/imageContent-72980-l8fn3f28-m4.png\" group-title=\"News","group-title":"News","channel-name":"Surya Samachar","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1031.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1031","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11831-j9kzkn40-v1\/imageContent-11831-j9kzkn40-m1.png\" group-title=\"News","group-title":"News","channel-name":"Sudarshan News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/475.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=475","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/BHEXP_Thumbnail-v2\/BHEXP_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"Bharat Express","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1051.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1051","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/INDLive_Thumbnail-v1\/INDLive_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"India Daily Live","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1084.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1084","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/DSNEW_Thumbnail-v5\/DSNEW_Thumbnail.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Desh News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1161.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1161","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-17573-jclve4rc-v1\/imageContent-17573-jclve4rc-m1.png\" group-title=\"News","group-title":"News","channel-name":"APN News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/286.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=286","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-66223-ku9gfjug-v1\/imageContent-66223-ku9gfjug-m1.png\" group-title=\"News","group-title":"News","channel-name":"ET Now Swadesh","video-streaming-link":"https:\/\/koka-koka.vercel.app\/950.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=950","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-34516-jp9bj0qg-v4\/imageContent-34516-jp9bj0qg-m4.png\" group-title=\"News","group-title":"News","channel-name":"India Voice","video-streaming-link":"https:\/\/koka-koka.vercel.app\/685.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=685","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11634-j9k0pbr4-v1\/imageContent-11634-j9k0pbr4-m1.png\" group-title=\"News","group-title":"News","channel-name":"News 1 India","video-streaming-link":"https:\/\/koka-koka.vercel.app\/414.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=414","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11467-j9jr3k80-v2\/imageContent-11467-j9jr3k80-m2.png\" group-title=\"News","group-title":"News","channel-name":"Hindi Khabar","video-streaming-link":"https:\/\/koka-koka.vercel.app\/344.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=344","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11243-j9itj54w-v2\/imageContent-11243-j9itj54w-m2.png\" group-title=\"News","group-title":"News","channel-name":"Bharat Samachar","video-streaming-link":"https:\/\/koka-koka.vercel.app\/291.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=291","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11527-j9jtx9hk-v2\/imageContent-11527-j9jtx9hk-m2.png\" group-title=\"News","group-title":"News","channel-name":"Khabarain Abhi Tak","video-streaming-link":"https:\/\/koka-koka.vercel.app\/384.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=384","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11719-j9ktg6ds-v2\/imageContent-11719-j9ktg6ds-m2.png\" group-title=\"News","group-title":"News","channel-name":"Samay","video-streaming-link":"https:\/\/koka-koka.vercel.app\/441.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=441","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-56488-kfgbqzso-v3\/imageContent-56488-kfgbqzso-m5.png\" group-title=\"News","group-title":"News","channel-name":"Network 10","video-streaming-link":"https:\/\/koka-koka.vercel.app\/848.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=848","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-37210-jswmlty0-v2\/imageContent-37210-jswmlty0-m2.PNG\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Jantantra TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/701.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=701","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-58484-kixj8h6o-v3\/imageContent-58484-kixj8h6o-m2.png\" group-title=\"News","group-title":"News","channel-name":"Prime News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/869.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=869","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-70993-l3v760zc-v1\/imageContent-70993-l3v760zc-m4.png\" group-title=\"News","group-title":"News","channel-name":"Har Khabar","video-streaming-link":"https:\/\/koka-koka.vercel.app\/988.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=988","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/FNEWS_Thumbnail-v2\/FNEWS_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"FM News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/784.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=784","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11120-j95jyuao-v1\/imageContent-11120-j95jyuao-m1.png\" group-title=\"News","group-title":"News","channel-name":"Zee Business","video-streaming-link":"https:\/\/koka-koka.vercel.app\/260.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=260","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11206-j9icarsw-v2\/imageContent-11206-j9icarsw-m2.png\" group-title=\"News","group-title":"News","channel-name":"Good News Today","video-streaming-link":"https:\/\/koka-koka.vercel.app\/278.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=278","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-846-j5m9p55k-v1\/imageContent-846-j5m9p55k-m1.png\" group-title=\"News","group-title":"News","channel-name":"CNBC Awaaz","video-streaming-link":"https:\/\/koka-koka.vercel.app\/204.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=204","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-825-j5m9c6c0-v2\/imageContent-825-j5m9c6c0-m2.png\" group-title=\"News","group-title":"News","channel-name":"Sansad TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/213.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=213","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-858-j5ma94ag-v2\/imageContent-858-j5ma94ag-m2.png\" group-title=\"News","group-title":"News","channel-name":"Sansad TV - Rajya Sabha","video-streaming-link":"https:\/\/koka-koka.vercel.app\/212.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=212","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-834-j5m9nrrs-v1\/imageContent-834-j5m9nrrs-m1.png\" group-title=\"News","group-title":"News","channel-name":"NDTV 24x7","video-streaming-link":"https:\/\/koka-koka.vercel.app\/208.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=208","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11853-j9l1tvhs-v4\/imageContent-11853-j9l1tvhs-m5.png\" group-title=\"News","group-title":"News","channel-name":"Times Now World","video-streaming-link":"https:\/\/koka-koka.vercel.app\/547.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=547","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-303-j5ji8zco-v3\/imageContent-303-j5ji8zco-m3.png\" group-title=\"News","group-title":"News","channel-name":"TIMES NOW","video-streaming-link":"https:\/\/koka-koka.vercel.app\/90.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=90","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-3-j5dkuhwo-v1\/imageContent-3-j5dkuhwo-m2.png\" group-title=\"News","group-title":"News","channel-name":"INDIA TODAY","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-843-j5m9oyzc-v1\/imageContent-843-j5m9oyzc-m1.png\" group-title=\"News","group-title":"News","channel-name":"CNN News18","video-streaming-link":"https:\/\/koka-koka.vercel.app\/206.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=206","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8012-j7a2doxc-v1\/imageContent-8012-j7a2doxc-m1.png\" group-title=\"English News","group-title":"English News","channel-name":"NewsX","video-streaming-link":"https:\/\/koka-koka.vercel.app\/189.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=189","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12189-j9plqlf4-v1\/imageContent-12189-j9plqlf4-m1.png\" group-title=\"News","group-title":"News","channel-name":"MIRROR NOW","video-streaming-link":"https:\/\/koka-koka.vercel.app\/591.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=591","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-9000-j7rkz0m0-v1\/imageContent-9000-j7rkz0m0-m1.png\" group-title=\"News","group-title":"News","channel-name":"WION","video-streaming-link":"https:\/\/koka-koka.vercel.app\/255.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=255","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-231-j5fxh0ag-v1\/imageContent-231-j5fxh0ag-m1.png\" group-title=\"News","group-title":"News","channel-name":"REPUBLIC TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/72.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=72","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11284-j9j4sn4o-v2\/imageContent-11284-j9j4sn4o-m2.png\" group-title=\"News","group-title":"News","channel-name":"CNBC TV18 Prime HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/304.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=304","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11344-j9jpg7nc-v1\/imageContent-11344-j9jpg7nc-m1.png\" group-title=\"News","group-title":"News","channel-name":"DD India","video-streaming-link":"https:\/\/koka-koka.vercel.app\/324.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=324","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-294-j5ji8n08-v1\/imageContent-294-j5ji8n08-m1.png\" group-title=\"News","group-title":"News","channel-name":"NDTV Profit Prime","video-streaming-link":"https:\/\/koka-koka.vercel.app\/93.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=93","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-6-j5f5oyqw-v2\/imageContent-6-j5f5oyqw-m2.png\" group-title=\"Lifestyle","group-title":"Lifestyle","channel-name":"Travel XP - 4K","video-streaming-link":"https:\/\/koka-koka.vercel.app\/2.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=2","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-731-j5l3muhs-v1\/imageContent-731-j5l3muhs-m1.png\" group-title=\"News","group-title":"News","channel-name":"CNBC-TV18","video-streaming-link":"https:\/\/koka-koka.vercel.app\/168.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=168","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-6904-j6vreaps-v1\/imageContent-6904-j6vreaps-m1.png\" group-title=\"News","group-title":"News","channel-name":"ET NOW","video-streaming-link":"https:\/\/koka-koka.vercel.app\/88.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=88","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-4154-j69pdmvk-v1\/imageContent-4154-j69pdmvk-m1.png\" group-title=\"News","group-title":"News","channel-name":"CNN","video-streaming-link":"https:\/\/koka-koka.vercel.app\/243.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=243","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/BBCWNW_Thumbnail-v3\/BBCWNW_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"BBC News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/188.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=188","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-789-j5m5m0uw-v1\/imageContent-789-j5m5m0uw-m1.png\" group-title=\"News","group-title":"News","channel-name":"Al Jazeera","video-streaming-link":"https:\/\/koka-koka.vercel.app\/190.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=190","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-548-j5kxtaig-v1\/imageContent-548-j5kxtaig-m1.png\" group-title=\"News","group-title":"News","channel-name":"Channel News Asia","video-streaming-link":"https:\/\/koka-koka.vercel.app\/157.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=157","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-435-j5jsyz6o-v1\/imageContent-435-j5jsyz6o-m1.png\" group-title=\"News","group-title":"News","channel-name":"France 24","video-streaming-link":"https:\/\/koka-koka.vercel.app\/131.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=131","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-204-j5ftndtc-v1\/imageContent-204-j5ftndtc-m1.png\" group-title=\"News","group-title":"News","channel-name":"TV5 Monde Asie","video-streaming-link":"https:\/\/koka-koka.vercel.app\/65.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=65","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-186-j5fsr1go-v1\/imageContent-186-j5fsr1go-m1.png\" group-title=\"News","group-title":"News","channel-name":"DW","video-streaming-link":"https:\/\/koka-koka.vercel.app\/60.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=60","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-324-j5jl5hp4-v2\/imageContent-324-j5jl5hp4-m2.png\" group-title=\"News","group-title":"News","channel-name":"Australia TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/105.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=105","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-312-j5jjsfhs-v1\/imageContent-312-j5jjsfhs-m1.png\" group-title=\"News","group-title":"News","channel-name":"Russia Today","video-streaming-link":"https:\/\/koka-koka.vercel.app\/98.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=98","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-69827-l1dh5izk-v1\/imageContent-69827-l1dh5izk-m1.png\" group-title=\"News","group-title":"News","channel-name":"NHK World Japan","video-streaming-link":"https:\/\/koka-koka.vercel.app\/976.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=976","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-35365-jr3xz4uo-v5\/imageContent-35365-jr3xz4uo-m6.png\" group-title=\"Kids","group-title":"Kids","channel-name":"Super Hungama","video-streaming-link":"https:\/\/koka-koka.vercel.app\/587.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=587","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-1356-j5tdnwmw-v1\/imageContent-1356-j5tdnwmw-m1.png\" group-title=\"Kids","group-title":"Kids","channel-name":"Disney","video-streaming-link":"https:\/\/koka-koka.vercel.app\/114.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=114","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-25721-jia4i70o-v2\/imageContent-25721-jia4i70o-m3.PNG\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"Tata Play English in Hindi","video-streaming-link":"https:\/\/koka-koka.vercel.app\/71.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=71","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11658-j9k5lvgo-v1\/imageContent-11658-j9k5lvgo-m1.png\" group-title=\"Kids","group-title":"Kids","channel-name":"Nick HD+","video-streaming-link":"https:\/\/koka-koka.vercel.app\/433.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=433","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-465-j5jw9va0-v1\/imageContent-465-j5jw9va0-m1.png\" group-title=\"Kids","group-title":"Kids","channel-name":"Nick","video-streaming-link":"https:\/\/koka-koka.vercel.app\/138.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=138","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-13094-jbdzlsfs-v2\/imageContent-13094-jbdzlsfs-m2.png\" group-title=\"Kids","group-title":"Kids","channel-name":"Tata Play Fun Learn Preschool","video-streaming-link":"https:\/\/koka-koka.vercel.app\/626.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=626","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-13097-jbdzn9og-v2\/imageContent-13097-jbdzn9og-m2.png\" group-title=\"Kids","group-title":"Kids","channel-name":"Tata Play Fun Learn Junior","video-streaming-link":"https:\/\/koka-koka.vercel.app\/627.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=627","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-34164-jok06xoo-v1\/imageContent-34164-jok06xoo-m1.png\" group-title=\"Kids","group-title":"Kids","channel-name":"Cartoon Network HD+","video-streaming-link":"https:\/\/koka-koka.vercel.app\/681.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=681","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11161-j99h67u8-v1\/imageContent-11161-j99h67u8-m1.png\" group-title=\"Kids","group-title":"Kids","channel-name":"Cartoon Network","video-streaming-link":"https:\/\/koka-koka.vercel.app\/238.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=238","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-2694-j638bugw-v1\/imageContent-2694-j638bugw-m1.png\" group-title=\"Kids","group-title":"Kids","channel-name":"Pogo","video-streaming-link":"https:\/\/koka-koka.vercel.app\/239.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=239","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-24724-jgvwokqw-v1\/imageContent-24724-jgvwokqw-m1.png\" group-title=\"Kids","group-title":"Kids","channel-name":"Discovery Kids","video-streaming-link":"https:\/\/koka-koka.vercel.app\/119.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=119","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8018-j7a7n1a8-v1\/imageContent-8018-j7a7n1a8-m1.png\" group-title=\"Kids","group-title":"Kids","channel-name":"Sonic Nickelodeon","video-streaming-link":"https:\/\/koka-koka.vercel.app\/127.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=127","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-132-j5fpedbs-v4\/imageContent-132-j5fpedbs-m6.png\" group-title=\"Kids","group-title":"Kids","channel-name":"SONY YAY!","video-streaming-link":"https:\/\/koka-koka.vercel.app\/45.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=45","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-71550-l4zi50uw-v2\/imageContent-71550-l4zi50uw-m5.png\" group-title=\"Kids","group-title":"Kids","channel-name":"Tata Play Toons+","video-streaming-link":"https:\/\/koka-koka.vercel.app\/994.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=994","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-57985-khvdchrs-v2\/imageContent-57985-khvdchrs-m2.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Gubbare","video-streaming-link":"https:\/\/koka-koka.vercel.app\/867.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=867","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-62236-kny7yzaw-v1\/imageContent-62236-kny7yzaw-m1.png\" group-title=\"Kids","group-title":"Kids","channel-name":"ETV Bal Bharat","video-streaming-link":"https:\/\/koka-koka.vercel.app\/905.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=905","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-390-j5jpps1s-v1\/imageContent-390-j5jpps1s-m1.png\" group-title=\"Kids","group-title":"Kids","channel-name":"Nick Jr","video-streaming-link":"https:\/\/koka-koka.vercel.app\/118.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=118","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-35368-jr3xz7xs-v1\/imageContent-35368-jr3xz7xs-m1.png\" group-title=\"Kids","group-title":"Kids","channel-name":"Disney Junior","video-streaming-link":"https:\/\/koka-koka.vercel.app\/144.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=144","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-52868-k9af4lxs-v1\/imageContent-52868-k9af4lxs-m1.png\" group-title=\"Kids","group-title":"Kids","channel-name":"CBeeBies","video-streaming-link":"https:\/\/koka-koka.vercel.app\/816.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=816","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-352-j5jmrkqw-v2\/imageContent-352-j5jmrkqw-m2.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"Tata Play Smart Manager","video-streaming-link":"https:\/\/koka-koka.vercel.app\/111.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=111","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-703-j5l1wgco-v2\/imageContent-703-j5l1wgco-m2.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"Tata Play Vedic Maths","video-streaming-link":"https:\/\/koka-koka.vercel.app\/167.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=167","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12234-j9qoqc54-v1\/imageContent-12234-j9qoqc54-m1.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"National Geographic HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/605.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=605","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-462-j5jw44hk-v2\/imageContent-462-j5jw44hk-m3.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"National Geographic","video-streaming-link":"https:\/\/koka-koka.vercel.app\/137.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=137","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11631-j9k0ndjc-v1\/imageContent-11631-j9k0ndjc-m1.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"Nat Geo Wild HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/413.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=413","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-438-j5jt26xc-v2\/imageContent-438-j5jt26xc-m2.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"Nat Geo Wild","video-streaming-link":"https:\/\/koka-koka.vercel.app\/184.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=184","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11396-j9jq7jg0-v1\/imageContent-11396-j9jq7jg0-m1.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"Discovery HD World","video-streaming-link":"https:\/\/koka-koka.vercel.app\/341.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=341","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-876-j5mcolzc-v2\/imageContent-876-j5mcolzc-m2.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"Discovery Channel","video-streaming-link":"https:\/\/koka-koka.vercel.app\/219.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=219","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-44915-jzuyh3w0-v1\/imageContent-44915-jzuyh3w0-m1.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"Animal Planet HD World","video-streaming-link":"https:\/\/koka-koka.vercel.app\/287.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=287","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-432-j5jsx754-v4\/imageContent-432-j5jsx754-m4.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"Animal Planet","video-streaming-link":"https:\/\/koka-koka.vercel.app\/130.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=130","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-369-j5jo9i3s-v1\/imageContent-369-j5jo9i3s-m1.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"Discovery Science","video-streaming-link":"https:\/\/koka-koka.vercel.app\/113.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=113","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12267-j9qx2si0-v3\/imageContent-12267-j9qx2si0-m3.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"History TV18 HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/616.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=616","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-745-j5l54bnc-v2\/imageContent-745-j5l54bnc-m2.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"History TV18","video-streaming-link":"https:\/\/koka-koka.vercel.app\/172.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=172","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11779-j9kx7rk0-v3\/imageContent-11779-j9kx7rk0-m4.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"SONY BBC Earth HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/460.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=460","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-551-j5ky7ufk-v5\/imageContent-551-j5ky7ufk-m7.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"SONY BBC Earth","video-streaming-link":"https:\/\/koka-koka.vercel.app\/158.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=158","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-63764-kr1kzw28-v2\/imageContent-63764-kr1kzw28-m2.png\" group-title=\"Lifestyle","group-title":"Lifestyle","channel-name":"TravelXP 4K HDR","video-streaming-link":"https:\/\/koka-koka.vercel.app\/923.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=923","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8017-j7a4nf20-v1\/imageContent-8017-j7a4nf20-m1.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"EPIC","video-streaming-link":"https:\/\/koka-koka.vercel.app\/126.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=126","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11429-j9jqu3y0-v1\/imageContent-11429-j9jqu3y0-m1.png\" group-title=\"Lifestyle","group-title":"Lifestyle","channel-name":"FOX Life HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/367.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=367","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-23855-jg9jt83c-v2\/imageContent-23855-jg9jt83c-m8.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"DD Gyan Darshan","video-streaming-link":"https:\/\/koka-koka.vercel.app\/646.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=646","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11858-j9l1v6k8-v3\/imageContent-11858-j9l1v6k8-m4.png\" group-title=\"Lifestyle","group-title":"Lifestyle","channel-name":"TLC HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/480.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=480","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-453-j5jtup5s-v2\/imageContent-453-j5jtup5s-m2.png\" group-title=\"Lifestyle","group-title":"Lifestyle","channel-name":"TLC","video-streaming-link":"https:\/\/koka-koka.vercel.app\/135.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=135","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-42020-jxb7qjw8-v1\/imageContent-42020-jxb7qjw8-m1.png\" group-title=\"Lifestyle","group-title":"Lifestyle","channel-name":"GOOD TiMES","video-streaming-link":"https:\/\/koka-koka.vercel.app\/136.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=136","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-967-j5mr8tw8-v1\/imageContent-967-j5mr8tw8-m1.png\" group-title=\"Lifestyle","group-title":"Lifestyle","channel-name":"Discovery Turbo","video-streaming-link":"https:\/\/koka-koka.vercel.app\/228.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=228","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11862-j9l2p61c-v1\/imageContent-11862-j9l2p61c-m1.png\" group-title=\"Lifestyle","group-title":"Lifestyle","channel-name":"Travelxp HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/484.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=484","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-157-j5frd4e8-v1\/imageContent-157-j5frd4e8-m1.png\" group-title=\"Lifestyle","group-title":"Lifestyle","channel-name":"Travelxp","video-streaming-link":"https:\/\/koka-koka.vercel.app\/55.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=55","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-384-j5jpj9hc-v1\/imageContent-384-j5jpj9hc-m1.png\" group-title=\"Lifestyle","group-title":"Lifestyle","channel-name":"Food Food","video-streaming-link":"https:\/\/koka-koka.vercel.app\/117.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=117","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-959-j5mipsnk-v1\/imageContent-959-j5mipsnk-m1.png\" group-title=\"Lifestyle","group-title":"Lifestyle","channel-name":"Fashion TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/227.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=227","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-44321-jz2zb8pk-v3\/imageContent-44321-jz2zb8pk-m3.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Tata Play Ibaadat","video-streaming-link":"https:\/\/koka-koka.vercel.app\/735.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=735","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11610-j9jzore8-v2\/imageContent-11610-j9jzore8-m2.png\" group-title=\"Music","group-title":"Music","channel-name":"MTV HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/406.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=406","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-330-j5jl5on4-v2\/imageContent-330-j5jl5on4-m2.png\" group-title=\"Music","group-title":"Music","channel-name":"MTV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/103.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=103","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-468-j5jwdbi8-v1\/imageContent-468-j5jwdbi8-m1.png\" group-title=\"Music","group-title":"Music","channel-name":"9XM","video-streaming-link":"https:\/\/koka-koka.vercel.app\/139.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=139","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-24696-jgrq09a8-v1\/imageContent-24696-jgrq09a8-m1.png\" group-title=\"Music","group-title":"Music","channel-name":"Zoom","video-streaming-link":"https:\/\/koka-koka.vercel.app\/96.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=96","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-946-j5mip6a0-v1\/imageContent-946-j5mip6a0-m1.png\" group-title=\"Music","group-title":"Music","channel-name":"E24","video-streaming-link":"https:\/\/koka-koka.vercel.app\/224.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=224","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11607-j9jznhvc-v1\/imageContent-11607-j9jznhvc-m1.png\" group-title=\"Music","group-title":"Music","channel-name":"MTV Beats HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/405.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=405","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-1018-j5nhzme0-v1\/imageContent-1018-j5nhzme0-m1.png\" group-title=\"Music","group-title":"Music","channel-name":"MTV Beats","video-streaming-link":"https:\/\/koka-koka.vercel.app\/236.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=236","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-24-j5fb33y0-v1\/imageContent-24-j5fb33y0-m1.png\" group-title=\"Music","group-title":"Music","channel-name":"B4U Music","video-streaming-link":"https:\/\/koka-koka.vercel.app\/9.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=9","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-57-j5fdr2f4-v1\/imageContent-57-j5fdr2f4-m1.png\" group-title=\"Music","group-title":"Music","channel-name":"Mastiii","video-streaming-link":"https:\/\/koka-koka.vercel.app\/17.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=17","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11993-j9luua9c-v1\/imageContent-11993-j9luua9c-m1.png\" group-title=\"Music","group-title":"Music","channel-name":"Zing","video-streaming-link":"https:\/\/koka-koka.vercel.app\/517.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=517","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-102-j5fl5pyg-v1\/imageContent-102-j5fl5pyg-m1.png\" group-title=\"Music","group-title":"Music","channel-name":"9X Jalwa","video-streaming-link":"https:\/\/koka-koka.vercel.app\/39.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=39","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-44228-jyzbtse0-v1\/imageContent-44228-jyzbtse0-m1.png\" group-title=\"Music","group-title":"Music","channel-name":"Showbox","video-streaming-link":"https:\/\/koka-koka.vercel.app\/733.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=733","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12030-j9nyctjk-v3\/imageContent-12030-j9nyctjk-m5.png\" group-title=\"Music","group-title":"Music","channel-name":"VH1 HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/539.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=539","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-105-j5fl5t1k-v1\/imageContent-105-j5fl5t1k-m1.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Aastha","video-streaming-link":"https:\/\/koka-koka.vercel.app\/38.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=38","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-123-j5fnf1fc-v1\/imageContent-123-j5fnf1fc-m1.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Sanskar","video-streaming-link":"https:\/\/koka-koka.vercel.app\/43.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=43","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11725-j9kw030w-v4\/imageContent-11725-j9kw030w-m4.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Paras Gold One","video-streaming-link":"https:\/\/koka-koka.vercel.app\/446.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=446","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11590-j9jyx4so-v1\/imageContent-11590-j9jyx4so-m1.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"MH One Shraddha","video-streaming-link":"https:\/\/koka-koka.vercel.app\/397.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=397","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11746-j9kwfmfs-v2\/imageContent-11746-j9kwfmfs-m2.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Sadhna TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/447.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=447","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11547-j9ju62m8-v3\/imageContent-11547-j9ju62m8-m3.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Sharnam TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/385.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=385","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11664-j9kcouh4-v1\/imageContent-11664-j9kcouh4-m1.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Peace of Mind","video-streaming-link":"https:\/\/koka-koka.vercel.app\/420.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=420","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11507-j9jto5k0-v1\/imageContent-11507-j9jto5k0-m1.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Jinvani Channel","video-streaming-link":"https:\/\/koka-koka.vercel.app\/373.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=373","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/ARIH_Thumbnail-v2\/ARIH_Thumbnail.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Dharma Sandesh","video-streaming-link":"https:\/\/koka-koka.vercel.app\/288.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=288","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12196-j9q3ez54-v1\/imageContent-12196-j9q3ez54-m1.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Ishwar TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/594.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=594","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11767-j9kwretk-v1\/imageContent-11767-j9kwretk-m1.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Satsang TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/456.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=456","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11775-j9kwuk8w-v1\/imageContent-11775-j9kwuk8w-m1.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Shubh TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/458.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=458","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11212-j9icd8jc-v1\/imageContent-11212-j9icd8jc-m1.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Aastha Bhajan","video-streaming-link":"https:\/\/koka-koka.vercel.app\/283.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=283","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11903-j9l4wxy8-v1\/imageContent-11903-j9l4wxy8-m1.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Vedic","video-streaming-link":"https:\/\/koka-koka.vercel.app\/500.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=500","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-43103-jxzlrb0o-v2\/imageContent-43103-jxzlrb0o-m2.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Subharti TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/728.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=728","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11408-j9jqmlvs-v6\/imageContent-11408-j9jqmlvs-m4.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"DIVYA","video-streaming-link":"https:\/\/koka-koka.vercel.app\/775.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=775","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-65100-kspm2814-v1\/imageContent-65100-kspm2814-m2.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Awakening","video-streaming-link":"https:\/\/koka-koka.vercel.app\/935.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=935","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-62610-koxujv2g-v2\/imageContent-62610-koxujv2g-m3.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Santwani","video-streaming-link":"https:\/\/koka-koka.vercel.app\/911.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=911","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-69024-kzo68h3c-v1\/imageContent-69024-kzo68h3c-m1.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Aadinath TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/969.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=969","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/SA24x7_Thumbnail-v2\/SA24x7_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"Sanskriti 24x7","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1119.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1119","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/HareKrsna_Thumbnail-v1\/HareKrsna_Thumbnail.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Hare Krsna","video-streaming-link":"https:\/\/koka-koka.vercel.app\/837.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=837","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-42-j5fc9b8g-v3\/imageContent-42-j5fc9b8g-m3.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Zee Ganga","video-streaming-link":"https:\/\/koka-koka.vercel.app\/12.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=12","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-69027-kzo69re0-v1\/imageContent-69027-kzo69re0-m2.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"MH One Dil Se","video-streaming-link":"https:\/\/koka-koka.vercel.app\/970.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=970","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-52853-k982u9ts-v1\/imageContent-52853-k982u9ts-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Zee Biskope","video-streaming-link":"https:\/\/koka-koka.vercel.app\/814.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=814","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-55553-kdzetu0o-v3\/imageContent-55553-kdzetu0o-m8.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Filamchi Bhojpuri","video-streaming-link":"https:\/\/koka-koka.vercel.app\/830.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=830","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-768-j5m31cfs-v1\/imageContent-768-j5m31cfs-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Bhojpuri Cinema","video-streaming-link":"https:\/\/koka-koka.vercel.app\/181.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=181","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/OSMOV_Thumbnail-v3\/OSMOV_Thumbnail.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Oscar Movies Bhojpuri.","video-streaming-link":"https:\/\/koka-koka.vercel.app\/431.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=431","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-43109-jxzlyrjc-v1\/imageContent-43109-jxzlyrjc-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"B4U Bhojpuri","video-streaming-link":"https:\/\/koka-koka.vercel.app\/729.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=729","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-62150-knicubns-v2\/imageContent-62150-knicubns-m2.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Pasand","video-streaming-link":"https:\/\/koka-koka.vercel.app\/899.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=899","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/RPCHK_Thumbnail-v2\/RPCHK_Thumbnail.png\" group-title=\"Movies","group-title":"Movies","channel-name":"Raapchik","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1165.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1165","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-23223-jeyhnzfs-v1\/imageContent-23223-jeyhnzfs-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"News18 Uttar Pradesh Uttarakhand","video-streaming-link":"https:\/\/koka-koka.vercel.app\/79.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=79","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-56320-kf6aheeo-v2\/imageContent-56320-kf6aheeo-m3.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Kashish News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/838.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=838","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-21315-je85i72w-v1\/imageContent-21315-je85i72w-m5.png\" group-title=\"News","group-title":"News","channel-name":"Zee Uttar Pradesh Uttarakhand","video-streaming-link":"https:\/\/koka-koka.vercel.app\/637.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=637","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-23206-jey39grs-v1\/imageContent-23206-jey39grs-m2.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"News18 Bihar Jharkhand","video-streaming-link":"https:\/\/koka-koka.vercel.app\/166.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=166","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11140-j96syfuo-v1\/imageContent-11140-j96syfuo-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Zee Bihar Jharkhand","video-streaming-link":"https:\/\/koka-koka.vercel.app\/20.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=20","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-74233-la71l5eg-v4\/imageContent-74233-la71l5eg-m5.png\" group-title=\"News","group-title":"News","channel-name":"News State Bihar Jharkhand","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1034.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1034","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-9007-j7ss7x80-v1\/imageContent-9007-j7ss7x80-m1.png\" group-title=\"News","group-title":"News","channel-name":"India News UP UK","video-streaming-link":"https:\/\/koka-koka.vercel.app\/30.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=30","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12252-j9qrkgu8-v3\/imageContent-12252-j9qrkgu8-m2.png\" group-title=\"News","group-title":"News","channel-name":"News State UP Uttarakhand","video-streaming-link":"https:\/\/koka-koka.vercel.app\/613.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=613","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-55124-kd89b0f4-v1\/imageContent-55124-kd89b0f4-m4.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Sadhna Plus News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/827.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=827","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-69315-l02nqy9k-v1\/imageContent-69315-l02nqy9k-m6.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Sahara Samay UP-UKD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/973.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=973","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/DDBH_Thumbnail-v2\/DDBH_Thumbnail.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"DD Bharati","video-streaming-link":"https:\/\/koka-koka.vercel.app\/316.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=316","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11389-j9jq2ybk-v1\/imageContent-11389-j9jq2ybk-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"DD Uttar Pradesh","video-streaming-link":"https:\/\/koka-koka.vercel.app\/339.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=339","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11321-j9jlxaz4-v1\/imageContent-11321-j9jlxaz4-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"DD Bihar","video-streaming-link":"https:\/\/koka-koka.vercel.app\/317.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=317","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-23266-jez523so-v1\/imageContent-23266-jez523so-m2.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"News18 Madhya Pradesh Chhattisgarh","video-streaming-link":"https:\/\/koka-koka.vercel.app\/203.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=203","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11981-j9lunvjs-v1\/imageContent-11981-j9lunvjs-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Zee Madhya Pradesh Chattisgarh","video-streaming-link":"https:\/\/koka-koka.vercel.app\/512.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=512","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-78-j5fikkk8-v1\/imageContent-78-j5fikkk8-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"IBC 24","video-streaming-link":"https:\/\/koka-koka.vercel.app\/27.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=27","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-25494-ji1a6ym0-v2\/imageContent-25494-ji1a6ym0-m2.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Bansal News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/652.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=652","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-35622-jrr5mvig-v1\/imageContent-35622-jrr5mvig-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"INH 24X7","video-streaming-link":"https:\/\/koka-koka.vercel.app\/698.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=698","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8971-j7rffd40-v1\/imageContent-8971-j7rffd40-m1.png\" group-title=\"News","group-title":"News","channel-name":"India News MP CG","video-streaming-link":"https:\/\/koka-koka.vercel.app\/222.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=222","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-31191-jldnwhhs-v1\/imageContent-31191-jldnwhhs-m1.png\" group-title=\"News","group-title":"News","channel-name":"News State MP CG","video-streaming-link":"https:\/\/koka-koka.vercel.app\/643.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=643","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12143-j9p7vx9c-v1\/imageContent-12143-j9p7vx9c-m1.png\" group-title=\"News","group-title":"News","channel-name":"Swaraj Express SMBC","video-streaming-link":"https:\/\/koka-koka.vercel.app\/577.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=577","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-55112-kd88u9so-v1\/imageContent-55112-kd88u9so-m2.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Sadhna News MP CG","video-streaming-link":"https:\/\/koka-koka.vercel.app\/829.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=829","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-62181-knrp5974-v1\/imageContent-62181-knrp5974-m1.png\" group-title=\"News","group-title":"News","channel-name":"News 24 Madhyapradesh Chattisgarh","video-streaming-link":"https:\/\/koka-koka.vercel.app\/902.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=902","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-65108-ksr7d028-v1\/imageContent-65108-ksr7d028-m2.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Anaadi TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/937.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=937","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-71503-l4su2elk-v2\/imageContent-71503-l4su2elk-m7.png\" group-title=\"News","group-title":"News","channel-name":"News Hour","video-streaming-link":"https:\/\/koka-koka.vercel.app\/993.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=993","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-72340-l6nkcw74-v1\/imageContent-72340-l6nkcw74-m1.png\" group-title=\"News","group-title":"News","channel-name":"TV27 News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1009.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1009","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/TV24N_Thumbnail-v2\/TV24N_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"TV 24","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1074.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1074","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/NDTVMP_Thumbnail-v2\/NDTVMP_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"NDTV MPCG","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1159.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1159","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11351-j9jpmdvc-v1\/imageContent-11351-j9jpmdvc-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"DD Madhya Pradesh","video-streaming-link":"https:\/\/koka-koka.vercel.app\/330.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=330","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-23226-jeyiac80-v1\/imageContent-23226-jeyiac80-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"News18 Rajasthan","video-streaming-link":"https:\/\/koka-koka.vercel.app\/205.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=205","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12158-j9pd883k-v1\/imageContent-12158-j9pd883k-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Zee Rajasthan News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/583.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=583","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-25048-jhir0kko-v1\/imageContent-25048-jhir0kko-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"First India Rajasthan","video-streaming-link":"https:\/\/koka-koka.vercel.app\/650.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=650","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-9012-j7ssufeo-v1\/imageContent-9012-j7ssufeo-m1.png\" group-title=\"News","group-title":"News","channel-name":"India News Rajasthan","video-streaming-link":"https:\/\/koka-koka.vercel.app\/14.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=14","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-10-j5f7xqxc-v1\/imageContent-10-j5f7xqxc-m1.png\" group-title=\"News","group-title":"News","channel-name":"Patrika TV Rajasthan","video-streaming-link":"https:\/\/koka-koka.vercel.app\/5.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=5","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-58492-kixkb2ug-v1\/imageContent-58492-kixkb2ug-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Jan TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/870.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=870","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/SACHB_Thumbnail-v2\/SACHB_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"Sach Bedhadak","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1075.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1075","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/NDTVRA_Thumbnail-v3\/NDTVRA_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"NDTV Rajasthan","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1152.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1152","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11375-j9jpws3k-v1\/imageContent-11375-j9jpws3k-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"DD Rajasthan","video-streaming-link":"https:\/\/koka-koka.vercel.app\/332.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=332","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11426-j9jqror4-v3\/imageContent-11426-j9jqror4-m3.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"News18 Jammu Kashmir Ladakh Himachal","video-streaming-link":"https:\/\/koka-koka.vercel.app\/354.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=354","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11984-j9lup2rc-v2\/imageContent-11984-j9lup2rc-m3.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Zee Salaam","video-streaming-link":"https:\/\/koka-koka.vercel.app\/518.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=518","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-7906-j7684flk-v1\/imageContent-7906-j7684flk-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Channel WIN","video-streaming-link":"https:\/\/koka-koka.vercel.app\/161.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=161","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11455-j9jqz61k-v2\/imageContent-11455-j9jqz61k-m4.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Gulistan News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/365.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=365","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11384-j9jq29mo-v2\/imageContent-11384-j9jq29mo-m3.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"DD Urdu","video-streaming-link":"https:\/\/koka-koka.vercel.app\/338.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=338","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-16764-jcix3xpc-v2\/imageContent-16764-jcix3xpc-m2.PNG\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Colors Marathi HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/308.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=308","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-450-j5jtumug-v3\/imageContent-450-j5jtumug-m3.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Colors Marathi","video-streaming-link":"https:\/\/koka-koka.vercel.app\/134.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=134","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11930-j9l5hv1c-v1\/imageContent-11930-j9l5hv1c-m1.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Zee Marathi HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/501.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=501","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8846-j7pq3jmo-v2\/imageContent-8846-j7pq3jmo-m3.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Zee Marathi","video-streaming-link":"https:\/\/koka-koka.vercel.app\/251.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=251","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12925-jb5xf2nc-v2\/imageContent-12925-jb5xf2nc-m2.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Tata Play Marathi Cinema","video-streaming-link":"https:\/\/koka-koka.vercel.app\/622.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=622","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11807-j9kyzle8-v1\/imageContent-11807-j9kyzle8-m1.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Star Pravah HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/469.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=469","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11136-j96p4r28-v1\/imageContent-11136-j96p4r28-m1.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Zee YUVA","video-streaming-link":"https:\/\/koka-koka.vercel.app\/248.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=248","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-30959-jky1nic8-v2\/imageContent-30959-jky1nic8-m3.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Sony Marathi","video-streaming-link":"https:\/\/koka-koka.vercel.app\/658.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=658","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/TONSMAR_Thumbnail-v10\/TONSMAR_Thumbnail.png\" group-title=\"Cartoons","group-title":"Cartoons","channel-name":"Tata Play Toons+","video-streaming-link":"https:\/\/koka-koka.vercel.app\/999.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=999","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11987-j9lura8g-v1\/imageContent-11987-j9lura8g-m1.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Zee Talkies HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/515.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=515","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8842-j7pp0me8-v2\/imageContent-8842-j7pp0me8-m2.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Zee Talkies","video-streaming-link":"https:\/\/koka-koka.vercel.app\/249.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=249","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-801-j5m7jg34-v2\/imageContent-801-j5m7jg34-m2.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Fakt Marathi","video-streaming-link":"https:\/\/koka-koka.vercel.app\/192.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=192","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-49025-k5lxf84o-v2\/imageContent-49025-k5lxf84o-m2.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Shemaroo MarathiBana","video-streaming-link":"https:\/\/koka-koka.vercel.app\/800.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=800","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/STMJNW_Thumbnail-v3\/STMJNW_Thumbnail.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"ABP Majha","video-streaming-link":"https:\/\/koka-koka.vercel.app\/155.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=155","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12140-j9p7vga8-v1\/imageContent-12140-j9p7vga8-m1.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"News18 Lokmat","video-streaming-link":"https:\/\/koka-koka.vercel.app\/140.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=140","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11156-j96xbrfk-v1\/imageContent-11156-j96xbrfk-m1.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Zee 24 Taas","video-streaming-link":"https:\/\/koka-koka.vercel.app\/261.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=261","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12056-j9o5hia8-v1\/imageContent-12056-j9o5hia8-m1.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Saam TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/546.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=546","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-1014-j5ngcjug-v2\/imageContent-1014-j5ngcjug-m2.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Jai Maharashtra","video-streaming-link":"https:\/\/koka-koka.vercel.app\/233.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=233","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-315-j5jjsht4-v2\/imageContent-315-j5jjsht4-m2.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"TV9 Marathi","video-streaming-link":"https:\/\/koka-koka.vercel.app\/97.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=97","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/NSMG_Thumbnail-v2\/NSMG_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"News State Maharashtra Goa","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1038.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1038","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/PDNEWS_Thumbnail-v2\/PDNEWS_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"Pudhari News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1102.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1102","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11378-j9jq0f9s-v1\/imageContent-11378-j9jq0f9s-m1.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"DD Sahyadri","video-streaming-link":"https:\/\/koka-koka.vercel.app\/336.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=336","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-870-j5mb6j80-v1\/imageContent-870-j5mb6j80-m1.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Sangeet Marathi","video-streaming-link":"https:\/\/koka-koka.vercel.app\/217.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=217","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11287-j9j4tl2w-v2\/imageContent-11287-j9j4tl2w-m3.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"Colors Bangla HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/305.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=305","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-75-j5fikj0o-v1\/imageContent-75-j5fikj0o-m1.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"Colors Bangla","video-streaming-link":"https:\/\/koka-koka.vercel.app\/26.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=26","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11970-j9luk5ag-v1\/imageContent-11970-j9luk5ag-m1.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"Zee Bangla HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/522.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=522","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/STJHD_Thumbnail-v3\/STJHD_Thumbnail.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"Star Jalsha HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/468.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=468","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-94-j5fjveio-v3\/imageContent-94-j5fjveio-m2.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"SONY AATH","video-streaming-link":"https:\/\/koka-koka.vercel.app\/34.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=34","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/TONSBEN_Thumbnail-v5\/TONSBEN_Thumbnail.png\" group-title=\"Cartoons","group-title":"Cartoons","channel-name":"Tata Play Toons+","video-streaming-link":"https:\/\/koka-koka.vercel.app\/995.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=995","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-267-j5j8x17s-v1\/imageContent-267-j5j8x17s-m2.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"Aakaash Aath","video-streaming-link":"https:\/\/koka-koka.vercel.app\/129.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=129","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-9-j5f6oezc-v1\/imageContent-9-j5f6oezc-m1.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"Ruposhi Bangla","video-streaming-link":"https:\/\/koka-koka.vercel.app\/3.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=3","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-48494-k3zd1a80-v1\/imageContent-48494-k3zd1a80-m4.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"Enterr10 Bangla","video-streaming-link":"https:\/\/koka-koka.vercel.app\/788.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=788","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11514-j9jtp5tk-v1\/imageContent-11514-j9jtp5tk-m2.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"Jalsha Movies HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/537.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=537","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11009-j8xbk7js-v1\/imageContent-11009-j8xbk7js-m1.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"Zee Bangla Cinema","video-streaming-link":"https:\/\/koka-koka.vercel.app\/254.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=254","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/CLRBANG_Thumbnail-v2\/CLRBANG_Thumbnail.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"Colors Bangla Cinema","video-streaming-link":"https:\/\/koka-koka.vercel.app\/896.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=896","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-27017-jjo92wyg-v1\/imageContent-27017-jjo92wyg-m1.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"Khushboo Bangla","video-streaming-link":"https:\/\/koka-koka.vercel.app\/379.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=379","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/RPLUSG_Thumbnail-v1\/RPLUSG_Thumbnail.png\" group-title=\"Movies","group-title":"Movies","channel-name":"R Plus Gold","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1134.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1134","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/RONGEEN_Thumbnail-v1\/RONGEEN_Thumbnail.png\" group-title=\"Kids","group-title":"Kids","channel-name":"Rongeen TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1132.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1132","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-321-j5jl5g5k-v2\/imageContent-321-j5jl5g5k-m2.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"ABP Ananda","video-streaming-link":"https:\/\/koka-koka.vercel.app\/102.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=102","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-9031-j7u3nz6w-v1\/imageContent-9031-j7u3nz6w-m1.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"Zee 24 Ghanta","video-streaming-link":"https:\/\/koka-koka.vercel.app\/258.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=258","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11533-j9jtxqgo-v1\/imageContent-11533-j9jtxqgo-m1.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"Kolkata TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/381.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=381","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-22186-jenuxy6g-v2\/imageContent-22186-jenuxy6g-m5.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"News18 Bangla","video-streaming-link":"https:\/\/koka-koka.vercel.app\/23.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=23","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-59401-kjudpa1c-v2\/imageContent-59401-kjudpa1c-m3.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"TV9 Bangla","video-streaming-link":"https:\/\/koka-koka.vercel.app\/873.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=873","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-61251-klylf4u0-v2\/imageContent-61251-klylf4u0-m9.png\" group-title=\"News","group-title":"News","channel-name":"Republic Bangla","video-streaming-link":"https:\/\/koka-koka.vercel.app\/890.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=890","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-852-j5m9xe80-v1\/imageContent-852-j5m9xe80-m1.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"News Time Bangla","video-streaming-link":"https:\/\/koka-koka.vercel.app\/207.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=207","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11299-j9j61p1k-v1\/imageContent-11299-j9j61p1k-m1.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"CTVN AKD Plus","video-streaming-link":"https:\/\/koka-koka.vercel.app\/311.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=311","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-24685-jgrl9bqg-v1\/imageContent-24685-jgrl9bqg-m2.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"Calcutta News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/648.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=648","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/NKTVBAN_Thumbnail-v3\/NKTVBAN_Thumbnail.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"NKTV BANGLA","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1103.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1103","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/RPLUS_Thumbnail-v1\/RPLUS_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"R Plus","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1133.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1133","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11314-j9j8kcxk-v1\/imageContent-11314-j9j8kcxk-m1.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"DD Bangla","video-streaming-link":"https:\/\/koka-koka.vercel.app\/314.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=314","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-864-j5mava4o-v1\/imageContent-864-j5mava4o-m1.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"Sangeet Bangla","video-streaming-link":"https:\/\/koka-koka.vercel.app\/215.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=215","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-21304-je859a3c-v1\/imageContent-21304-je859a3c-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Zee Telugu HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/635.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=635","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8845-j7ppmm28-v3\/imageContent-8845-j7ppmm28-m7.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Zee Telugu","video-streaming-link":"https:\/\/koka-koka.vercel.app\/250.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=250","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11444-j9jqx6a8-v1\/imageContent-11444-j9jqx6a8-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Gemini TV HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/355.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=355","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-66705-kuqnqhwg-v1\/imageContent-66705-kuqnqhwg-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"STAR Maa HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/956.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=956","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-25361-jhsvr3nc-v1\/imageContent-25361-jhsvr3nc-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"STAR Maa HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/516.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=516","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11418-j9jqpvxs-v1\/imageContent-11418-j9jqpvxs-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"ETV HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/359.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=359","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-492-j5jxvaeo-v1\/imageContent-492-j5jxvaeo-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"ETV Telugu","video-streaming-link":"https:\/\/koka-koka.vercel.app\/145.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=145","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11437-j9jqv7ao-v2\/imageContent-11437-j9jqv7ao-m2.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Gemini Life","video-streaming-link":"https:\/\/koka-koka.vercel.app\/361.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=361","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11423-j9jqqegg-v1\/imageContent-11423-j9jqqegg-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"ETV Plus","video-streaming-link":"https:\/\/koka-koka.vercel.app\/352.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=352","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/TONSTEL_Thumbnail-v4\/TONSTEL_Thumbnail.png\" group-title=\"Cartoons","group-title":"Cartoons","channel-name":"Tata Play Toons+","video-streaming-link":"https:\/\/koka-koka.vercel.app\/996.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=996","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12186-j9plqam8-v4\/imageContent-12186-j9plqam8-m5.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Telugu Naaptol","video-streaming-link":"https:\/\/koka-koka.vercel.app\/590.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=590","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12164-j9phk5iw-v1\/imageContent-12164-j9phk5iw-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Vissa TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/585.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=585","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-23721-jg0fhacg-v2\/imageContent-23721-jg0fhacg-m2.PNG\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"Tata Play English in Telugu","video-streaming-link":"https:\/\/koka-koka.vercel.app\/645.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=645","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11438-j9jqvyaw-v1\/imageContent-11438-j9jqvyaw-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Gemini Movies HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/362.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=362","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-66770-kuwalqkg-v1\/imageContent-66770-kuwalqkg-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Star Maa Movies HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/957.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=957","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-18348-jcqpx9ns-v1\/imageContent-18348-jcqpx9ns-m1.PNG\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Star Maa Movies HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/387.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=387","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-66595-kupdpd9k-v1\/imageContent-66595-kupdpd9k-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Star Maa Gold","video-streaming-link":"https:\/\/koka-koka.vercel.app\/954.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=954","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11553-j9julvag-v3\/imageContent-11553-j9julvag-m6.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Star Maa Gold","video-streaming-link":"https:\/\/koka-koka.vercel.app\/388.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=388","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/TPHLTE_Thumbnail-v5\/TPHLTE_Thumbnail.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Tata Play Hollywood Local Telugu","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1168.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1168","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-21307-je859sm0-v1\/imageContent-21307-je859sm0-m2.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Zee Cinemalu HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/636.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=636","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8849-j7pqmypc-v2\/imageContent-8849-j7pqmypc-m3.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Zee Cinemalu","video-streaming-link":"https:\/\/koka-koka.vercel.app\/252.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=252","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-426-j5jsm1wo-v1\/imageContent-426-j5jsm1wo-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"ETV Cinema","video-streaming-link":"https:\/\/koka-koka.vercel.app\/128.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=128","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/TPTECL_Thumbnail-v1\/TPTECL_Thumbnail.png\" group-title=\"Regional","group-title":"Regional","channel-name":"Tata Play Telugu Classics","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1073.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1073","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11182-j9i3o5pc-v2\/imageContent-11182-j9i3o5pc-m2.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"ETV Life","video-streaming-link":"https:\/\/koka-koka.vercel.app\/268.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=268","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11417-j9jqpcnc-v1\/imageContent-11417-j9jqpcnc-m1.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"ETV Abhiruchi","video-streaming-link":"https:\/\/koka-koka.vercel.app\/358.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=358","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12260-j9qv0lz4-v1\/imageContent-12260-j9qv0lz4-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Sakshi TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/596.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=596","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-498-j5jy7i80-v1\/imageContent-498-j5jy7i80-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"ETV Andhra Pradesh","video-streaming-link":"https:\/\/koka-koka.vercel.app\/146.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=146","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11329-j9jot000-v2\/imageContent-11329-j9jot000-m2.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"TV5 News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/320.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=320","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-30-j5fc0v80-v2\/imageContent-30-j5fc0v80-m2.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"TV9 Telugu","video-streaming-link":"https:\/\/koka-koka.vercel.app\/11.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=11","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-586-j5kz3qkw-v1\/imageContent-586-j5kz3qkw-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"NTV Telugu","video-streaming-link":"https:\/\/koka-koka.vercel.app\/160.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=160","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-951-j5mipdzs-v1\/imageContent-951-j5mipdzs-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"ABN Andhra Jyothy","video-streaming-link":"https:\/\/koka-koka.vercel.app\/225.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=225","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-145-j5fpfoe8-v1\/imageContent-145-j5fpfoe8-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"T News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/49.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=49","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11194-j9i4cz80-v1\/imageContent-11194-j9i4cz80-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"V6 Telugu","video-streaming-link":"https:\/\/koka-koka.vercel.app\/274.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=274","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-255-j5fz95pc-v1\/imageContent-255-j5fz95pc-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"ETV Telangana","video-streaming-link":"https:\/\/koka-koka.vercel.app\/83.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=83","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11470-j9jr4uio-v1\/imageContent-11470-j9jr4uio-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"HM TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/349.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=349","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11697-j9kjhxs0-v3\/imageContent-11697-j9kjhxs0-m3.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Raj News Telugu","video-streaming-link":"https:\/\/koka-koka.vercel.app\/430.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=430","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-17564-jclrk6pk-v1\/imageContent-17564-jclrk6pk-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"10 TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/266.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=266","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-73187-l8ou8wo8-v1\/imageContent-73187-l8ou8wo8-m4.png\" group-title=\"News","group-title":"News","channel-name":"Swatantra TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1027.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1027","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-47248-k1vn9ouw-v2\/imageContent-47248-k1vn9ouw-m4.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"4tv News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/774.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=774","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/PR9NEWS_Thumbnail-v2\/PR9NEWS_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"Prime 9 News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1099.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1099","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/BGTVTEL_Thumbnail-v2\/BGTVTEL_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"BIG TV Telugu","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1100.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1100","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/News360_Thumbnail-v3\/News360_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"News 360","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1118.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1118","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/MHNEWS_Thumbnail-v1\/MHNEWS_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"MAHAA NEWS","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1151.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1151","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11381-j9jq1pkg-v1\/imageContent-11381-j9jq1pkg-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"DD Saptagiri","video-streaming-link":"https:\/\/koka-koka.vercel.app\/337.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=337","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11392-j9jq3lgw-v3\/imageContent-11392-j9jq3lgw-m2.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"DD Yadagiri","video-streaming-link":"https:\/\/koka-koka.vercel.app\/548.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=548","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11691-j9kj50i0-v1\/imageContent-11691-j9kj50i0-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Raj Musix Telugu","video-streaming-link":"https:\/\/koka-koka.vercel.app\/429.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=429","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11242-j9irisyw-v2\/imageContent-11242-j9irisyw-m2.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Bhakti TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/290.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=290","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11745-j9kwb568-v2\/imageContent-11745-j9kwb568-m3.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Shubhavaarta TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/445.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=445","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11224-j9iclykw-v1\/imageContent-11224-j9iclykw-m2.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Aradana TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/285.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=285","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-33495-jnqw9k9c-v4\/imageContent-33495-jnqw9k9c-m5.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Swara Sagar","video-streaming-link":"https:\/\/koka-koka.vercel.app\/351.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=351","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-18536-jct505dc-v2\/imageContent-18536-jct505dc-m2.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Hindu Dharmam","video-streaming-link":"https:\/\/koka-koka.vercel.app\/630.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=630","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11960-j9lu9vow-v1\/imageContent-11960-j9lu9vow-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Sun TV HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/521.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=521","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11837-j9kzms9s-v2\/imageContent-11837-j9kzms9s-m3.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Sun Life","video-streaming-link":"https:\/\/koka-koka.vercel.app\/474.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=474","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11909-j9l52epk-v2\/imageContent-11909-j9l52epk-m4.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Star Vijay HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/496.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=496","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/TPHLT_Thumbnail-v4\/TPHLT_Thumbnail.png\" group-title=\"Regional","group-title":"Regional","channel-name":"Tata Play Hollywood Local Tamil","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1167.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1167","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11997-j9lux9ig-v1\/imageContent-11997-j9lux9ig-m5.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Zee Tamil HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/608.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=608","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-9006-j7rlwsns-v2\/imageContent-9006-j7rlwsns-m4.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Zee Tamil","video-streaming-link":"https:\/\/koka-koka.vercel.app\/257.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=257","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-33814-jo5jba9s-v3\/imageContent-33814-jo5jba9s-m3.PNG\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Colors Tamil HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/674.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=674","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-21152-je6orzfk-v1\/imageContent-21152-je6orzfk-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Colors Tamil","video-streaming-link":"https:\/\/koka-koka.vercel.app\/418.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=418","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-38738-juc4a1ig-v5\/imageContent-38738-juc4a1ig-m8.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"Jaya TV HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/708.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=708","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-819-j5m8fsfs-v1\/imageContent-819-j5m8fsfs-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Kalaignar TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/200.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=200","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/TONSTAM_Thumbnail-v6\/TONSTAM_Thumbnail.png\" group-title=\"Cartoons","group-title":"Cartoons","channel-name":"Tata Play Toons+","video-streaming-link":"https:\/\/koka-koka.vercel.app\/997.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=997","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11700-j9ksbotk-v1\/imageContent-11700-j9ksbotk-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Raj TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/439.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=439","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-44904-jzu8ri4o-v1\/imageContent-44904-jzu8ri4o-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"D Tamil","video-streaming-link":"https:\/\/koka-koka.vercel.app\/99.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=99","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11679-j9khnqag-v1\/imageContent-11679-j9khnqag-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Raj Digital Plus","video-streaming-link":"https:\/\/koka-koka.vercel.app\/426.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=426","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-111-j5fl5xo8-v1\/imageContent-111-j5fl5xo8-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Mega TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/37.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=37","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-41267-jwjjvrt4-v5\/imageContent-41267-jwjjvrt4-m7.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Tamil Naaptol","video-streaming-link":"https:\/\/koka-koka.vercel.app\/723.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=723","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11900-j9l4vygg-v1\/imageContent-11900-j9l4vygg-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Vasanth TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/499.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=499","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12244-j9qq7k1c-v1\/imageContent-12244-j9qq7k1c-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Sirippoli","video-streaming-link":"https:\/\/koka-koka.vercel.app\/611.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=611","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11188-j9i480zc-v1\/imageContent-11188-j9i480zc-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Polimer TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/272.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=272","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11565-j9jv0np4-v1\/imageContent-11565-j9jv0np4-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Makkal TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/392.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=392","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-31187-jldgeg1k-v2\/imageContent-31187-jldgeg1k-m2.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Vendhar TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/659.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=659","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11536-j9jty5w8-v1\/imageContent-11536-j9jty5w8-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"KTV HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/380.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=380","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-816-j5m8dqd4-v1\/imageContent-816-j5m8dqd4-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"J Movies","video-streaming-link":"https:\/\/koka-koka.vercel.app\/201.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=201","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-49016-k5lx1za0-v2\/imageContent-49016-k5lx1za0-m2.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Zee Thirai","video-streaming-link":"https:\/\/koka-koka.vercel.app\/797.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=797","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11724-j9kvwnkg-v1\/imageContent-11724-j9kvwnkg-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Travelxp Tamil","video-streaming-link":"https:\/\/koka-koka.vercel.app\/444.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=444","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-882-j5mdrg4o-v1\/imageContent-882-j5mdrg4o-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Puthiya Thalaimurai","video-streaming-link":"https:\/\/koka-koka.vercel.app\/220.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=220","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11966-j9luich4-v1\/imageContent-11966-j9luich4-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Thanthi TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/524.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=524","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-810-j5m84h14-v1\/imageContent-810-j5m84h14-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Jaya Plus","video-streaming-link":"https:\/\/koka-koka.vercel.app\/198.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=198","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-66-j5ff8qio-v1\/imageContent-66-j5ff8qio-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"News 7 Tamil","video-streaming-link":"https:\/\/koka-koka.vercel.app\/21.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=21","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11942-j9lthi34-v1\/imageContent-11942-j9lthi34-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Polimer News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/509.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=509","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-192-j5fsr3s0-v1\/imageContent-192-j5fsr3s0-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"News18 Tamil Nadu","video-streaming-link":"https:\/\/koka-koka.vercel.app\/58.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=58","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-126-j5fnf4ig-v2\/imageContent-126-j5fnf4ig-m2.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Seithigal TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/44.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=44","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12002-j9nrtf08-v2\/imageContent-12002-j9nrtf08-m2.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Raj News Tamil","video-streaming-link":"https:\/\/koka-koka.vercel.app\/525.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=525","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11764-j9kwqj6o-v1\/imageContent-11764-j9kwqj6o-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Sathiyam TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/455.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=455","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/MAMUR_Thumbnail-v2\/MAMUR_Thumbnail.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"MalaiMurasu Seithigal","video-streaming-link":"https:\/\/koka-koka.vercel.app\/391.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=391","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-37207-jswmhmpk-v1\/imageContent-37207-jswmhmpk-m1.PNG\" group-title=\"Tamil","group-title":"Tamil","channel-name":"News J","video-streaming-link":"https:\/\/koka-koka.vercel.app\/702.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=702","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-69018-kzo65wi0-v1\/imageContent-69018-kzo65wi0-m2.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"News Tamil 24x7","video-streaming-link":"https:\/\/koka-koka.vercel.app\/968.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=968","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11369-j9jpvzjs-v1\/imageContent-11369-j9jpvzjs-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"DD Podhigai","video-streaming-link":"https:\/\/koka-koka.vercel.app\/334.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=334","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-807-j5m7zoyo-v1\/imageContent-807-j5m7zoyo-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Jaya Max","video-streaming-link":"https:\/\/koka-koka.vercel.app\/199.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=199","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11682-j9khxjoo-v1\/imageContent-11682-j9khxjoo-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Raj Musix","video-streaming-link":"https:\/\/koka-koka.vercel.app\/425.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=425","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-24578-jgotgry0-v1\/imageContent-24578-jgotgry0-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Isaiaruvi","video-streaming-link":"https:\/\/koka-koka.vercel.app\/647.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=647","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11616-j9k04eo0-v1\/imageContent-11616-j9k04eo0-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Murasu TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/411.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=411","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11583-j9jype8w-v3\/imageContent-11583-j9jype8w-m3.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Mega Musiq","video-streaming-link":"https:\/\/koka-koka.vercel.app\/400.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=400","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11712-j9kt9fbs-v2\/imageContent-11712-j9kt9fbs-m2.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Jothi TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/434.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=434","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11562-j9juzmns-v1\/imageContent-11562-j9juzmns-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Madha TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/390.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=390","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11230-j9icx1i0-v1\/imageContent-11230-j9icx1i0-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Angel TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/282.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=282","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11622-j9k0845k-v2\/imageContent-11622-j9k0845k-m2.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Nambikkai TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/408.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=408","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11882-j9l3qcrs-v1\/imageContent-11882-j9l3qcrs-m1.png\" group-title=\"Telugu","group-title":"Telugu","channel-name":"SVBC 2","video-streaming-link":"https:\/\/koka-koka.vercel.app\/490.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=490","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11883-j9l3rjzc-v1\/imageContent-11883-j9l3rjzc-m1.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Udaya TV HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/492.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=492","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12249-j9qr87hc-v5\/imageContent-12249-j9qr87hc-m5.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Colors Kannada HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/612.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=612","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-345-j5jmkws0-v2\/imageContent-345-j5jmkws0-m4.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Colors Kannada","video-streaming-link":"https:\/\/koka-koka.vercel.app\/108.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=108","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11816-j9kz224o-v1\/imageContent-11816-j9kz224o-m1.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Star Suvarna HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/467.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=467","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-33827-jo5kcr1c-v4\/imageContent-33827-jo5kcr1c-m5.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Zee Kannada HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/675.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=675","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11030-j8yk2g3s-v1\/imageContent-11030-j8yk2g3s-m1.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Zee Kannada","video-streaming-link":"https:\/\/koka-koka.vercel.app\/256.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=256","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12323-jaa5pzxs-v1\/imageContent-12323-jaa5pzxs-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Jeevan TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/372.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=372","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-18308-jcqnzl68-v1\/imageContent-18308-jcqnzl68-m1.PNG\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Colors SUPER","video-streaming-link":"https:\/\/koka-koka.vercel.app\/533.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=533","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-45791-k0696crk-v3\/imageContent-45791-k0696crk-m5.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Kannada Naaptol","video-streaming-link":"https:\/\/koka-koka.vercel.app\/566.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=566","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-65190-ktai1xtk-v1\/imageContent-65190-ktai1xtk-m1.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"SIRIKANNADA Alltime","video-streaming-link":"https:\/\/koka-koka.vercel.app\/940.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=940","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-1002-j5nf74c0-v1\/imageContent-1002-j5nf74c0-m1.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Udaya Movies","video-streaming-link":"https:\/\/koka-koka.vercel.app\/231.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=231","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12038-j9o0554o-v2\/imageContent-12038-j9o0554o-m2.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Star Suvarna Plus","video-streaming-link":"https:\/\/koka-koka.vercel.app\/540.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=540","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-31454-jmirfosw-v2\/imageContent-31454-jmirfosw-m2.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Colors Kannada Cinema","video-streaming-link":"https:\/\/koka-koka.vercel.app\/667.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=667","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-52310-k7bd8ixk-v2\/imageContent-52310-k7bd8ixk-m4.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Zee Picchar","video-streaming-link":"https:\/\/koka-koka.vercel.app\/810.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=810","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-31188-jldk0joo-v2\/imageContent-31188-jldk0joo-m2.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Public Movies","video-streaming-link":"https:\/\/koka-koka.vercel.app\/661.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=661","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-822-j5m8ivjs-v1\/imageContent-822-j5m8ivjs-m1.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Kasthuri","video-streaming-link":"https:\/\/koka-koka.vercel.app\/196.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=196","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-531-j5kuelug-v2\/imageContent-531-j5kuelug-m2.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"TV9 Kannada","video-streaming-link":"https:\/\/koka-koka.vercel.app\/152.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=152","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11963-j9lui4rc-v3\/imageContent-11963-j9lui4rc-m4.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Asianet Suvarna News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/555.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=555","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-98-j5fjwu7s-v2\/imageContent-98-j5fjwu7s-m3.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Public TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/33.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=33","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-9824-j85wb88o-v1\/imageContent-9824-j85wb88o-m1.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"News18 Kannada","video-streaming-link":"https:\/\/koka-koka.vercel.app\/85.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=85","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-19066-jczvvocg-v1\/imageContent-19066-jczvvocg-m1.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"TV5 Kannada","video-streaming-link":"https:\/\/koka-koka.vercel.app\/629.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=629","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11948-j9ltrfc8-v1\/imageContent-11948-j9ltrfc8-m1.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Raj News Kannada","video-streaming-link":"https:\/\/koka-koka.vercel.app\/510.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=510","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-53941-kblrui1c-v3\/imageContent-53941-kblrui1c-m3.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Power TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/824.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=824","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/NWS1ST_Thumbnail-v3\/NWS1ST_Thumbnail.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"News 1st Kannada","video-streaming-link":"https:\/\/koka-koka.vercel.app\/913.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=913","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/VISNEWS_Thumbnail-v2\/VISNEWS_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"Vistara News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1077.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1077","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/PRJAATV_Thumbnail-v2\/PRJAATV_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"Prajaa TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1116.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1116","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11338-j9jozdxs-v1\/imageContent-11338-j9jozdxs-m1.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"DD Chandana","video-streaming-link":"https:\/\/koka-koka.vercel.app\/321.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=321","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11685-j9kipky0-v1\/imageContent-11685-j9kipky0-m2.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Raj Musix Kannada","video-streaming-link":"https:\/\/koka-koka.vercel.app\/427.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=427","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11676-j9khi3cw-v1\/imageContent-11676-j9khi3cw-m1.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Public Music","video-streaming-link":"https:\/\/koka-koka.vercel.app\/424.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=424","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11788-j9kypa94-v1\/imageContent-11788-j9kypa94-m2.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Sri Sankara TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/477.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=477","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11257-j9iy8oj4-v2\/imageContent-11257-j9iy8oj4-m2.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Ayush TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/660.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=660","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-69020-kzo676so-v1\/imageContent-69020-kzo676so-m1.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"SVBC 3","video-streaming-link":"https:\/\/koka-koka.vercel.app\/971.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=971","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-340-j5jmiei0-v1\/imageContent-340-j5jmiei0-m1.png\" group-title=\"Gujarati","group-title":"Gujarati","channel-name":"Colors Gujarati","video-streaming-link":"https:\/\/koka-koka.vercel.app\/107.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=107","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-47224-k1uh5c4g-v2\/imageContent-47224-k1uh5c4g-m2.png\" group-title=\"Gujarati","group-title":"Gujarati","channel-name":"Tata Play Gujarati Cinema","video-streaming-link":"https:\/\/koka-koka.vercel.app\/772.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=772","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-35306-jqxwmaeo-v1\/imageContent-35306-jqxwmaeo-m2.png\" group-title=\"Gujarati","group-title":"Gujarati","channel-name":"Colors Gujarati Cinema","video-streaming-link":"https:\/\/koka-koka.vercel.app\/692.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=692","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11874-j9l376yg-v2\/imageContent-11874-j9l376yg-m2.png\" group-title=\"Gujarati","group-title":"Gujarati","channel-name":"TV9 Gujarati","video-streaming-link":"https:\/\/koka-koka.vercel.app\/489.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=489","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12068-j9o9t9jc-v1\/imageContent-12068-j9o9t9jc-m1.png\" group-title=\"Gujarati","group-title":"Gujarati","channel-name":"Gujarat Samachar TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/552.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=552","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12167-j9phnio0-v2\/imageContent-12167-j9phnio0-m2.png\" group-title=\"Gujarati","group-title":"Gujarati","channel-name":"Sandesh News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/586.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=586","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11281-j9j4lf3k-v1\/imageContent-11281-j9j4lf3k-m1.png\" group-title=\"Gujarati","group-title":"Gujarati","channel-name":"CNBC Bajaar","video-streaming-link":"https:\/\/koka-koka.vercel.app\/303.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=303","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-15-j5f97j2o-v4\/imageContent-15-j5f97j2o-m3.png\" group-title=\"Gujarati","group-title":"Gujarati","channel-name":"News18 Gujarati","video-streaming-link":"https:\/\/koka-koka.vercel.app\/6.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=6","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-228-j5fxgzio-v2\/imageContent-228-j5fxgzio-m2.png\" group-title=\"Gujarati","group-title":"Gujarati","channel-name":"ABP Asmita","video-streaming-link":"https:\/\/koka-koka.vercel.app\/73.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=73","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11912-j9l58n8w-v2\/imageContent-11912-j9l58n8w-m4.png\" group-title=\"Gujarati","group-title":"Gujarati","channel-name":"VTV News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/497.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=497","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11924-j9l5fs6w-v3\/imageContent-11924-j9l5fs6w-m3.png\" group-title=\"Gujarati","group-title":"Gujarati","channel-name":"Zee 24 Kalak","video-streaming-link":"https:\/\/koka-koka.vercel.app\/507.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=507","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-26589-jj9w5h54-v1\/imageContent-26589-jj9w5h54-m2.png\" group-title=\"Gujarati","group-title":"Gujarati","channel-name":"India News Gujarat","video-streaming-link":"https:\/\/koka-koka.vercel.app\/654.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=654","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-61443-kmbf79yw-v1\/imageContent-61443-kmbf79yw-m1.png\" group-title=\"News","group-title":"News","channel-name":"Mantavya News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/891.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=891","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/1STGUJ_Thumbnail-v2\/1STGUJ_Thumbnail.png\" group-title=\"Gujarati","group-title":"Gujarati","channel-name":"1st Gujarat","video-streaming-link":"https:\/\/koka-koka.vercel.app\/974.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=974","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/PRVEG_Thumbnail-v3\/PRVEG_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"PRAVEG","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1087.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1087","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11341-j9jpdu00-v1\/imageContent-11341-j9jpdu00-m1.png\" group-title=\"Gujarati","group-title":"Gujarati","channel-name":"DD Girnar","video-streaming-link":"https:\/\/koka-koka.vercel.app\/323.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=323","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/ASTHAGUJ_Thumbnail-v2\/ASTHAGUJ_Thumbnail.png\" group-title=\"Gujarati","group-title":"Gujarati","channel-name":"Aastha Gujarati","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1097.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1097","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-355-j5jndjn4-v1\/imageContent-355-j5jndjn4-m2.png\" group-title=\"Odia","group-title":"Odia","channel-name":"Colors Oriya","video-streaming-link":"https:\/\/koka-koka.vercel.app\/115.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=115","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12207-j9qlt5vk-v2\/imageContent-12207-j9qlt5vk-m2.png\" group-title=\"Odia","group-title":"Odia","channel-name":"Zee Sarthak","video-streaming-link":"https:\/\/koka-koka.vercel.app\/597.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=597","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-69926-l1ooghuw-v3\/imageContent-69926-l1ooghuw-m3.png\" group-title=\"Odia","group-title":"Odia","channel-name":"Sidharth TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/978.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=978","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11667-j9kdkb6w-v1\/imageContent-11667-j9kdkb6w-m1.png\" group-title=\"Tamil","group-title":"Tamil","channel-name":"Peppers TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/421.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=421","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/SIDGL_Thumbnail-v1\/SIDGL_Thumbnail.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Sidharth GOLD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1170.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1170","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12271-j9to48zc-v1\/imageContent-12271-j9to48zc-m2.png\" group-title=\"Odia","group-title":"Odia","channel-name":"Kanak News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/376.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=376","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11513-j9jtooug-v1\/imageContent-11513-j9jtooug-m1.png\" group-title=\"Odia","group-title":"Odia","channel-name":"Kalinga TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/375.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=375","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-13243-jbirprzs-v1\/imageContent-13243-jbirprzs-m1.png\" group-title=\"Odia","group-title":"Odia","channel-name":"News18 Odia","video-streaming-link":"https:\/\/koka-koka.vercel.app\/41.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=41","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11733-j9kw4100-v4\/imageContent-11733-j9kw4100-m4.png\" group-title=\"Odia","group-title":"Odia","channel-name":"News7","video-streaming-link":"https:\/\/koka-koka.vercel.app\/448.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=448","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-49597-k6k8ts8g-v2\/imageContent-49597-k6k8ts8g-m2.png\" group-title=\"Odia","group-title":"Odia","channel-name":"Nandighosha TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/805.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=805","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-62573-kop7duow-v6\/imageContent-62573-kop7duow-m9.png\" group-title=\"Odia","group-title":"Odia","channel-name":"Argus News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/907.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=907","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11366-j9jpvkw0-v1\/imageContent-11366-j9jpvkw0-m1.png\" group-title=\"Odia","group-title":"Odia","channel-name":"DD Odia","video-streaming-link":"https:\/\/koka-koka.vercel.app\/333.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=333","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/JJAG_Thumbnail-v1\/JJAG_Thumbnail.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Jay Jagannath","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1169.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1169","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-1005-j5nfiy9c-v1\/imageContent-1005-j5nfiy9c-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Surya TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/230.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=230","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11246-j9iw5g74-v3\/imageContent-11246-j9iw5g74-m3.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Asianet HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/292.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=292","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11254-j9ixwlcg-v1\/imageContent-11254-j9ixwlcg-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Asianet Plus","video-streaming-link":"https:\/\/koka-koka.vercel.app\/294.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=294","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-66564-kup0jo0w-v1\/imageContent-66564-kup0jo0w-m3.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Asianet Plus","video-streaming-link":"https:\/\/koka-koka.vercel.app\/953.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=953","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-35312-jqy146c8-v3\/imageContent-35312-jqy146c8-m8.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Zee Keralam HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/694.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=694","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-9003-j7rlh2aw-v2\/imageContent-9003-j7rlh2aw-m2.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Zee Keralam","video-streaming-link":"https:\/\/koka-koka.vercel.app\/684.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=684","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-27-j5fbpbbs-v1\/imageContent-27-j5fbpbbs-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Flowers","video-streaming-link":"https:\/\/koka-koka.vercel.app\/10.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=10","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-62245-kny89ag0-v2\/imageContent-62245-kny89ag0-m2.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Malayalam Naaptol","video-streaming-link":"https:\/\/koka-koka.vercel.app\/904.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=904","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11577-j9jv8mqg-v1\/imageContent-11577-j9jv8mqg-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Mazhavil Manorama HD","video-streaming-link":"https:\/\/koka-koka.vercel.app\/395.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=395","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-90-j5fjv4hk-v1\/imageContent-90-j5fjv4hk-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Mazhavil Manorama","video-streaming-link":"https:\/\/koka-koka.vercel.app\/31.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=31","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-33-j5fc5fko-v1\/imageContent-33-j5fc5fko-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Kairali TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/25.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=25","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12065-j9o9phqg-v1\/imageContent-12065-j9o9phqg-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"We TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/553.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=553","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-762-j5m21xqw-v1\/imageContent-762-j5m21xqw-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Amrita TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/178.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=178","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-1008-j5nfqjeo-v1\/imageContent-1008-j5nfqjeo-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Surya Movies","video-streaming-link":"https:\/\/koka-koka.vercel.app\/229.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=229","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11251-j9ixmaz4-v1\/imageContent-11251-j9ixmaz4-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Asianet Movies","video-streaming-link":"https:\/\/koka-koka.vercel.app\/293.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=293","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-64891-ks8v01o8-v1\/imageContent-64891-ks8v01o8-m2.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Asianet Movies","video-streaming-link":"https:\/\/koka-koka.vercel.app\/933.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=933","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11709-j9kt6bg0-v1\/imageContent-11709-j9kt6bg0-m1.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"Safari TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/436.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=436","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12020-j9ntf12w-v1\/imageContent-12020-j9ntf12w-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Asianet News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/532.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=532","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-855-j5ma1eig-v2\/imageContent-855-j5ma1eig-m2.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Kairali News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/211.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=211","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-279-j5jcwqts-v1\/imageContent-279-j5jcwqts-m2.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Manorama News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/87.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=87","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11572-j9jv7wi0-v1\/imageContent-11572-j9jv7wi0-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Mathrubhumi News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/394.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=394","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12309-ja9ac8n4-v1\/imageContent-12309-ja9ac8n4-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"News18 Kerala","video-streaming-link":"https:\/\/koka-koka.vercel.app\/66.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=66","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11495-j9jtg2ns-v2\/imageContent-11495-j9jtg2ns-m2.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Jaihind TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/370.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=370","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12137-j9p7pmeo-v2\/imageContent-12137-j9p7pmeo-m2.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Media One","video-streaming-link":"https:\/\/koka-koka.vercel.app\/576.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=576","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11179-j9i3nhs8-v2\/imageContent-11179-j9i3nhs8-m3.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Janam TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/270.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=270","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11524-j9jtu07c-v2\/imageContent-11524-j9jtu07c-m2.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Kaumudy TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/378.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=378","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11694-j9kjc0tc-v1\/imageContent-11694-j9kjc0tc-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Raj News Malayalam","video-streaming-link":"https:\/\/koka-koka.vercel.app\/428.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=428","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-49022-k5lxarmw-v2\/imageContent-49022-k5lxarmw-m2.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Twenty Four","video-streaming-link":"https:\/\/koka-koka.vercel.app\/799.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=799","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/RETV_Thumbnail-v2\/RETV_Thumbnail.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Reporter TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1124.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1124","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11688-j9kiz1zs-v1\/imageContent-11688-j9kiz1zs-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Raj Musix Malayalam","video-streaming-link":"https:\/\/koka-koka.vercel.app\/541.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=541","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11520-j9jtr0y8-v1\/imageContent-11520-j9jtr0y8-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Kappa TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/377.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=377","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11176-j9i3lv54-v2\/imageContent-11176-j9i3lv54-m2.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Goodness","video-streaming-link":"https:\/\/koka-koka.vercel.app\/269.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=269","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11449-j9jqxsns-v1\/imageContent-11449-j9jqxsns-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"God TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/356.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=356","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11772-j9kwsqns-v1\/imageContent-11772-j9kwsqns-m1.png\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Shalom TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/457.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=457","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-35638-jruyxl0g-v4\/imageContent-35638-jruyxl0g-m7.PNG\" group-title=\"Malayalam","group-title":"Malayalam","channel-name":"Harvest TV 24x7","video-streaming-link":"https:\/\/koka-koka.vercel.app\/348.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=348","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-68739-kywk7vq0-v1\/imageContent-68739-kywk7vq0-m1.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"Tata Play Punjab De Rang","video-streaming-link":"https:\/\/koka-koka.vercel.app\/571.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=571","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-49009-k5g6nid4-v1\/imageContent-49009-k5g6nid4-m1.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"Zee Punjabi","video-streaming-link":"https:\/\/koka-koka.vercel.app\/796.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=796","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-408-j5jr93k8-v1\/imageContent-408-j5jr93k8-m1.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"PTC Punjabi","video-streaming-link":"https:\/\/koka-koka.vercel.app\/122.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=122","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11586-j9jyt26w-v1\/imageContent-11586-j9jyt26w-m1.png\" group-title=\"Music","group-title":"Music","channel-name":"MH One","video-streaming-link":"https:\/\/koka-koka.vercel.app\/399.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=399","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/TONSPUN_Thumbnail-v4\/TONSPUN_Thumbnail.png\" group-title=\"Cartoons","group-title":"Cartoons","channel-name":"Tata Play Toons+","video-streaming-link":"https:\/\/koka-koka.vercel.app\/998.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=998","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/TABHIT_Thumbnail-v2\/TABHIT_Thumbnail.png\" group-title=\"Regional","group-title":"Regional","channel-name":"TABBAR HITS","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1083.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1083","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12931-jb64agig-v1\/imageContent-12931-jb64agig-m1.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"Pitaara TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/624.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=624","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-48860-k4nlxy14-v2\/imageContent-48860-k4nlxy14-m2.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"PTC Punjabi Gold","video-streaming-link":"https:\/\/koka-koka.vercel.app\/794.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=794","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12155-j9pd5ug8-v1\/imageContent-12155-j9pd5ug8-m1.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"Zee Punjab Haryana Himachal Pradesh","video-streaming-link":"https:\/\/koka-koka.vercel.app\/580.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=580","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-300-j5ji8seo-v1\/imageContent-300-j5ji8seo-m1.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"PTC News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/91.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=91","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-1011-j5ng33kg-v2\/imageContent-1011-j5ng33kg-m2.png\" group-title=\"News","group-title":"News","channel-name":"News18 Punjab Haryana","video-streaming-link":"https:\/\/koka-koka.vercel.app\/232.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=232","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11482-j9jsdwfk-v1\/imageContent-11482-j9jsdwfk-m1.jpg\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"India News Punjab","video-streaming-link":"https:\/\/koka-koka.vercel.app\/366.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=366","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8968-j7rcix2w-v1\/imageContent-8968-j7rcix2w-m1.png\" group-title=\"News","group-title":"News","channel-name":"India News Haryana","video-streaming-link":"https:\/\/koka-koka.vercel.app\/13.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=13","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11502-j9jtlmi8-v3\/imageContent-11502-j9jtlmi8-m4.png\" group-title=\"News","group-title":"News","channel-name":"Janta TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/371.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=371","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11587-j9jyvxl4-v1\/imageContent-11587-j9jyvxl4-m1.png\" group-title=\"News","group-title":"News","channel-name":"MH One News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/401.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=401","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-48498-k3zd4bsg-v1\/imageContent-48498-k3zd4bsg-m3.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"ANB NEWS","video-streaming-link":"https:\/\/koka-koka.vercel.app\/787.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=787","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-57445-kg7p5yk8-v2\/imageContent-57445-kg7p5yk8-m3.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"Living India News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/793.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=793","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-69238-kzt9ig3k-v1\/imageContent-69238-kzt9ig3k-m2.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Khabar Fast","video-streaming-link":"https:\/\/koka-koka.vercel.app\/972.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=972","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-35649-jrz9mhq0-v2\/imageContent-35649-jrz9mhq0-m2.PNG\" group-title=\"Odia","group-title":"Odia","channel-name":"Zee Delhi NCR Haryana","video-streaming-link":"https:\/\/koka-koka.vercel.app\/262.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=262","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-71064-l427mi60-v2\/imageContent-71064-l427mi60-m3.png\" group-title=\"News","group-title":"News","channel-name":"STV Haryana News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/989.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=989","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/DAILYP_Thumbnail-v3\/DAILYP_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"Daily Post Punjab Haryana Himachal","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1078.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1078","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/WTVPunjabi_Thumbnail-v1\/WTVPunjabi_Thumbnail.png\" group-title=\"Regional","group-title":"Regional","channel-name":"WPN World Punjabi TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1085.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1085","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11374-j9jpwgiw-v1\/imageContent-11374-j9jpwgiw-m1.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"DD Punjabi","video-streaming-link":"https:\/\/koka-koka.vercel.app\/335.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=335","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-297-j5ji8qv4-v1\/imageContent-297-j5ji8qv4-m1.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"PTC Chak De","video-streaming-link":"https:\/\/koka-koka.vercel.app\/92.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=92","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-63498-kqq89g5k-v2\/imageContent-63498-kqq89g5k-m3.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"PTC Music","video-streaming-link":"https:\/\/koka-koka.vercel.app\/922.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=922","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/PUNHTS_Thumbnail-v1\/PUNHTS_Thumbnail.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"Punjabi Hits","video-streaming-link":"https:\/\/koka-koka.vercel.app\/936.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=936","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-792-j5m75dww-v1\/imageContent-792-j5m75dww-m1.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"Chardikla Time TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/193.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=193","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-47242-k1vmve74-v1\/imageContent-47242-k1vmve74-m2.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"PTC Simran","video-streaming-link":"https:\/\/koka-koka.vercel.app\/773.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=773","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12106-j9ooxpug-v2\/imageContent-12106-j9ooxpug-m2.png\" group-title=\"Others","group-title":"Others","channel-name":"Nepal 1","video-streaming-link":"https:\/\/koka-koka.vercel.app\/567.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=567","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-333-j5jl5q6o-v1\/imageContent-333-j5jl5q6o-m1.png\" group-title=\"Others","group-title":"Others","channel-name":"Rang","video-streaming-link":"https:\/\/koka-koka.vercel.app\/101.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=101","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-860-j5mao56o-v1\/imageContent-860-j5mao56o-m1.png\" group-title=\"Others","group-title":"Others","channel-name":"Rengoni TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/214.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=214","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11485-j9jsysqw-v1\/imageContent-11485-j9jsysqw-m1.png\" group-title=\"Others","group-title":"Others","channel-name":"Indradhanu","video-streaming-link":"https:\/\/koka-koka.vercel.app\/368.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=368","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11411-j9jqocds-v1\/imageContent-11411-j9jqocds-m1.png\" group-title=\"Others","group-title":"Others","channel-name":"DY 365","video-streaming-link":"https:\/\/koka-koka.vercel.app\/353.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=353","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12390-jai3fgy0-v1\/imageContent-12390-jai3fgy0-m1.png\" group-title=\"Others","group-title":"Others","channel-name":"News18 Assam North East","video-streaming-link":"https:\/\/koka-koka.vercel.app\/68.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=68","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-956-j5mipkxs-v1\/imageContent-956-j5mipkxs-m1.png\" group-title=\"Others","group-title":"Others","channel-name":"NEWS LIVE","video-streaming-link":"https:\/\/koka-koka.vercel.app\/226.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=226","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-879-j5mdmlqw-v1\/imageContent-879-j5mdmlqw-m1.png\" group-title=\"Others","group-title":"Others","channel-name":"Protidin Time","video-streaming-link":"https:\/\/koka-koka.vercel.app\/221.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=221","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11673-j9kfe73s-v1\/imageContent-11673-j9kfe73s-m1.png\" group-title=\"Others","group-title":"Others","channel-name":"Prag News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/423.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=423","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11644-j9k1gjow-v1\/imageContent-11644-j9k1gjow-m1.png\" group-title=\"Others","group-title":"Others","channel-name":"North East Live","video-streaming-link":"https:\/\/koka-koka.vercel.app\/417.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=417","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/NKTVPLUS_Thumbnail-v2\/NKTVPLUS_Thumbnail.png\" group-title=\"Others","group-title":"Others","channel-name":"NKTV PLUS","video-streaming-link":"https:\/\/koka-koka.vercel.app\/894.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=894","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-69824-l1dfgvcg-v1\/imageContent-69824-l1dfgvcg-m3.png\" group-title=\"Others","group-title":"Others","channel-name":"ND24-Newsdaily.in","video-streaming-link":"https:\/\/koka-koka.vercel.app\/977.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=977","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/NBNEWS_Thumbnail-v2\/NBNEWS_Thumbnail.png\" group-title=\"Regional","group-title":"Regional","channel-name":"NB News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1076.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1076","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/PTKB_Thumbnail-v1\/PTKB_Thumbnail.png\" group-title=\"Regional","group-title":"Regional","channel-name":"Pratham Khabar 24x7","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1115.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1115","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11363-j9jprc40-v1\/imageContent-11363-j9jprc40-m1.png\" group-title=\"Others","group-title":"Others","channel-name":"DD North East","video-streaming-link":"https:\/\/koka-koka.vercel.app\/331.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=331","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11345-j9jpidkw-v1\/imageContent-11345-j9jpidkw-m1.png\" group-title=\"Others","group-title":"Others","channel-name":"DD Kashir","video-streaming-link":"https:\/\/koka-koka.vercel.app\/325.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=325","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11728-j9kw1zp4-v1\/imageContent-11728-j9kw1zp4-m1.png\" group-title=\"Others","group-title":"Others","channel-name":"Ramdhenu","video-streaming-link":"https:\/\/koka-koka.vercel.app\/449.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=449","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-71497-l4stx05k-v3\/imageContent-71497-l4stx05k-m5.png\" group-title=\"Regional","group-title":"Regional","channel-name":"DD Meghalaya","video-streaming-link":"https:\/\/koka-koka.vercel.app\/991.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=991","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-49636-k6lo3yfc-v1\/imageContent-49636-k6lo3yfc-m1.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"Boogle Bollywood","video-streaming-link":"https:\/\/koka-koka.vercel.app\/806.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=806","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-48807-k4m7ud0o-v2\/imageContent-48807-k4m7ud0o-m2.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"Ek Onkar","video-streaming-link":"https:\/\/koka-koka.vercel.app\/790.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=790","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-48804-k4m7nz2w-v1\/imageContent-48804-k4m7nz2w-m1.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"Fateh TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/791.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=791","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-62613-koxw351c-v1\/imageContent-62613-koxw351c-m1.png\" group-title=\"Music","group-title":"Music","channel-name":"Haryana Beats","video-streaming-link":"https:\/\/koka-koka.vercel.app\/912.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=912","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-49633-k6lny7mw-v1\/imageContent-49633-k6lny7mw-m1.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"In Goa 24x7","video-streaming-link":"https:\/\/koka-koka.vercel.app\/807.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=807","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-47615-k2jwaqug-v1\/imageContent-47615-k2jwaqug-m3.png\" group-title=\"Kannada","group-title":"Kannada","channel-name":"Namma TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/782.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=782","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-47612-k2jw4vfc-v1\/imageContent-47612-k2jw4vfc-m4.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"Prudent","video-streaming-link":"https:\/\/koka-koka.vercel.app\/781.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=781","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-53443-kanbrwjs-v1\/imageContent-53443-kanbrwjs-m1.png\" group-title=\"Marathi","group-title":"Marathi","channel-name":"RDX Goa","video-streaming-link":"https:\/\/koka-koka.vercel.app\/819.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=819","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-56404-kfet9quw-v1\/imageContent-56404-kfet9quw-m1.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"Wah Punjabi","video-streaming-link":"https:\/\/koka-koka.vercel.app\/845.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=845","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-56399-kfesi49c-v1\/imageContent-56399-kfesi49c-m1.png\" group-title=\"Punjabi","group-title":"Punjabi","channel-name":"Haryanvi Hits","video-streaming-link":"https:\/\/koka-koka.vercel.app\/846.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=846","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-56402-kfesiz4g-v1\/imageContent-56402-kfesiz4g-m1.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Krishna Vani","video-streaming-link":"https:\/\/koka-koka.vercel.app\/847.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=847","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-57966-khtydrm8-v1\/imageContent-57966-khtydrm8-m1.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"Bangla Bhakti","video-streaming-link":"https:\/\/koka-koka.vercel.app\/865.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=865","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-57969-khu0zsnc-v1\/imageContent-57969-khu0zsnc-m1.png\" group-title=\"Bengali","group-title":"Bengali","channel-name":"Tara News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/866.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=866","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-60927-kljn2znc-v1\/imageContent-60927-kljn2znc-m1.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Garv Gurbani","video-streaming-link":"https:\/\/koka-koka.vercel.app\/887.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=887","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-60933-kljn4c9c-v1\/imageContent-60933-kljn4c9c-m1.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Swar Shree","video-streaming-link":"https:\/\/koka-koka.vercel.app\/883.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=883","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-61633-kmlgwaww-v1\/imageContent-61633-kmlgwaww-m2.png\" group-title=\"News","group-title":"News","channel-name":"Valam TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/893.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=893","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-62599-koxtswe0-v1\/imageContent-62599-koxtswe0-m2.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Nimbark TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/908.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=908","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-62607-koxuikrs-v1\/imageContent-62607-koxuikrs-m1.png\" group-title=\"News","group-title":"News","channel-name":"C News Bharat","video-streaming-link":"https:\/\/koka-koka.vercel.app\/910.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=910","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/MAHAK_Thumbnail-v3\/MAHAK_Thumbnail.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Mahakaleshwar Temple, Ujjain","video-streaming-link":"https:\/\/koka-koka.vercel.app\/841.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=841","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-64523-krkg6p88-v1\/imageContent-64523-krkg6p88-m1.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Green Chillies TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/931.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=931","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-61629-kmlgw3yw-v2\/imageContent-61629-kmlgw3yw-m5.png\" group-title=\"News","group-title":"News","channel-name":"Samara News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/892.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=892","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-65977-ku6g2hko-v3\/imageContent-65977-ku6g2hko-m3.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Live Patna Sahib Patna","video-streaming-link":"https:\/\/koka-koka.vercel.app\/947.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=947","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-65985-ku6gly6w-v3\/imageContent-65985-ku6gly6w-m3.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Live Sri Naga Sai Mandir Coimbatore","video-streaming-link":"https:\/\/koka-koka.vercel.app\/949.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=949","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-67700-kwoeo240-v2\/imageContent-67700-kwoeo240-m2.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"Atmadarshan","video-streaming-link":"https:\/\/koka-koka.vercel.app\/960.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=960","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-67703-kwog27o0-v1\/imageContent-67703-kwog27o0-m1.png\" group-title=\"Gujarati","group-title":"Gujarati","channel-name":"Lakshya TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/961.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=961","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-67709-kwogo2pc-v1\/imageContent-67709-kwogo2pc-m1.png\" group-title=\"Hindi","group-title":"Hindi","channel-name":"ANN News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/962.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=962","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-72161-l60vjz1c-v3\/imageContent-72161-l60vjz1c-m3.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Saileela TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1002.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1002","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-72303-l6hqin9k-v1\/imageContent-72303-l6hqin9k-m2.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Shri Ganga Aarti, Varanasi","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1004.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1004","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-72306-l6hr8log-v1\/imageContent-72306-l6hr8log-m1.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Shri ISKCON Girgaon, Mumbai","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1008.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1008","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-72309-l6hro3js-v1\/imageContent-72309-l6hro3js-m2.png\" group-title=\"Devotional","group-title":"Devotional","channel-name":"Shri Ashtavinayak Mahaganpati, Ranjangaon","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1007.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1007","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-72312-l6hsvue8-v1\/imageContent-72312-l6hsvue8-m2.png\" group-title=\"Devotional","group-title":"Devotional","channel-name":"Shri Mahalaxmi Temple,\u00a0Mumbai","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1006.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1006","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-72315-l6htmt2o-v1\/imageContent-72315-l6htmt2o-m2.png\" group-title=\"Devotional","group-title":"Devotional","channel-name":"Shri Babulnaath Temple, Mumbai","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1005.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1005","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-73014-l8gzok74-v2\/imageContent-73014-l8gzok74-m4.png\" group-title=\"Knowledge","group-title":"Knowledge","channel-name":"Daiji World TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1023.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1023","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-73022-l8gzppv4-v1\/imageContent-73022-l8gzppv4-m1.png\" group-title=\"News","group-title":"News","channel-name":"Real News Kerala","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1018.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1018","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-73019-l8gzpnjs-v1\/imageContent-73019-l8gzpnjs-m1.png\" group-title=\"Music","group-title":"Music","channel-name":"7x Music","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1019.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1019","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/JANS_Thumbnail-v1\/JANS_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"Jansetu","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1040.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1040","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/TVP_Thumbnail-v1\/TVP_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"TV Punjab","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1041.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1041","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/BLSTV_Thumbnail-v1\/BLSTV_Thumbnail.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Bless TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1042.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1042","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/NAKD_Thumbnail-v1\/NAKD_Thumbnail.png\" group-title=\"Entertainment","group-title":"Entertainment","channel-name":"Nakshatra Digital","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1043.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1043","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/GBIN_Thumbnail-v1\/GBIN_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"Global India","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1044.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1044","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/LIVPU_Thumbnail-v1\/LIVPU_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"Live Punjabi","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1060.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1060","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/GOPUTV_Thumbnail-v1\/GOPUTV_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"Global Punjab TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1057.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1057","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/AAJKK_Thumbnail-v1\/AAJKK_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"Aaj Ki Khabar","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1058.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1058","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/INDNWS_Thumbnail-v1\/INDNWS_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"Indian News","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1059.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1059","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/MEDI9_Thumbnail-v1\/MEDI9_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"MEDIA 9","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1070.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1070","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/TTN24_Thumbnail-v2\/TTN24_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"TTN 24","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1079.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1079","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/UBANTV_Thumbnail-v1\/UBANTV_Thumbnail.png\" group-title=\"News","group-title":"News","channel-name":"U Bangla TV","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1080.m3u8","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1080","license-key-local":""},{"license-type":"clearkey","tvg-logo":"https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/SIBM_Thumbnail-v4\/SIBM_Thumbnail.png\" group-title=\"Spiritual","group-title":"Spiritual","channel-name":"Shree Ichchhapuran Balaji Mandir","video-streaming-link":"https:\/\/koka-koka.vercel.app\/1171.mpd","license-key":"https:\/\/koka-koka.vercel.app\/key?requestor=Toxictvvalidtill-16-Dec2023&id=1171","license-key-local":""}]
+    {
+        "channel-name": "STAR PLUS HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/STAR_PLUS_TV.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100798"
+    },
+    {
+        "channel-name": "STAR PLUS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/STAR_PLUS_TV.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100799"
+    },
+    {
+        "channel-name": "STAR GOLD HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/UTSAV_GOLD_HD.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100800"
+    },
+    {
+        "channel-name": "STAR GOLD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/UTSAV_GOLD_HD.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100801"
+    },
+    {
+        "channel-name": "STAR BHARAT",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/UTSAV_BHARAT.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100802"
+    },
+    {
+        "channel-name": "ZEE TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/ZEE_A.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100803"
+    },
+    {
+        "channel-name": "ZEE CINEMA HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Cinema_HD_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100804"
+    },
+    {
+        "channel-name": "ZEE CINEMA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Cinema_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100805"
+    },
+    {
+        "channel-name": "SONY ASIA HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100806"
+    },
+    {
+        "channel-name": "SONY ASIA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100807"
+    },
+    {
+        "channel-name": "SONY MAX HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/SET_Max_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100808"
+    },
+    {
+        "channel-name": "SONY MAX",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/SET_Max_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100809"
+    },
+    {
+        "channel-name": "SONY MAX 2",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Sony_Max_2_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100810"
+    },
+    {
+        "channel-name": "COLORS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/COLORS.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100811"
+    },
+    {
+        "channel-name": "COLORS HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/COLORS_HD.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100812"
+    },
+    {
+        "channel-name": "SONY SAB",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/SAB_TV_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100813"
+    },
+    {
+        "channel-name": "COLORS RISHTEY TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Colors_Rishtey_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100814"
+    },
+    {
+        "channel-name": "COLORS CINEPLEX",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Colors_Cineplex_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100815"
+    },
+    {
+        "channel-name": "B4U MOVIES",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/B4U_Movies_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100816"
+    },
+    {
+        "channel-name": "B4U MUSIC",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/B4U_Music_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100817"
+    },
+    {
+        "channel-name": "B4U PLUS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100818"
+    },
+    {
+        "channel-name": "ZING",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zing_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100819"
+    },
+    {
+        "channel-name": "BRIT ASIA TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/BRIT_ASIA_TV.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100820"
+    },
+    {
+        "channel-name": "VENUS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/VENUS.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100821"
+    },
+    {
+        "channel-name": "ABP NEWS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100822"
+    },
+    {
+        "channel-name": "AAJ TAK",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Aaj_Tak_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100823"
+    },
+    {
+        "channel-name": "NDTV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/NDTV_24x7_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100824"
+    },
+    {
+        "channel-name": "AASTHA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Aastha_TV_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100825"
+    },
+    {
+        "channel-name": "PTC PUNJABI",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/PTC_Punjabi_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100826"
+    },
+    {
+        "channel-name": "SIKH CHANNEL",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100827"
+    },
+    {
+        "channel-name": "AKAAL CHANNEL",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100828"
+    },
+    {
+        "channel-name": "SANGAT",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100829"
+    },
+    {
+        "channel-name": "MATV NATIONAL",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100830"
+    },
+    {
+        "channel-name": "REPUBLIC TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Republic_TV_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100831"
+    },
+    {
+        "channel-name": "KTV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/KTV_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100832"
+    },
+    {
+        "channel-name": "===== GENERAL =====",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96166"
+    },
+    {
+        "channel-name": "DESI PLUS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96168"
+    },
+    {
+        "channel-name": "ZEE ACTION",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96169"
+    },
+    {
+        "channel-name": "ZEE TV HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96170"
+    },
+    {
+        "channel-name": "ZEE CINEMA HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96171"
+    },
+    {
+        "channel-name": "ZING",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96172"
+    },
+    {
+        "channel-name": "STAR BHARAT HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96173"
+    },
+    {
+        "channel-name": "STAR GOLD HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96174"
+    },
+    {
+        "channel-name": "STAR GOLD SELECT HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96175"
+    },
+    {
+        "channel-name": "STAR PLUS HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96176"
+    },
+    {
+        "channel-name": "STAR UTSAV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96177"
+    },
+    {
+        "channel-name": "STAR UTSAV MOVIES",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96178"
+    },
+    {
+        "channel-name": "SONY HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96179"
+    },
+    {
+        "channel-name": "SONY MAX HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96180"
+    },
+    {
+        "channel-name": "SONY MAX 2",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96181"
+    },
+    {
+        "channel-name": "SONY PIX HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96182"
+    },
+    {
+        "channel-name": "SONY BBC EARTH HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96183"
+    },
+    {
+        "channel-name": "SONY SAB HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96184"
+    },
+    {
+        "channel-name": "SONY PAL",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96185"
+    },
+    {
+        "channel-name": "SONY WAH",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96186"
+    },
+    {
+        "channel-name": "SONY YAY",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96187"
+    },
+    {
+        "channel-name": "B4U MOVIES",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96189"
+    },
+    {
+        "channel-name": "COLORS HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96190"
+    },
+    {
+        "channel-name": "9X JALWA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96191"
+    },
+    {
+        "channel-name": "AAJ TAK HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96192"
+    },
+    {
+        "channel-name": "AAJ TAK TEZ",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96193"
+    },
+    {
+        "channel-name": "AASTHA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96194"
+    },
+    {
+        "channel-name": "AASTHA BHAJAN",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96195"
+    },
+    {
+        "channel-name": "ABP NEWS INDIA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96196"
+    },
+    {
+        "channel-name": "AND PICTURES HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96197"
+    },
+    {
+        "channel-name": "AND TV HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96198"
+    },
+    {
+        "channel-name": "ANIMAL PLANET HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/PICONS\/ANIMAL_PLANET_HD.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96199"
+    },
+    {
+        "channel-name": "ARIHANT",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96200"
+    },
+    {
+        "channel-name": "BABY TV HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96201"
+    },
+    {
+        "channel-name": "BIG MAGIC HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96202"
+    },
+    {
+        "channel-name": "BINDAS MOVIES",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96203"
+    },
+    {
+        "channel-name": "CINEPLEX HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96204"
+    },
+    {
+        "channel-name": "COMEDY ACTIVE",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96205"
+    },
+    {
+        "channel-name": "DD NATIONAL HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96206"
+    },
+    {
+        "channel-name": "DD RAJASTHAN",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96207"
+    },
+    {
+        "channel-name": "DD BHARATI",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96208"
+    },
+    {
+        "channel-name": "DD BIHAR",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96209"
+    },
+    {
+        "channel-name": "DD INDIA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96210"
+    },
+    {
+        "channel-name": "DD NEWS HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96211"
+    },
+    {
+        "channel-name": "DD SPORTS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96212"
+    },
+    {
+        "channel-name": "DD ORIYA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96213"
+    },
+    {
+        "channel-name": "DD UP",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96214"
+    },
+    {
+        "channel-name": "DD URDU",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96215"
+    },
+    {
+        "channel-name": "DD MP",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96216"
+    },
+    {
+        "channel-name": "DD BHARTI",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96217"
+    },
+    {
+        "channel-name": "DISCOVERY JEET HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96218"
+    },
+    {
+        "channel-name": "DISCOVERY WORLD HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96219"
+    },
+    {
+        "channel-name": "E 24",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96220"
+    },
+    {
+        "channel-name": "ENTER 10 MOVIES",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96221"
+    },
+    {
+        "channel-name": "EPIC HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96222"
+    },
+    {
+        "channel-name": "FOX LIFE HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96223"
+    },
+    {
+        "channel-name": "HISTORY TV18 HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96224"
+    },
+    {
+        "channel-name": "HOUSEFULL ACTION",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96225"
+    },
+    {
+        "channel-name": "HUNGAMA BHAKTI SAGAR HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96227"
+    },
+    {
+        "channel-name": "HUNGAMA DIL SE HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96228"
+    },
+    {
+        "channel-name": "HUNGAMA KADAK HITS HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96229"
+    },
+    {
+        "channel-name": "HUNGAMA NAZRANA HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96230"
+    },
+    {
+        "channel-name": "HUNGAMA POP PATAKA HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96231"
+    },
+    {
+        "channel-name": "TV9 BHARATVARSH HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96232"
+    },
+    {
+        "channel-name": "LIVING FOODZ HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96233"
+    },
+    {
+        "channel-name": "MINIPLEX HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96234"
+    },
+    {
+        "channel-name": "MOVIES ACTIVE",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96235"
+    },
+    {
+        "channel-name": "MTV BEATS HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96236"
+    },
+    {
+        "channel-name": "MTV PLUS HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96237"
+    },
+    {
+        "channel-name": "MUSIC INDIA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96238"
+    },
+    {
+        "channel-name": "NAT GEO WILD HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/PICONS\/NATIONAL_GEOGRAPHIC_WILD_HD.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96239"
+    },
+    {
+        "channel-name": "NATIONAL GEOGRAPHIC HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96240"
+    },
+    {
+        "channel-name": "SAHARA BIHAR",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96242"
+    },
+    {
+        "channel-name": "NEWS 18 INDIA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96243"
+    },
+    {
+        "channel-name": "NEWS 18 RAJASTHAN",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96244"
+    },
+    {
+        "channel-name": "NEWS NATION",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96245"
+    },
+    {
+        "channel-name": "NEWS STATE",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96246"
+    },
+    {
+        "channel-name": "REPUBLIC TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96247"
+    },
+    {
+        "channel-name": "NICK PLUS HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96248"
+    },
+    {
+        "channel-name": "PARAS TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96249"
+    },
+    {
+        "channel-name": "PEACE OF MIND HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96250"
+    },
+    {
+        "channel-name": "SKY STAR MOVIES",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96251"
+    },
+    {
+        "channel-name": "ZEE CLASSICS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96252"
+    },
+    {
+        "channel-name": "TATA SKY BOLLYWOOD PREMIERE HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96253"
+    },
+    {
+        "channel-name": "UTV ACTION",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96254"
+    },
+    {
+        "channel-name": "UTV HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96255"
+    },
+    {
+        "channel-name": "VEDIC TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96256"
+    },
+    {
+        "channel-name": "WOW CINEMA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96257"
+    },
+    {
+        "channel-name": "ZEE ANMOL",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Anmol_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96258"
+    },
+    {
+        "channel-name": "ZEE ANMOL CINEMA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96259"
+    },
+    {
+        "channel-name": "ZEE HINDUSTAN NEWS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96260"
+    },
+    {
+        "channel-name": "ZEE NEWS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_News_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96261"
+    },
+    {
+        "channel-name": "ZEE NEWS BIHAR",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Bihar_Jharkhand_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96262"
+    },
+    {
+        "channel-name": "ZEE NEWS MP\/CHATTISGARH",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_MP_Chhattisgarh_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96263"
+    },
+    {
+        "channel-name": "ZEE NEWS UP",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_News_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96264"
+    },
+    {
+        "channel-name": "ZEE RAJASTHAN",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Rajasthan_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96265"
+    },
+    {
+        "channel-name": "ABN NEWS TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96266"
+    },
+    {
+        "channel-name": "POGO KIDS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96270"
+    },
+    {
+        "channel-name": "CINEMA TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96271"
+    },
+    {
+        "channel-name": "MOVIE HOUSE",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96272"
+    },
+    {
+        "channel-name": "GANGA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96273"
+    },
+    {
+        "channel-name": "AND FLIX HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96274"
+    },
+    {
+        "channel-name": "DISH CINE ACTIVE",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96275"
+    },
+    {
+        "channel-name": "EVERGREEN CLASSIC",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96276"
+    },
+    {
+        "channel-name": "DISNEY SD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/DISNEY.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96278"
+    },
+    {
+        "channel-name": "CNBC TV18 NEWS HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96279"
+    },
+    {
+        "channel-name": "TIMES NOW HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Times_Now_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96280"
+    },
+    {
+        "channel-name": "MNX HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96281"
+    },
+    {
+        "channel-name": "MOVIES NOW HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96282"
+    },
+    {
+        "channel-name": "MN PLUS HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96283"
+    },
+    {
+        "channel-name": "DISNEY INTERNATIONAL HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96284"
+    },
+    {
+        "channel-name": "TATA SKY BOLLYWOOD HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96285"
+    },
+    {
+        "channel-name": "CN PLUS HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96286"
+    },
+    {
+        "channel-name": "UTV MOVIES",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96287"
+    },
+    {
+        "channel-name": "DISNEY XD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/DISNEY_XD.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96288"
+    },
+    {
+        "channel-name": "ISHWAR TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Ishwar_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96289"
+    },
+    {
+        "channel-name": "CARTOON NETWORK",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/PICONS\/CARTOON_NETWORK..png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96290"
+    },
+    {
+        "channel-name": "REPUBLIC BHARAT",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/R.Bharat_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96291"
+    },
+    {
+        "channel-name": "B4U MUSIC",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/B4U_Music_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96292"
+    },
+    {
+        "channel-name": "INDIA NEWS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96294"
+    },
+    {
+        "channel-name": "INDIA TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96295"
+    },
+    {
+        "channel-name": "DANGAL",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96296"
+    },
+    {
+        "channel-name": "MASTII",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96297"
+    },
+    {
+        "channel-name": "NDTV INDIA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96298"
+    },
+    {
+        "channel-name": "INDIA NEWS MP",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96299"
+    },
+    {
+        "channel-name": "INDIA NEWS UP",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96300"
+    },
+    {
+        "channel-name": "INDIA NEWS HARYANA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96301"
+    },
+    {
+        "channel-name": "NEWS X",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96302"
+    },
+    {
+        "channel-name": "INDIA NEWS RAJASTHAN",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96303"
+    },
+    {
+        "channel-name": "SUDARSHAN NEWS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96304"
+    },
+    {
+        "channel-name": "MAHA MOVIE",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96305"
+    },
+    {
+        "channel-name": "SAHARA NEWS NATIONAL",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96306"
+    },
+    {
+        "channel-name": "SAHARA ONE",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Sahara_One_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96307"
+    },
+    {
+        "channel-name": "SAHARA MP",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96308"
+    },
+    {
+        "channel-name": "SAHARA MUMBAI",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96309"
+    },
+    {
+        "channel-name": "SAHARA NCR",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96310"
+    },
+    {
+        "channel-name": "SAHARA UP",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96311"
+    },
+    {
+        "channel-name": "SAHARA ALAMI",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96312"
+    },
+    {
+        "channel-name": "SAHARA FILMY",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96313"
+    },
+    {
+        "channel-name": "NDTV GOOD TIMES",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96315"
+    },
+    {
+        "channel-name": "OM SHANTI",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96318"
+    },
+    {
+        "channel-name": "IBC 24",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96319"
+    },
+    {
+        "channel-name": "NEWS 24",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96320"
+    },
+    {
+        "channel-name": "CVR NEWS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96321"
+    },
+    {
+        "channel-name": "SHUBH TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Shubh_TV_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96323"
+    },
+    {
+        "channel-name": "CHANNEL WIN",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96324"
+    },
+    {
+        "channel-name": "RAMDHENU",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96325"
+    },
+    {
+        "channel-name": "RENGONI",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Rengoni_TV_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96326"
+    },
+    {
+        "channel-name": "FOOD FOOD HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Food_Food_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96327"
+    },
+    {
+        "channel-name": "KRISHNA VANI HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96328"
+    },
+    {
+        "channel-name": "DILLI AAJ TAKK",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96329"
+    },
+    {
+        "channel-name": "PRAG NEWS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Prag_News_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96330"
+    },
+    {
+        "channel-name": "RANG",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96331"
+    },
+    {
+        "channel-name": "NEWS 18 LIVE",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/News18_India_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96332"
+    },
+    {
+        "channel-name": "NDTV PROFIT",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96333"
+    },
+    {
+        "channel-name": "NDTV 24x7",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/NDTV_24x7_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96334"
+    },
+    {
+        "channel-name": "INDIA TODAY",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96335"
+    },
+    {
+        "channel-name": "9X MUSIC",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96336"
+    },
+    {
+        "channel-name": "E NEWS 24",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96337"
+    },
+    {
+        "channel-name": "ZEE BUSINESS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Business_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96338"
+    },
+    {
+        "channel-name": "SANSKAR TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Sanskar_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96339"
+    },
+    {
+        "channel-name": "SATSANG TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Satsang_TV_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96340"
+    },
+    {
+        "channel-name": "DISCOVERY KIDS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96341"
+    },
+    {
+        "channel-name": "STAR GOLD 2",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96343"
+    },
+    {
+        "channel-name": "AND EXPLORER HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96344"
+    },
+    {
+        "channel-name": "ZEE ETC BOLLYWOOD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96345"
+    },
+    {
+        "channel-name": "HUNGAMA BOL HADIPA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96346"
+    },
+    {
+        "channel-name": "MIRROR NOW",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96347"
+    },
+    {
+        "channel-name": "ZEE YUVA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96350"
+    },
+    {
+        "channel-name": "PRARTHANA BHAWAN",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96351"
+    },
+    {
+        "channel-name": "RAJASTHAN PATRIKA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96352"
+    },
+    {
+        "channel-name": "REPUBLIC NEWS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Republic_TV_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96353"
+    },
+    {
+        "channel-name": "IDN LOKMAT",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96356"
+    },
+    {
+        "channel-name": "PEACE MUSIC",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96357"
+    },
+    {
+        "channel-name": "ZEE NEWS MP",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_News_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96358"
+    },
+    {
+        "channel-name": "DIVYA TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96360"
+    },
+    {
+        "channel-name": "TARANG TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Tarang_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96361"
+    },
+    {
+        "channel-name": "ALANKAR TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96362"
+    },
+    {
+        "channel-name": "YESHUAA TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96363"
+    },
+    {
+        "channel-name": "TARANG MUSIC",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Tarang_Music_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96364"
+    },
+    {
+        "channel-name": "SARTHAK TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Sarthak_TV_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96365"
+    },
+    {
+        "channel-name": "ZEE KALINGA",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Kalinga_IN.png",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96366"
+    },
+    {
+        "channel-name": "YESHUAA\u00a0TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/116087"
+    },
+    {
+        "channel-name": "CHANNEL Y",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/116086"
+    },
+    {
+        "channel-name": "GAUNDA PUNJAB TV",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/116084"
+    },
+    {
+        "channel-name": "TPS NETWORK",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/116083"
+    },
+    {
+        "channel-name": "===== BENGALI ===== ",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95765"
+    },
+    {
+        "channel-name": "BENGALI: COLORS BANGLA HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95766"
+    },
+    {
+        "channel-name": "BENGALI: NAT GEO HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/PICONS\/NATIONAL_GEO.png",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95767"
+    },
+    {
+        "channel-name": "BENGALI: SANGEET BANGLA",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95768"
+    },
+    {
+        "channel-name": "BENGALI: STAR JALSHA HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95769"
+    },
+    {
+        "channel-name": "BENGALI: STAR JALSHA MOVIES HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95770"
+    },
+    {
+        "channel-name": "BENGALI: TATA SKY BANGLA HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95771"
+    },
+    {
+        "channel-name": "BENGALI: DD BANGLA",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95772"
+    },
+    {
+        "channel-name": "BENGALI: AAKASH BANGLA",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95773"
+    },
+    {
+        "channel-name": "BENGALI: ZEE BANGLA CINEMA",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95774"
+    },
+    {
+        "channel-name": "BENGALI: 24 GHANTA",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95775"
+    },
+    {
+        "channel-name": "BENGALI: ABP ANANDA",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95776"
+    },
+    {
+        "channel-name": "BENGALI: ZEE BANGLA HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95778"
+    },
+    {
+        "channel-name": "===== BHOJPURI ===== ",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95779"
+    },
+    {
+        "channel-name": "BHOJPURI: DANGAL",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95780"
+    },
+    {
+        "channel-name": "BHOJPURI: SANGEET BHOJPURI",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95781"
+    },
+    {
+        "channel-name": "BHOJPURI: HUNGAMA DHAMAAL HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95782"
+    },
+    {
+        "channel-name": "BHOJPURI: BHOJPURI CINEMA",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95783"
+    },
+    {
+        "channel-name": "===== GUJARATI ===== ",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95784"
+    },
+    {
+        "channel-name": "GUJARATI: ABP ASMITA",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95785"
+    },
+    {
+        "channel-name": "GUJARATI: CNBC AAWAZ",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95786"
+    },
+    {
+        "channel-name": "GUJARATI: CNBC BAZAR",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95787"
+    },
+    {
+        "channel-name": "GUJARATI: COLORS GUJARATI",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95788"
+    },
+    {
+        "channel-name": "GUJARATI: COLORS GUJARATI CINEMA",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95789"
+    },
+    {
+        "channel-name": "GUJARATI: GSTV",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95790"
+    },
+    {
+        "channel-name": "GUJARATI: INDIA NEWS GUJARAT",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95791"
+    },
+    {
+        "channel-name": "GUJARATI: KARTAVYA TV",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95792"
+    },
+    {
+        "channel-name": "GUJARATI: LAKSHYA TV HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95793"
+    },
+    {
+        "channel-name": "GUJARATI: MANTAVYA NEWS",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95794"
+    },
+    {
+        "channel-name": "GUJARATI: SANDESH NEWS",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95795"
+    },
+    {
+        "channel-name": "GUJARATI: TV9 NEWS",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95796"
+    },
+    {
+        "channel-name": "GUJARATI: VANDE GUJARATI 1",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95797"
+    },
+    {
+        "channel-name": "GUJARATI: VANDE GUJARATI 10",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95798"
+    },
+    {
+        "channel-name": "GUJARATI: VANDE GUJARATI 11",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95799"
+    },
+    {
+        "channel-name": "GUJARATI: VANDE GUJARATI 12",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95800"
+    },
+    {
+        "channel-name": "GUJARATI: VANDE GUJARATI 13",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95801"
+    },
+    {
+        "channel-name": "GUJARATI: VANDE GUJARATI 14",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95802"
+    },
+    {
+        "channel-name": "GUJARATI: VANDE GUJARATI 15",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95803"
+    },
+    {
+        "channel-name": "GUJARATI: VANDE GUJARATI 16",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95804"
+    },
+    {
+        "channel-name": "GUJARATI: VANDE GUJARATI 17",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95805"
+    },
+    {
+        "channel-name": "GUJARATI: VANDE GUJARATI 2",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95806"
+    },
+    {
+        "channel-name": "GUJARATI: VANDE GUJARATI 3",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95807"
+    },
+    {
+        "channel-name": "GUJARATI: VANDE GUJARATI 4",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95808"
+    },
+    {
+        "channel-name": "GUJARATI: VANDE GUJARATI 5",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95809"
+    },
+    {
+        "channel-name": "GUJARATI: VANDE GUJARATI 6",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95810"
+    },
+    {
+        "channel-name": "GUJARATI: VANDE GUJARATI 7",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95811"
+    },
+    {
+        "channel-name": "GUJARATI: VANDE GUJARATI 8",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95812"
+    },
+    {
+        "channel-name": "GUJARATI: VANDE GUJARATI 9",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95813"
+    },
+    {
+        "channel-name": "GUJARATI: VTV NEWS",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95814"
+    },
+    {
+        "channel-name": "===== KANNADA =====",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95815"
+    },
+    {
+        "channel-name": "KANNADA: BTV NEWS",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95816"
+    },
+    {
+        "channel-name": "KANNADA: COLORS KANNADA HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95817"
+    },
+    {
+        "channel-name": "KANNADA: COLORS KANNADA MOVIES",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95818"
+    },
+    {
+        "channel-name": "KANNADA: COLORS SUPER",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95819"
+    },
+    {
+        "channel-name": "KANNADA: DD CHANDANA",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95820"
+    },
+    {
+        "channel-name": "KANNADA: DIGHVIJAY NEWS",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95821"
+    },
+    {
+        "channel-name": "KANNADA: KASTURI TV",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95822"
+    },
+    {
+        "channel-name": "KANNADA: NEWS 18",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95823"
+    },
+    {
+        "channel-name": "KANNADA: PUBLIC TV",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95824"
+    },
+    {
+        "channel-name": "KANNADA: RAJ MUSIC",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95825"
+    },
+    {
+        "channel-name": "KANNADA: RAJ NEWS KANNADA",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95826"
+    },
+    {
+        "channel-name": "KANNADA: SAKKAT HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95827"
+    },
+    {
+        "channel-name": "KANNADA: STAR SUVARNA HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95828"
+    },
+    {
+        "channel-name": "KANNADA: STAR SUVARNA NEWS",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95829"
+    },
+    {
+        "channel-name": "KANNADA: SUVARNA NEWS",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95830"
+    },
+    {
+        "channel-name": "KANNADA: TV9 KANNADA",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95831"
+    },
+    {
+        "channel-name": "KANNADA: UDAYA COMEDY",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95832"
+    },
+    {
+        "channel-name": "KANNADA: UDAYA HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95833"
+    },
+    {
+        "channel-name": "KANNADA: UDAYA MOVIES",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95834"
+    },
+    {
+        "channel-name": "KANNADA: UDAYA MUSIC",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95835"
+    },
+    {
+        "channel-name": "KANNADA: ZEE HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95836"
+    },
+    {
+        "channel-name": "===== MARATHI =====",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95837"
+    },
+    {
+        "channel-name": "9X JHAKAAS",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95838"
+    },
+    {
+        "channel-name": "COLORS MARATHI HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95839"
+    },
+    {
+        "channel-name": "DD SAHAYADRI",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95840"
+    },
+    {
+        "channel-name": "FAKHT MARATHI",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95841"
+    },
+    {
+        "channel-name": "SANGEET MARATHI",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95842"
+    },
+    {
+        "channel-name": "SONY AATH",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95843"
+    },
+    {
+        "channel-name": "SONY MARATHI",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95844"
+    },
+    {
+        "channel-name": "STAR PARVAH HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95845"
+    },
+    {
+        "channel-name": "TULJA BHAVANI",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95846"
+    },
+    {
+        "channel-name": "TV9 MARATHI",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95847"
+    },
+    {
+        "channel-name": "ZEE 24 TAAS",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95848"
+    },
+    {
+        "channel-name": "ZEE MARATHI HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95849"
+    },
+    {
+        "channel-name": "ZEE TALKIES HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95850"
+    },
+    {
+        "channel-name": "10 TV",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95852"
+    },
+    {
+        "channel-name": "BHAKTI TV",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95853"
+    },
+    {
+        "channel-name": "DD SAPTAGIRI",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95854"
+    },
+    {
+        "channel-name": "DISCOVERY WORLD HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95855"
+    },
+    {
+        "channel-name": "ETV CINEMA",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95856"
+    },
+    {
+        "channel-name": "ETV HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95857"
+    },
+    {
+        "channel-name": "ETV LIFE",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95858"
+    },
+    {
+        "channel-name": "ETV PLUS",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95859"
+    },
+    {
+        "channel-name": "GEMINI COMEDY",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95860"
+    },
+    {
+        "channel-name": "GEMINI HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95861"
+    },
+    {
+        "channel-name": "GEMINI LIFE",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95862"
+    },
+    {
+        "channel-name": "GEMINI MOVIES HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95863"
+    },
+    {
+        "channel-name": "GEMINI MUSIC",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95864"
+    },
+    {
+        "channel-name": "GEMINI NEWS",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95865"
+    },
+    {
+        "channel-name": "HISTORY 18 TELUGU HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95866"
+    },
+    {
+        "channel-name": "KUSHI TV",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95867"
+    },
+    {
+        "channel-name": "NATIONAL GEOGRAPHIC HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95868"
+    },
+    {
+        "channel-name": "RAJ MUSIC TELUGU",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95869"
+    },
+    {
+        "channel-name": "RAJ NEWS TELUGU",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95870"
+    },
+    {
+        "channel-name": "SONY BBC EARTH HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95871"
+    },
+    {
+        "channel-name": "SONY YAY",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95872"
+    },
+    {
+        "channel-name": "STAR MAA GOLD HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95873"
+    },
+    {
+        "channel-name": "STAR MAA HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95874"
+    },
+    {
+        "channel-name": "STAR MAA MOVIES HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95875"
+    },
+    {
+        "channel-name": "TATA SKY TELUGU CINEMA HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95876"
+    },
+    {
+        "channel-name": "TV5 NEWS",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95877"
+    },
+    {
+        "channel-name": "TV9 NEWS",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95878"
+    },
+    {
+        "channel-name": "V6 NEWS",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95879"
+    },
+    {
+        "channel-name": "VANITHA TV",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95880"
+    },
+    {
+        "channel-name": "VISSA TV",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95881"
+    },
+    {
+        "channel-name": "ZEE CINEMALU HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95882"
+    },
+    {
+        "channel-name": "ZEE TELUGU HD",
+        "tvg-logo": "",
+        "group-title": "SOUTH INDIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95883"
+    },
+    {
+        "channel-name": "D SPORTS HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "SPORTS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93721"
+    },
+    {
+        "channel-name": "DD SPORTS",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "SPORTS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93722"
+    },
+    {
+        "channel-name": "SONY SIX HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "SPORTS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93723"
+    },
+    {
+        "channel-name": "STAR SPORTS 1 HD ENGLISH",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Star_Sports_1_IN.png",
+        "group-title": "SPORTS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93724"
+    },
+    {
+        "channel-name": "STAR SPORTS 1 HD HINDI",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Star_Sports_1_IN.png",
+        "group-title": "SPORTS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93725"
+    },
+    {
+        "channel-name": "STAR SPORTS 2 HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Star_Sports_2_IN.png",
+        "group-title": "SPORTS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93726"
+    },
+    {
+        "channel-name": "STAR SPORTS 3",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "SPORTS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93727"
+    },
+    {
+        "channel-name": "STAR SPORTS FIRST",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "SPORTS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93728"
+    },
+    {
+        "channel-name": "STAR SPORTS SELECT 1 HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "SPORTS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93729"
+    },
+    {
+        "channel-name": "STAR SPORTS SELECT 2 HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "SPORTS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93730"
+    },
+    {
+        "channel-name": "STAR SPORTS TAMIL",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "SPORTS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93731"
+    },
+    {
+        "channel-name": "TEN 1 HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "SPORTS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93732"
+    },
+    {
+        "channel-name": "TEN 2 HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "SPORTS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93733"
+    },
+    {
+        "channel-name": "TEN 3 HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "SPORTS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93734"
+    },
+    {
+        "channel-name": "WILLOW CRICKET HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "SPORTS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93735"
+    },
+    {
+        "channel-name": "KAIRALI NEWS",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93572"
+    },
+    {
+        "channel-name": "KAUMUDY",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93573"
+    },
+    {
+        "channel-name": "SHOLAM TV",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93574"
+    },
+    {
+        "channel-name": "AMRITHA TV",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93575"
+    },
+    {
+        "channel-name": "ASIANET HD",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93576"
+    },
+    {
+        "channel-name": "ASIANET MOVIE",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93577"
+    },
+    {
+        "channel-name": "ASIANET NEWS HD",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93578"
+    },
+    {
+        "channel-name": "ASIANET PLUS",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93579"
+    },
+    {
+        "channel-name": "DD MALAYALAM",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93580"
+    },
+    {
+        "channel-name": "FLOWERS TV",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93581"
+    },
+    {
+        "channel-name": "JAIHIND TV",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93582"
+    },
+    {
+        "channel-name": "JANAM TV",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93583"
+    },
+    {
+        "channel-name": "KAIRALI ARABIA",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93584"
+    },
+    {
+        "channel-name": "KAIRALI PEOPLE TV",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93585"
+    },
+    {
+        "channel-name": "KAPPA TV",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93586"
+    },
+    {
+        "channel-name": "KOCHU TV",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93587"
+    },
+    {
+        "channel-name": "MANORAMA NEWS",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93588"
+    },
+    {
+        "channel-name": "MATHRUBHUMI NEWS",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93589"
+    },
+    {
+        "channel-name": "MAZAVIL MANORAMA HD",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93590"
+    },
+    {
+        "channel-name": "NEWS 18 KERALA",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93591"
+    },
+    {
+        "channel-name": "RAJ MUSIC",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93592"
+    },
+    {
+        "channel-name": "RAJ NEWS MALAYALAM",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93593"
+    },
+    {
+        "channel-name": "SAFARI TV",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93594"
+    },
+    {
+        "channel-name": "SURYA MOVIES",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93595"
+    },
+    {
+        "channel-name": "SURYA MUSIC",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93596"
+    },
+    {
+        "channel-name": "SURYA TV HD",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93597"
+    },
+    {
+        "channel-name": "WE TV",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93598"
+    },
+    {
+        "channel-name": "ZEE KERALAM HD",
+        "tvg-logo": "",
+        "group-title": "MALAYALAM",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93599"
+    },
+    {
+        "channel-name": "===== TAMIL =====",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100099"
+    },
+    {
+        "channel-name": " ADHTIYA TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100100"
+    },
+    {
+        "channel-name": " ANGEL TV HD",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100103"
+    },
+    {
+        "channel-name": " ATHAVAN TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100104"
+    },
+    {
+        "channel-name": " CAPTAIN NEWS",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100105"
+    },
+    {
+        "channel-name": " CAPTAIN TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100106"
+    },
+    {
+        "channel-name": " CHUTTI TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100108"
+    },
+    {
+        "channel-name": " COLORS TAMIL HD",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100109"
+    },
+    {
+        "channel-name": " DD PODHIGAI",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100110"
+    },
+    {
+        "channel-name": " DD SAPTAGIRI",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100111"
+    },
+    {
+        "channel-name": " DISCOVERY KIDS TAMIL",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100112"
+    },
+    {
+        "channel-name": " DISCOVERY WORLD HD",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100113"
+    },
+    {
+        "channel-name": " FLOWERS TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100114"
+    },
+    {
+        "channel-name": " FOX LIFE HD",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100115"
+    },
+    {
+        "channel-name": " HISTORY TV18 HD",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100116"
+    },
+    {
+        "channel-name": " IBC BAKTHI",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100117"
+    },
+    {
+        "channel-name": " IBC COMEDY",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100118"
+    },
+    {
+        "channel-name": " IBC TAMIL",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100119"
+    },
+    {
+        "channel-name": " IMAYAM TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100120"
+    },
+    {
+        "channel-name": " J MOVIES",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100121"
+    },
+    {
+        "channel-name": " JAYA MAX",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100122"
+    },
+    {
+        "channel-name": " JAYA PLUS",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100123"
+    },
+    {
+        "channel-name": " JAYA TV HD",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100124"
+    },
+    {
+        "channel-name": " KTV HD",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100125"
+    },
+    {
+        "channel-name": " LOTUS NEWS",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100126"
+    },
+    {
+        "channel-name": " MADHA TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100127"
+    },
+    {
+        "channel-name": " MAKKAL TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100129"
+    },
+    {
+        "channel-name": " MK TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100132"
+    },
+    {
+        "channel-name": " MOON TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100133"
+    },
+    {
+        "channel-name": " NAT GEO WILD HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/PICONS\/NATIONAL_GEOGRAPHIC_WILD_HD.png",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100135"
+    },
+    {
+        "channel-name": " NATIONAL GEOGRAPHIC HD",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100136"
+    },
+    {
+        "channel-name": " NEWS 18 TAMIL NADU",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100137"
+    },
+    {
+        "channel-name": " POLIMER NEWS",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100139"
+    },
+    {
+        "channel-name": " POLIMER TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100140"
+    },
+    {
+        "channel-name": " PUTHIYA THALIMURAI",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100141"
+    },
+    {
+        "channel-name": " PUTHUYUGAM",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100142"
+    },
+    {
+        "channel-name": " RAGAM TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100143"
+    },
+    {
+        "channel-name": " RAJ DIGITAL PLUS",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100144"
+    },
+    {
+        "channel-name": " RAJ MUSIX",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100145"
+    },
+    {
+        "channel-name": " RAJ NEWS",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100146"
+    },
+    {
+        "channel-name": " RAJ TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100147"
+    },
+    {
+        "channel-name": " SAHANA TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100148"
+    },
+    {
+        "channel-name": " SATHIYAM TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100150"
+    },
+    {
+        "channel-name": " SONY BBC EARTH HD",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100151"
+    },
+    {
+        "channel-name": " SONY YAY",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100152"
+    },
+    {
+        "channel-name": " STAR VIJAY HD",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100153"
+    },
+    {
+        "channel-name": " SUN LIFE",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100154"
+    },
+    {
+        "channel-name": " SUN MUSIC HD",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100155"
+    },
+    {
+        "channel-name": " SUN NEWS",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100156"
+    },
+    {
+        "channel-name": " SUN TV HD",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100157"
+    },
+    {
+        "channel-name": " TAMILAN TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100158"
+    },
+    {
+        "channel-name": " TATA SKY TAMIL CINEMA",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100159"
+    },
+    {
+        "channel-name": " THANTHI TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100160"
+    },
+    {
+        "channel-name": " TUNE 6",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100161"
+    },
+    {
+        "channel-name": " TVI HD",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100162"
+    },
+    {
+        "channel-name": " VALICHAM PLUS",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100163"
+    },
+    {
+        "channel-name": " VASANTH TV",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100165"
+    },
+    {
+        "channel-name": " VIJAY SUPER HD",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100167"
+    },
+    {
+        "channel-name": " WIN NEWS",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100168"
+    },
+    {
+        "channel-name": " ZEE TAMIL HD",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100169"
+    },
+    {
+        "channel-name": " ZEE TAMIL SD",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100170"
+    },
+    {
+        "channel-name": " ZEE THIRAI",
+        "tvg-logo": "",
+        "group-title": "TAMIL",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100171"
+    },
+    {
+        "channel-name": "===== PUNJABI GENERAL =====",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93686"
+    },
+    {
+        "channel-name": "AIKAM TV HD",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93687"
+    },
+    {
+        "channel-name": "BRIT ASIA",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93688"
+    },
+    {
+        "channel-name": "CHARDIKALAH TIMES TV",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93689"
+    },
+    {
+        "channel-name": "CHARDIKLA TIMES TV",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93690"
+    },
+    {
+        "channel-name": "DD PUNJABI",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93691"
+    },
+    {
+        "channel-name": "DESI CHANNEL",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93692"
+    },
+    {
+        "channel-name": "FATEH TV",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93693"
+    },
+    {
+        "channel-name": "GLOBAL PUNJABI HD",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93694"
+    },
+    {
+        "channel-name": "HUNGAMA AMRITVANI HD",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93695"
+    },
+    {
+        "channel-name": "INDIA NEWS PUNJAB",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93696"
+    },
+    {
+        "channel-name": "JASHAN TV HD",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93697"
+    },
+    {
+        "channel-name": "JUS 24x7",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93698"
+    },
+    {
+        "channel-name": "JUS ONE",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93699"
+    },
+    {
+        "channel-name": "LIVING INDIA NEWS",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93700"
+    },
+    {
+        "channel-name": "MAHA",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93701"
+    },
+    {
+        "channel-name": "MANORANJAN MOVIES",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93702"
+    },
+    {
+        "channel-name": "MANORANJAN TV",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93703"
+    },
+    {
+        "channel-name": "MH1 MUSIC",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93704"
+    },
+    {
+        "channel-name": "MH1 NEWS",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93705"
+    },
+    {
+        "channel-name": "MH1 SHRADDHA",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93706"
+    },
+    {
+        "channel-name": "NEWS 18 PUNJAB HARYANA",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93707"
+    },
+    {
+        "channel-name": "PCHS TV HD",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93708"
+    },
+    {
+        "channel-name": "PITAARA TV",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93709"
+    },
+    {
+        "channel-name": "PRIME ASIA HD",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93710"
+    },
+    {
+        "channel-name": "PTC CHAKDE",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93711"
+    },
+    {
+        "channel-name": "PTC NEWS",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93712"
+    },
+    {
+        "channel-name": "PTC PUNJABI",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93713"
+    },
+    {
+        "channel-name": "SANJHA TV HD",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93714"
+    },
+    {
+        "channel-name": "SSTV HD",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93715"
+    },
+    {
+        "channel-name": "TADKA",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93716"
+    },
+    {
+        "channel-name": "TATA SKY PUNJAB DE RANG",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93717"
+    },
+    {
+        "channel-name": "ZEE PUNJAB HARYANA HD",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93718"
+    },
+    {
+        "channel-name": "ZEE PUNJABI",
+        "tvg-logo": "",
+        "group-title": "ASIA",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93719"
+    }
+]
