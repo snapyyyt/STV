@@ -853,5 +853,113 @@
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
         "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_Oriya_voot_MOB\/Fallback\/index.m3u8"
+    },
+    {
+        "channel-name": "Discovery Channel HD",
+        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798826.png",
+        "group-title": " DISCOVERY+",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery_Channel.m3u8"
+    },
+    {
+        "channel-name": "Animal Planet HD",
+        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798827.png",
+        "group-title": " DISCOVERY+",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Animal_Planet.m3u8"
+    },
+    {
+        "channel-name": "Discovery Science",
+        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798828.png",
+        "group-title": " DISCOVERY+",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery_Science.m3u8"
+    },
+    {
+        "channel-name": "TLC HD",
+        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798829.png",
+        "group-title": " DISCOVERY+",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/TLC.m3u8"
+    },
+    {
+        "channel-name": "Discovery Turbo",
+        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798830.png",
+        "group-title": " DISCOVERY+",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery_Turbo.m3u8"
+    },
+    {
+        "channel-name": "Investigation Discovery",
+        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798831.png",
+        "group-title": " DISCOVERY+",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Investigation_Discovery.m3u8"
+    },
+    {
+        "channel-name": "Eurosport HD",
+        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798832.png",
+        "group-title": " DISCOVERY+",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Eurosport.m3u8"
+    },
+    {
+        "channel-name": "DMAX",
+        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/833223836.png",
+        "group-title": " DISCOVERY+",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/DMAX.m3u8"
+    },
+    {
+        "channel-name": "TRVL Channel",
+        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798834.png",
+        "group-title": " DISCOVERY+",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/TRVL_Channel.m3u8"
+    },
+    {
+        "channel-name": "HGTV",
+        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798835.png",
+        "group-title": " DISCOVERY+",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/HGTV.m3u8"
+    },
+    {
+        "channel-name": "Food Network",
+        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798836.png",
+        "group-title": " DISCOVERY+",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Food%20Network.m3u8"
+    },
+    {
+        "channel-name": "Discovery Kids",
+        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798837.png",
+        "group-title": " DISCOVERY+",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery_Kids.m3u8"
     }
 ]
