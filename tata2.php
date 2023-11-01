@@ -1,4 +1,5 @@
-[   {
+[  
+  {
         "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6c\/2014_Disney_Channel_logo.svg\/1200px-2014_Disney_Channel_logo.svg.png",
         "group-title": "Kids",
         "channel-name": "Disney Channel HD ",
@@ -78,4297 +79,4982 @@
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
     },
+[
     {
-        "channel-name": "STAR PLUS HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/STAR_PLUS_TV.png",
-        "group-title": "INDIA",
+        "channel-name": "Goldmines",
+        "tvg-logo": "",
+        "group-title": "Movies",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100798"
+        "video-streaming-link": "https:\/\/livectv.phando.com\/8073\/chunklist0.m3u8"
     },
     {
-        "channel-name": "STAR PLUS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/STAR_PLUS_TV.png",
-        "group-title": "INDIA",
+        "channel-name": "& Pictures HD",
+        "tvg-logo": "",
+        "group-title": "Movies",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100799"
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Andpictureshd\/default\/index.m3u8"
     },
     {
-        "channel-name": "STAR GOLD HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/UTSAV_GOLD_HD.png",
-        "group-title": "INDIA",
+        "channel-name": "Sony MAX HD",
+        "tvg-logo": "",
+        "group-title": "Movies",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100800"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/UcjHNJmCQ1WRlGKlZm73QA\/master.m3u8"
     },
     {
-        "channel-name": "STAR GOLD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/UTSAV_GOLD_HD.png",
-        "group-title": "INDIA",
+        "channel-name": "Sony MAX",
+        "tvg-logo": "",
+        "group-title": "Movies",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100801"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/Oc1isQAET3WaNPoABfScmg\/master.m3u8"
     },
     {
-        "channel-name": "STAR BHARAT",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/UTSAV_BHARAT.png",
-        "group-title": "INDIA",
+        "channel-name": "Sony WAH",
+        "tvg-logo": "",
+        "group-title": "Movies",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100802"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/gX5rCBf6Q7-D5AWY-sovzQ\/master.m3u8"
     },
     {
-        "channel-name": "ZEE TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/ZEE_A.png",
-        "group-title": "INDIA",
+        "channel-name": "Sony MAX2",
+        "tvg-logo": "",
+        "group-title": "Movies",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100803"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/MdQ5Zy-PSraOccXu8jflCg\/master.m3u8"
     },
     {
-        "channel-name": "ZEE CINEMA HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Cinema_HD_IN.png",
-        "group-title": "INDIA",
+        "channel-name": "Goldmines Bollywood",
+        "tvg-logo": "",
+        "group-title": "Movies",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100804"
+        "video-streaming-link": "https:\/\/livectv.phando.com\/8029\/playlist.m3u8"
+    },
+    {
+        "channel-name": "Goldmines Movies",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/livectv.phando.com\/8072\/chunklist0.m3u8"
+    },
+    {
+        "channel-name": "Dhinchak",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/livectv.phando.com\/8070\/chunklist0.m3u8"
+    },
+    {
+        "channel-name": "Mh1 dilse",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/livectv.phando.com\/8006\/chunklist0.m3u8"
+    },
+    {
+        "channel-name": "Star Gold HD",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1070"
+    },
+    {
+        "channel-name": "Star Gold HD 2",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/43919"
+    },
+    {
+        "channel-name": "Shemaroo Bollywood",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv\/playlist\/amg00864-shemarooenterta-shemabollywood-ono\/playlist.m3u8"
+    },
+    {
+        "channel-name": "Colors Cineplex Bollywood",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_Cineplex_Bollywood_voot_MOB\/Fallback\/index.m3u8"
+    },
+    {
+        "channel-name": "Zee Cinema HD",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeecinemahd\/default\/index.m3u8"
+    },
+    {
+        "channel-name": "Zee Cinema",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeecinema\/default\/index.m3u8"
+    },
+    {
+        "channel-name": "Zee Anmol Cinema",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeeanmolcinema\/default\/index.m3u8"
+    },
+    {
+        "channel-name": "Zee Bollywood",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeebollywood\/default\/index.m3u8"
+    },
+    {
+        "channel-name": "Zee Action",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/37.49.230.42:8080\/7abb81c7\/e9c0e4445d\/1353"
+    },
+    {
+        "channel-name": "B4U Plus",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/www.premiumiptvmk.com:8080\/silversatcom\/J662bwtY7Tev877u\/1367"
+    },
+    {
+        "channel-name": "B4U Kadak",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/livectv.phando.com\/8060\/playlist.m3u8"
+    },
+    {
+        "channel-name": "B4U Movies",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/www.premiumiptvmk.com:8080\/silversatcom\/J662bwtY7Tev877u\/1369"
+    },
+    {
+        "channel-name": "Colors Cineplex Superhits",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Rishtey_Cineplex_voot_MOB\/Fallback\/index.m3u8"
+    },
+    {
+        "channel-name": "Colors Cineplex",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_Cineplex_voot_MOB\/Fallback\/Colors_Cineplex_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8"
+    },
+    {
+        "channel-name": "Bflix +",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/livectv.phando.com\/8079\/playlist.m3u8"
+    },
+    {
+        "channel-name": "Bflix Movies",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/livectv.phando.com\/8079\/chunklist0.m3u8"
+    },
+    {
+        "channel-name": "Goldmines",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/livectv.phando.com\/8073\/chunklist0.m3u8"
+    },
+    {
+        "channel-name": "Goldmines Movies",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/livectv.phando.com\/8072\/chunklist0.m3u8"
+    },
+    {
+        "channel-name": "Dhinchak",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/livectv.phando.com\/8070\/chunklist0.m3u8"
+    },
+    {
+        "channel-name": "ABZY Movies",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/livectv1.phando.com\/8026\/chunklist0.m3u8"
+    },
+    {
+        "channel-name": "Sony MAX HD",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/UcjHNJmCQ1WRlGKlZm73QA\/master.m3u8"
+    },
+    {
+        "channel-name": "Sony MAX",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/Oc1isQAET3WaNPoABfScmg\/master.m3u8"
+    },
+    {
+        "channel-name": "Sony WAH",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/gX5rCBf6Q7-D5AWY-sovzQ\/master.m3u8"
+    },
+    {
+        "channel-name": "Sony MAX2",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/MdQ5Zy-PSraOccXu8jflCg\/master.m3u8"
+    },
+    {
+        "channel-name": "Enterr 10",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/www.premiumiptvmk.com:8080\/silversatcom\/J662bwtY7Tev877u\/193025"
+    },
+    {
+        "channel-name": "Zee bollywood",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeebollywood\/default\/index.m3u8"
+    },
+    {
+        "channel-name": "Maha Movies",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/longstream-04.ajaah.com\/PlayBoxTV\/MahaMovies\/playlist.m3u8"
+    },
+    {
+        "channel-name": "Shemaroo Bollywood",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv\/playlist\/amg00864-shemarooenterta-shemabollywood-ono\/playlist.m3u8"
+    },
+    {
+        "channel-name": "Zee Action",
+        "tvg-logo": "",
+        "group-title": "Movies",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeeaction\/default\/index.m3u8"
     },
     {
         "channel-name": "ZEE CINEMA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Cinema_IN.png",
-        "group-title": "INDIA",
+        "tvg-logo": "",
+        "group-title": "Movies",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100805"
-    },
-    {
-        "channel-name": "SONY ASIA HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100806"
-    },
-    {
-        "channel-name": "SONY ASIA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100807"
-    },
-    {
-        "channel-name": "SONY MAX HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/SET_Max_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100808"
-    },
-    {
-        "channel-name": "SONY MAX",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/SET_Max_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100809"
-    },
-    {
-        "channel-name": "SONY MAX 2",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Sony_Max_2_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100810"
-    },
-    {
-        "channel-name": "COLORS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/COLORS.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100811"
-    },
-    {
-        "channel-name": "COLORS HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/COLORS_HD.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100812"
-    },
-    {
-        "channel-name": "SONY SAB",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/SAB_TV_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100813"
-    },
-    {
-        "channel-name": "COLORS RISHTEY TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Colors_Rishtey_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100814"
-    },
-    {
-        "channel-name": "COLORS CINEPLEX",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Colors_Cineplex_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100815"
-    },
-    {
-        "channel-name": "B4U MOVIES",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/B4U_Movies_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100816"
-    },
-    {
-        "channel-name": "B4U MUSIC",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/B4U_Music_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100817"
-    },
-    {
-        "channel-name": "B4U PLUS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100818"
-    },
-    {
-        "channel-name": "ZING",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zing_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100819"
-    },
-    {
-        "channel-name": "BRIT ASIA TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/BRIT_ASIA_TV.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100820"
-    },
-    {
-        "channel-name": "VENUS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/VENUS.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100821"
-    },
-    {
-        "channel-name": "ABP NEWS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100822"
-    },
-    {
-        "channel-name": "AAJ TAK",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Aaj_Tak_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100823"
-    },
-    {
-        "channel-name": "NDTV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/NDTV_24x7_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100824"
-    },
-    {
-        "channel-name": "AASTHA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Aastha_TV_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100825"
-    },
-    {
-        "channel-name": "PTC PUNJABI",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/PTC_Punjabi_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100826"
-    },
-    {
-        "channel-name": "SIKH CHANNEL",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100827"
-    },
-    {
-        "channel-name": "AKAAL CHANNEL",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100828"
-    },
-    {
-        "channel-name": "SANGAT",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100829"
-    },
-    {
-        "channel-name": "MATV NATIONAL",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100830"
-    },
-    {
-        "channel-name": "REPUBLIC TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Republic_TV_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100831"
-    },
-    {
-        "channel-name": "KTV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/KTV_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100832"
-    },
-    {
-        "channel-name": "===== GENERAL =====",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96166"
-    },
-    {
-        "channel-name": "DESI PLUS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96168"
-    },
-    {
-        "channel-name": "ZEE ACTION",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96169"
-    },
-    {
-        "channel-name": "ZEE TV HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96170"
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeecinema\/default\/index.m3u8"
     },
     {
         "channel-name": "ZEE CINEMA HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
+        "tvg-logo": "",
+        "group-title": "Movies",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96171"
-    },
-    {
-        "channel-name": "ZING",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96172"
-    },
-    {
-        "channel-name": "STAR BHARAT HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96173"
-    },
-    {
-        "channel-name": "STAR GOLD HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96174"
-    },
-    {
-        "channel-name": "STAR GOLD SELECT HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96175"
-    },
-    {
-        "channel-name": "STAR PLUS HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96176"
-    },
-    {
-        "channel-name": "STAR UTSAV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96177"
-    },
-    {
-        "channel-name": "STAR UTSAV MOVIES",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96178"
-    },
-    {
-        "channel-name": "SONY HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96179"
-    },
-    {
-        "channel-name": "SONY MAX HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96180"
-    },
-    {
-        "channel-name": "SONY MAX 2",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96181"
-    },
-    {
-        "channel-name": "SONY PIX HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96182"
-    },
-    {
-        "channel-name": "SONY BBC EARTH HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96183"
-    },
-    {
-        "channel-name": "SONY SAB HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96184"
-    },
-    {
-        "channel-name": "SONY PAL",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96185"
-    },
-    {
-        "channel-name": "SONY WAH",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96186"
-    },
-    {
-        "channel-name": "SONY YAY",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96187"
-    },
-    {
-        "channel-name": "B4U MOVIES",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96189"
-    },
-    {
-        "channel-name": "COLORS HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96190"
-    },
-    {
-        "channel-name": "9X JALWA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96191"
-    },
-    {
-        "channel-name": "AAJ TAK HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96192"
-    },
-    {
-        "channel-name": "AAJ TAK TEZ",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96193"
-    },
-    {
-        "channel-name": "AASTHA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96194"
-    },
-    {
-        "channel-name": "AASTHA BHAJAN",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96195"
-    },
-    {
-        "channel-name": "ABP NEWS INDIA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96196"
-    },
-    {
-        "channel-name": "AND PICTURES HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96197"
-    },
-    {
-        "channel-name": "AND TV HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96198"
-    },
-    {
-        "channel-name": "ANIMAL PLANET HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/PICONS\/ANIMAL_PLANET_HD.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96199"
-    },
-    {
-        "channel-name": "ARIHANT",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96200"
-    },
-    {
-        "channel-name": "BABY TV HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96201"
-    },
-    {
-        "channel-name": "BIG MAGIC HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96202"
-    },
-    {
-        "channel-name": "BINDAS MOVIES",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96203"
-    },
-    {
-        "channel-name": "CINEPLEX HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96204"
-    },
-    {
-        "channel-name": "COMEDY ACTIVE",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96205"
-    },
-    {
-        "channel-name": "DD NATIONAL HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96206"
-    },
-    {
-        "channel-name": "DD RAJASTHAN",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96207"
-    },
-    {
-        "channel-name": "DD BHARATI",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96208"
-    },
-    {
-        "channel-name": "DD BIHAR",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96209"
-    },
-    {
-        "channel-name": "DD INDIA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96210"
-    },
-    {
-        "channel-name": "DD NEWS HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96211"
-    },
-    {
-        "channel-name": "DD SPORTS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96212"
-    },
-    {
-        "channel-name": "DD ORIYA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96213"
-    },
-    {
-        "channel-name": "DD UP",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96214"
-    },
-    {
-        "channel-name": "DD URDU",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96215"
-    },
-    {
-        "channel-name": "DD MP",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96216"
-    },
-    {
-        "channel-name": "DD BHARTI",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96217"
-    },
-    {
-        "channel-name": "DISCOVERY JEET HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96218"
-    },
-    {
-        "channel-name": "DISCOVERY WORLD HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96219"
-    },
-    {
-        "channel-name": "E 24",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96220"
-    },
-    {
-        "channel-name": "ENTER 10 MOVIES",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96221"
-    },
-    {
-        "channel-name": "EPIC HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96222"
-    },
-    {
-        "channel-name": "FOX LIFE HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96223"
-    },
-    {
-        "channel-name": "HISTORY TV18 HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96224"
-    },
-    {
-        "channel-name": "HOUSEFULL ACTION",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96225"
-    },
-    {
-        "channel-name": "HUNGAMA BHAKTI SAGAR HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96227"
-    },
-    {
-        "channel-name": "HUNGAMA DIL SE HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96228"
-    },
-    {
-        "channel-name": "HUNGAMA KADAK HITS HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96229"
-    },
-    {
-        "channel-name": "HUNGAMA NAZRANA HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96230"
-    },
-    {
-        "channel-name": "HUNGAMA POP PATAKA HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96231"
-    },
-    {
-        "channel-name": "TV9 BHARATVARSH HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96232"
-    },
-    {
-        "channel-name": "LIVING FOODZ HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96233"
-    },
-    {
-        "channel-name": "MINIPLEX HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96234"
-    },
-    {
-        "channel-name": "MOVIES ACTIVE",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96235"
-    },
-    {
-        "channel-name": "MTV BEATS HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96236"
-    },
-    {
-        "channel-name": "MTV PLUS HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96237"
-    },
-    {
-        "channel-name": "MUSIC INDIA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96238"
-    },
-    {
-        "channel-name": "NAT GEO WILD HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/PICONS\/NATIONAL_GEOGRAPHIC_WILD_HD.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96239"
-    },
-    {
-        "channel-name": "NATIONAL GEOGRAPHIC HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96240"
-    },
-    {
-        "channel-name": "SAHARA BIHAR",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96242"
-    },
-    {
-        "channel-name": "NEWS 18 INDIA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96243"
-    },
-    {
-        "channel-name": "NEWS 18 RAJASTHAN",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96244"
-    },
-    {
-        "channel-name": "NEWS NATION",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96245"
-    },
-    {
-        "channel-name": "NEWS STATE",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96246"
-    },
-    {
-        "channel-name": "REPUBLIC TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96247"
-    },
-    {
-        "channel-name": "NICK PLUS HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96248"
-    },
-    {
-        "channel-name": "PARAS TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96249"
-    },
-    {
-        "channel-name": "PEACE OF MIND HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96250"
-    },
-    {
-        "channel-name": "SKY STAR MOVIES",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96251"
-    },
-    {
-        "channel-name": "ZEE CLASSICS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96252"
-    },
-    {
-        "channel-name": "TATA SKY BOLLYWOOD PREMIERE HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96253"
-    },
-    {
-        "channel-name": "UTV ACTION",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96254"
-    },
-    {
-        "channel-name": "UTV HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96255"
-    },
-    {
-        "channel-name": "VEDIC TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96256"
-    },
-    {
-        "channel-name": "WOW CINEMA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96257"
-    },
-    {
-        "channel-name": "ZEE ANMOL",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Anmol_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96258"
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeecinemahd\/default\/index.m3u8"
     },
     {
         "channel-name": "ZEE ANMOL CINEMA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
+        "tvg-logo": "",
+        "group-title": "Movies",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96259"
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeeanmolcinema\/default\/index.m3u8"
     },
     {
-        "channel-name": "ZEE HINDUSTAN NEWS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
+        "channel-name": "Star gold",
+        "tvg-logo": "",
+        "group-title": "Movies",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96260"
+        "video-streaming-link": "http:\/\/xtv.ooo:8080\/Rizwan335\/2217286\/109959"
+    },
+    {
+        "channel-name": "Shemaroo Umang",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/livectv.phando.com\/8077\/chunklist0.m3u8"
+    },
+    {
+        "channel-name": "Colors HD",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_HD_voot_MOB\/Fallback\/index.m3u8"
+    },
+    {
+        "channel-name": "Colors Rishtey",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_Rishtey_voot_MOB\/Fallback\/index.m3u8"
+    },
+    {
+        "channel-name": "Dangal TV",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/longstream-03.ajaah.com\/PlayBoxTV\/Dangal\/playlist.m3u8"
+    },
+    {
+        "channel-name": "Dangal TV 2",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/longstream-04.ajaah.com\/PlayBoxTV\/Enter10\/playlist.m3u8"
+    },
+    {
+        "channel-name": "Sony Sab HD",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/CrTivkDESWqwvUj3zFEYEA\/master.m3u8"
+    },
+    {
+        "channel-name": "Sony Entertainmet Television",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/dBdwOiGaQvy0TA1zOsjV6w\/master.m3u8"
+    },
+    {
+        "channel-name": "Sony Pal",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/dhPrGRwDRvuMQtmlzppzQQ\/master.m3u8"
+    },
+    {
+        "channel-name": "Epic Tv",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/epiconvh.s.llnwi.net\/epic\/master.m3u8"
+    },
+    {
+        "channel-name": "Nazara",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/epiconvh.s.llnwi.net\/nazara\/master_480.m3u8"
+    },
+    {
+        "channel-name": "Sony kal",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com\/v1\/master\/04fd913bb278d8775298c26fdca9d9841f37601f\/Plex_SonyKAL\/playlist.m3u8"
+    },
+    {
+        "channel-name": "The q",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/cdn-apse1-prod.tsv2.amagi.tv\/linear\/amg01687-qyouindia-theqwatcho-ono\/playlist.m3u8"
+    },
+    {
+        "channel-name": "DD National",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Ddnational\/default\/index.m3u8"
+    },
+    {
+        "channel-name": "DD Bharti",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/ythls.onrender.com\/channel\/UCIAnlTV3O9NYWMI-DwYZaWg.m3u8"
+    },
+    {
+        "channel-name": "Sony Sd",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/103.72.179.30:1935\/GECHindi\/SONY.stream_720p\/Playlist.m3u8"
+    },
+    {
+        "channel-name": "Bindaas",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/172.107.94.243:9000\/live\/premium-aostv-free\/download-fdrm-aostv.asia\/18163.ts"
+    },
+    {
+        "channel-name": "Utsav bharat",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/172.107.94.243:9000\/live\/premium-aostv-free\/download-fdrm-aostv.asia\/17457.ts"
+    },
+    {
+        "channel-name": "Utsav plus",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/www.beastplayer.tk\/LiveTv\/XTv\/iptv.php?id=104"
+    },
+    {
+        "channel-name": "Zee Tv HD",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/str24.l9574.com\/606.stream\/index.m3u8"
+    },
+    {
+        "channel-name": "ZEE ANMOL",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeeanmol\/default\/index.m3u8"
+    },
+    {
+        "channel-name": "And tv hd",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Andtvhd\/default\/index.m3u8"
+    },
+    {
+        "channel-name": "Star plus",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/16091"
+    },
+    {
+        "channel-name": "Star Bharat",
+        "tvg-logo": "",
+        "group-title": "Entertainment",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/284583"
+    },
+    {
+        "channel-name": "Republic Bharat News",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/ottrb7.republicworld.com\/httppush\/ottrb_republic_hindi\/chunklist_1.m3u8"
     },
     {
         "channel-name": "ZEE NEWS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_News_IN.png",
-        "group-title": "INDIA",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96261"
+        "video-streaming-link": "https:\/\/dknttpxmr0dwf.cloudfront.net\/index_2.m3u8"
     },
     {
-        "channel-name": "ZEE NEWS BIHAR",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Bihar_Jharkhand_IN.png",
-        "group-title": "INDIA",
+        "channel-name": "ZEE NEWS UP\/UK",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96262"
+        "video-streaming-link": "https:\/\/duw35ict5q7th.cloudfront.net\/index_3.m3u8"
     },
     {
-        "channel-name": "ZEE NEWS MP\/CHATTISGARH",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_MP_Chhattisgarh_IN.png",
-        "group-title": "INDIA",
+        "channel-name": "News 18 UP\/UK",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96263"
+        "video-streaming-link": "https:\/\/nw18live.cdn.jio.com\/bpk-tv\/News18_UP_Uttarakhand_NW18_MOB\/output01\/News18_UP_Uttarakhand_NW18_MOB-audio_131634_eng=131600-video=3110800.m3u8"
     },
     {
-        "channel-name": "ZEE NEWS UP",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_News_IN.png",
-        "group-title": "INDIA",
+        "channel-name": "AAJ TAK HD",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96264"
+        "video-streaming-link": "https:\/\/aajtakhdlive-amd.akamaized.net\/hls\/live\/2014415\/aajtakhd\/aajtakhdlive\/live_720p\/chunks.m3u8"
     },
     {
-        "channel-name": "ZEE RAJASTHAN",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Rajasthan_IN.png",
-        "group-title": "INDIA",
+        "channel-name": "GNT News",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96265"
+        "video-streaming-link": "https:\/\/aajtakhdlive-amd.akamaized.net\/hls\/live\/2014415\/aajtakhd\/aajtakhdlive\/live_720p\/chunks.m3u8"
     },
     {
-        "channel-name": "ABN NEWS TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
+        "channel-name": "APB NEWS",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96266"
-    },
-    {
-        "channel-name": "POGO KIDS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96270"
-    },
-    {
-        "channel-name": "CINEMA TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96271"
-    },
-    {
-        "channel-name": "MOVIE HOUSE",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96272"
-    },
-    {
-        "channel-name": "GANGA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96273"
-    },
-    {
-        "channel-name": "AND FLIX HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96274"
-    },
-    {
-        "channel-name": "DISH CINE ACTIVE",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96275"
-    },
-    {
-        "channel-name": "EVERGREEN CLASSIC",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96276"
-    },
-    {
-        "channel-name": "DISNEY SD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/DISNEY.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96278"
-    },
-    {
-        "channel-name": "CNBC TV18 NEWS HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96279"
-    },
-    {
-        "channel-name": "TIMES NOW HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Times_Now_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96280"
-    },
-    {
-        "channel-name": "MNX HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96281"
-    },
-    {
-        "channel-name": "MOVIES NOW HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96282"
-    },
-    {
-        "channel-name": "MN PLUS HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96283"
-    },
-    {
-        "channel-name": "DISNEY INTERNATIONAL HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96284"
-    },
-    {
-        "channel-name": "TATA SKY BOLLYWOOD HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96285"
-    },
-    {
-        "channel-name": "CN PLUS HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96286"
-    },
-    {
-        "channel-name": "UTV MOVIES",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96287"
-    },
-    {
-        "channel-name": "DISNEY XD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/DISNEY_XD.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96288"
-    },
-    {
-        "channel-name": "ISHWAR TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Ishwar_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96289"
-    },
-    {
-        "channel-name": "CARTOON NETWORK",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/PICONS\/CARTOON_NETWORK..png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96290"
-    },
-    {
-        "channel-name": "REPUBLIC BHARAT",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/R.Bharat_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96291"
-    },
-    {
-        "channel-name": "B4U MUSIC",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/B4U_Music_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96292"
-    },
-    {
-        "channel-name": "INDIA NEWS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96294"
+        "video-streaming-link": "https:\/\/abplivetv.akamaized.net\/hls\/live\/2043010\/hindi\/master_720p.m3u8"
     },
     {
         "channel-name": "INDIA TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96295"
+        "video-streaming-link": "https:\/\/pl-indiatvnews.akamaized.net\/out\/v1\/db79179b608641ceaa5a4d0dd0dca8da\/index_3.m3u8"
     },
     {
-        "channel-name": "DANGAL",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
+        "channel-name": "NEWS 18  HINDI",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96296"
+        "video-streaming-link": "https:\/\/nw18live.cdn.jio.com\/bpk-tv\/News18_India_NW18_MOB\/output01\/News18_India_NW18_MOB-audio_131636_eng=131600-video=3110800.m3u8"
     },
     {
-        "channel-name": "MASTII",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
+        "channel-name": "NEWS 18 Tamil",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96297"
+        "video-streaming-link": "https:\/\/nw18live.cdn.jio.com\/bpk-tv\/News18_Tamil_Nadu_NW18_MOB\/output01\/News18_Tamil_Nadu_NW18_MOB-audio_131636_eng=131600-video=3110800.m3u8"
     },
     {
-        "channel-name": "NDTV INDIA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
+        "channel-name": "DD News",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96298"
+        "video-streaming-link": "https:\/\/ythls.onrender.com\/channel\/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8"
     },
     {
-        "channel-name": "INDIA NEWS MP",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
+        "channel-name": "Bharat 24 News",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96299"
+        "video-streaming-link": "https:\/\/legitpro.co.in\/bharat24live\/bharat24live\/tracks-v1a1\/mono.m3u8"
     },
     {
-        "channel-name": "INDIA NEWS UP",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
+        "channel-name": "Bharat Express",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96300"
+        "video-streaming-link": "https:\/\/legitpro.co.in\/bharat24live\/bharat24live\/tracks-v1a1\/mono.m3u8"
     },
     {
-        "channel-name": "INDIA NEWS HARYANA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
+        "channel-name": "Bharat Samachar",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96301"
+        "video-streaming-link": "https:\/\/idvd.multitvsolution.com\/idvo\/bharatsamachar_240p.m3u8"
     },
     {
-        "channel-name": "NEWS X",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
+        "channel-name": "Khabre Abhi Tak",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96302"
+        "video-streaming-link": "https:\/\/vidcdn.vidgyor.com\/kat-origin\/liveabr\/kat-origin\/live1\/chunks.m3u8"
     },
     {
-        "channel-name": "INDIA NEWS RAJASTHAN",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
+        "channel-name": "Hariyana",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96303"
+        "video-streaming-link": "https:\/\/nw18live.cdn.jio.com\/bpk-tv\/News18_Punjab_Haryana_HP_NW18_MOB\/output01\/News18_Punjab_Haryana_HP_NW18_MOB-audio_131636_eng=131600-video=3110800.m3u8"
     },
     {
-        "channel-name": "SUDARSHAN NEWS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
+        "channel-name": "News 18 English",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96304"
+        "video-streaming-link": "https:\/\/nw18live.cdn.jio.com\/bpk-tv\/CNN_News18_NW18_MOB\/output01\/CNN_News18_NW18_MOB-audio_131636_eng=131600-video=699600.m3u8"
     },
     {
-        "channel-name": "MAHA MOVIE",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
+        "channel-name": "ZEE HINDUSTAN",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96305"
+        "video-streaming-link": "https:\/\/d1hp2yai3k4ork.cloudfront.net\/index_4.m3u8"
     },
     {
-        "channel-name": "SAHARA NEWS NATIONAL",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
+        "channel-name": "TV 9 BHARATVARSH",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96306"
-    },
-    {
-        "channel-name": "SAHARA ONE",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Sahara_One_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96307"
-    },
-    {
-        "channel-name": "SAHARA MP",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96308"
-    },
-    {
-        "channel-name": "SAHARA MUMBAI",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96309"
-    },
-    {
-        "channel-name": "SAHARA NCR",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96310"
-    },
-    {
-        "channel-name": "SAHARA UP",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96311"
-    },
-    {
-        "channel-name": "SAHARA ALAMI",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96312"
-    },
-    {
-        "channel-name": "SAHARA FILMY",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96313"
-    },
-    {
-        "channel-name": "NDTV GOOD TIMES",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96315"
-    },
-    {
-        "channel-name": "OM SHANTI",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96318"
-    },
-    {
-        "channel-name": "IBC 24",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96319"
+        "video-streaming-link": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9hinjzgtpe\/liveabr\/pub-iotv9hinjzgtpe\/live_720p\/chunks.m3u8"
     },
     {
         "channel-name": "NEWS 24",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
+        "tvg-logo": "",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96320"
-    },
-    {
-        "channel-name": "CVR NEWS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96321"
-    },
-    {
-        "channel-name": "SHUBH TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Shubh_TV_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96323"
-    },
-    {
-        "channel-name": "CHANNEL WIN",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96324"
-    },
-    {
-        "channel-name": "RAMDHENU",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96325"
-    },
-    {
-        "channel-name": "RENGONI",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Rengoni_TV_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96326"
-    },
-    {
-        "channel-name": "FOOD FOOD HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Food_Food_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96327"
-    },
-    {
-        "channel-name": "KRISHNA VANI HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96328"
-    },
-    {
-        "channel-name": "DILLI AAJ TAKK",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96329"
-    },
-    {
-        "channel-name": "PRAG NEWS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Prag_News_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96330"
-    },
-    {
-        "channel-name": "RANG",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96331"
-    },
-    {
-        "channel-name": "NEWS 18 LIVE",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/News18_India_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96332"
-    },
-    {
-        "channel-name": "NDTV PROFIT",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96333"
-    },
-    {
-        "channel-name": "NDTV 24x7",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/NDTV_24x7_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96334"
-    },
-    {
-        "channel-name": "INDIA TODAY",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96335"
-    },
-    {
-        "channel-name": "9X MUSIC",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96336"
-    },
-    {
-        "channel-name": "E NEWS 24",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96337"
+        "video-streaming-link": "https:\/\/vidcdn.vidgyor.com\/news24-origin\/liveabr\/news24-origin\/live_720p\/chunks.m3u8"
     },
     {
         "channel-name": "ZEE BUSINESS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Business_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96338"
-    },
-    {
-        "channel-name": "SANSKAR TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Sanskar_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96339"
-    },
-    {
-        "channel-name": "SATSANG TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Satsang_TV_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96340"
-    },
-    {
-        "channel-name": "DISCOVERY KIDS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96341"
-    },
-    {
-        "channel-name": "STAR GOLD 2",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96343"
-    },
-    {
-        "channel-name": "AND EXPLORER HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96344"
-    },
-    {
-        "channel-name": "ZEE ETC BOLLYWOOD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96345"
-    },
-    {
-        "channel-name": "HUNGAMA BOL HADIPA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96346"
-    },
-    {
-        "channel-name": "MIRROR NOW",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96347"
-    },
-    {
-        "channel-name": "ZEE YUVA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96350"
-    },
-    {
-        "channel-name": "PRARTHANA BHAWAN",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96351"
-    },
-    {
-        "channel-name": "RAJASTHAN PATRIKA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96352"
-    },
-    {
-        "channel-name": "REPUBLIC NEWS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Republic_TV_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96353"
-    },
-    {
-        "channel-name": "IDN LOKMAT",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96356"
-    },
-    {
-        "channel-name": "PEACE MUSIC",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96357"
-    },
-    {
-        "channel-name": "ZEE NEWS MP",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_News_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96358"
-    },
-    {
-        "channel-name": "DIVYA TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96360"
-    },
-    {
-        "channel-name": "TARANG TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Tarang_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96361"
-    },
-    {
-        "channel-name": "ALANKAR TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96362"
-    },
-    {
-        "channel-name": "YESHUAA TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96363"
-    },
-    {
-        "channel-name": "TARANG MUSIC",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Tarang_Music_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96364"
-    },
-    {
-        "channel-name": "SARTHAK TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Sarthak_TV_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96365"
-    },
-    {
-        "channel-name": "ZEE KALINGA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Kalinga_IN.png",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96366"
-    },
-    {
-        "channel-name": "YESHUAA\u00a0TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/116087"
-    },
-    {
-        "channel-name": "CHANNEL Y",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/116086"
-    },
-    {
-        "channel-name": "GAUNDA PUNJAB TV",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/116084"
-    },
-    {
-        "channel-name": "TPS NETWORK",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/116083"
-    },
-    {
-        "channel-name": "===== BENGALI ===== ",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95765"
-    },
-    {
-        "channel-name": "BENGALI: COLORS BANGLA HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95766"
-    },
-    {
-        "channel-name": "BENGALI: NAT GEO HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/PICONS\/NATIONAL_GEO.png",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95767"
-    },
-    {
-        "channel-name": "BENGALI: SANGEET BANGLA",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95768"
-    },
-    {
-        "channel-name": "BENGALI: STAR JALSHA HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95769"
-    },
-    {
-        "channel-name": "BENGALI: STAR JALSHA MOVIES HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95770"
-    },
-    {
-        "channel-name": "BENGALI: TATA SKY BANGLA HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95771"
-    },
-    {
-        "channel-name": "BENGALI: DD BANGLA",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95772"
-    },
-    {
-        "channel-name": "BENGALI: AAKASH BANGLA",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95773"
-    },
-    {
-        "channel-name": "BENGALI: ZEE BANGLA CINEMA",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95774"
-    },
-    {
-        "channel-name": "BENGALI: 24 GHANTA",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95775"
-    },
-    {
-        "channel-name": "BENGALI: ABP ANANDA",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95776"
-    },
-    {
-        "channel-name": "BENGALI: ZEE BANGLA HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95778"
-    },
-    {
-        "channel-name": "===== BHOJPURI ===== ",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95779"
-    },
-    {
-        "channel-name": "BHOJPURI: DANGAL",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95780"
-    },
-    {
-        "channel-name": "BHOJPURI: SANGEET BHOJPURI",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95781"
-    },
-    {
-        "channel-name": "BHOJPURI: HUNGAMA DHAMAAL HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95782"
-    },
-    {
-        "channel-name": "BHOJPURI: BHOJPURI CINEMA",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95783"
-    },
-    {
-        "channel-name": "===== GUJARATI ===== ",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95784"
-    },
-    {
-        "channel-name": "GUJARATI: ABP ASMITA",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95785"
-    },
-    {
-        "channel-name": "GUJARATI: CNBC AAWAZ",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95786"
-    },
-    {
-        "channel-name": "GUJARATI: CNBC BAZAR",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95787"
-    },
-    {
-        "channel-name": "GUJARATI: COLORS GUJARATI",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95788"
-    },
-    {
-        "channel-name": "GUJARATI: COLORS GUJARATI CINEMA",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95789"
-    },
-    {
-        "channel-name": "GUJARATI: GSTV",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95790"
-    },
-    {
-        "channel-name": "GUJARATI: INDIA NEWS GUJARAT",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95791"
-    },
-    {
-        "channel-name": "GUJARATI: KARTAVYA TV",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95792"
-    },
-    {
-        "channel-name": "GUJARATI: LAKSHYA TV HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95793"
-    },
-    {
-        "channel-name": "GUJARATI: MANTAVYA NEWS",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95794"
-    },
-    {
-        "channel-name": "GUJARATI: SANDESH NEWS",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95795"
-    },
-    {
-        "channel-name": "GUJARATI: TV9 NEWS",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95796"
-    },
-    {
-        "channel-name": "GUJARATI: VANDE GUJARATI 1",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95797"
-    },
-    {
-        "channel-name": "GUJARATI: VANDE GUJARATI 10",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95798"
-    },
-    {
-        "channel-name": "GUJARATI: VANDE GUJARATI 11",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95799"
-    },
-    {
-        "channel-name": "GUJARATI: VANDE GUJARATI 12",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95800"
-    },
-    {
-        "channel-name": "GUJARATI: VANDE GUJARATI 13",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95801"
-    },
-    {
-        "channel-name": "GUJARATI: VANDE GUJARATI 14",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95802"
-    },
-    {
-        "channel-name": "GUJARATI: VANDE GUJARATI 15",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95803"
-    },
-    {
-        "channel-name": "GUJARATI: VANDE GUJARATI 16",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95804"
-    },
-    {
-        "channel-name": "GUJARATI: VANDE GUJARATI 17",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95805"
-    },
-    {
-        "channel-name": "GUJARATI: VANDE GUJARATI 2",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95806"
-    },
-    {
-        "channel-name": "GUJARATI: VANDE GUJARATI 3",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95807"
-    },
-    {
-        "channel-name": "GUJARATI: VANDE GUJARATI 4",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95808"
-    },
-    {
-        "channel-name": "GUJARATI: VANDE GUJARATI 5",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95809"
-    },
-    {
-        "channel-name": "GUJARATI: VANDE GUJARATI 6",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95810"
-    },
-    {
-        "channel-name": "GUJARATI: VANDE GUJARATI 7",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95811"
-    },
-    {
-        "channel-name": "GUJARATI: VANDE GUJARATI 8",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95812"
-    },
-    {
-        "channel-name": "GUJARATI: VANDE GUJARATI 9",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95813"
-    },
-    {
-        "channel-name": "GUJARATI: VTV NEWS",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95814"
-    },
-    {
-        "channel-name": "===== KANNADA =====",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95815"
-    },
-    {
-        "channel-name": "KANNADA: BTV NEWS",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95816"
-    },
-    {
-        "channel-name": "KANNADA: COLORS KANNADA HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95817"
-    },
-    {
-        "channel-name": "KANNADA: COLORS KANNADA MOVIES",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95818"
-    },
-    {
-        "channel-name": "KANNADA: COLORS SUPER",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95819"
-    },
-    {
-        "channel-name": "KANNADA: DD CHANDANA",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95820"
-    },
-    {
-        "channel-name": "KANNADA: DIGHVIJAY NEWS",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95821"
-    },
-    {
-        "channel-name": "KANNADA: KASTURI TV",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95822"
-    },
-    {
-        "channel-name": "KANNADA: NEWS 18",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95823"
-    },
-    {
-        "channel-name": "KANNADA: PUBLIC TV",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95824"
-    },
-    {
-        "channel-name": "KANNADA: RAJ MUSIC",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95825"
-    },
-    {
-        "channel-name": "KANNADA: RAJ NEWS KANNADA",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95826"
-    },
-    {
-        "channel-name": "KANNADA: SAKKAT HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95827"
-    },
-    {
-        "channel-name": "KANNADA: STAR SUVARNA HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95828"
-    },
-    {
-        "channel-name": "KANNADA: STAR SUVARNA NEWS",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95829"
-    },
-    {
-        "channel-name": "KANNADA: SUVARNA NEWS",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95830"
-    },
-    {
-        "channel-name": "KANNADA: TV9 KANNADA",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95831"
-    },
-    {
-        "channel-name": "KANNADA: UDAYA COMEDY",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95832"
-    },
-    {
-        "channel-name": "KANNADA: UDAYA HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95833"
-    },
-    {
-        "channel-name": "KANNADA: UDAYA MOVIES",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95834"
-    },
-    {
-        "channel-name": "KANNADA: UDAYA MUSIC",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95835"
-    },
-    {
-        "channel-name": "KANNADA: ZEE HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95836"
-    },
-    {
-        "channel-name": "===== MARATHI =====",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95837"
-    },
-    {
-        "channel-name": "9X JHAKAAS",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95838"
-    },
-    {
-        "channel-name": "COLORS MARATHI HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95839"
-    },
-    {
-        "channel-name": "DD SAHAYADRI",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95840"
-    },
-    {
-        "channel-name": "FAKHT MARATHI",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95841"
-    },
-    {
-        "channel-name": "SANGEET MARATHI",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95842"
-    },
-    {
-        "channel-name": "SONY AATH",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95843"
-    },
-    {
-        "channel-name": "SONY MARATHI",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95844"
-    },
-    {
-        "channel-name": "STAR PARVAH HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95845"
-    },
-    {
-        "channel-name": "TULJA BHAVANI",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95846"
-    },
-    {
-        "channel-name": "TV9 MARATHI",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95847"
-    },
-    {
-        "channel-name": "ZEE 24 TAAS",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95848"
-    },
-    {
-        "channel-name": "ZEE MARATHI HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95849"
-    },
-    {
-        "channel-name": "ZEE TALKIES HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95850"
-    },
-    {
-        "channel-name": "10 TV",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95852"
-    },
-    {
-        "channel-name": "BHAKTI TV",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95853"
-    },
-    {
-        "channel-name": "DD SAPTAGIRI",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95854"
-    },
-    {
-        "channel-name": "DISCOVERY WORLD HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95855"
-    },
-    {
-        "channel-name": "ETV CINEMA",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95856"
-    },
-    {
-        "channel-name": "ETV HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95857"
-    },
-    {
-        "channel-name": "ETV LIFE",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95858"
-    },
-    {
-        "channel-name": "ETV PLUS",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95859"
-    },
-    {
-        "channel-name": "GEMINI COMEDY",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95860"
-    },
-    {
-        "channel-name": "GEMINI HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95861"
-    },
-    {
-        "channel-name": "GEMINI LIFE",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95862"
-    },
-    {
-        "channel-name": "GEMINI MOVIES HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95863"
-    },
-    {
-        "channel-name": "GEMINI MUSIC",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95864"
-    },
-    {
-        "channel-name": "GEMINI NEWS",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95865"
-    },
-    {
-        "channel-name": "HISTORY 18 TELUGU HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95866"
-    },
-    {
-        "channel-name": "KUSHI TV",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95867"
-    },
-    {
-        "channel-name": "NATIONAL GEOGRAPHIC HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95868"
-    },
-    {
-        "channel-name": "RAJ MUSIC TELUGU",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95869"
-    },
-    {
-        "channel-name": "RAJ NEWS TELUGU",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95870"
-    },
-    {
-        "channel-name": "SONY BBC EARTH HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95871"
-    },
-    {
-        "channel-name": "SONY YAY",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95872"
-    },
-    {
-        "channel-name": "STAR MAA GOLD HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95873"
-    },
-    {
-        "channel-name": "STAR MAA HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95874"
-    },
-    {
-        "channel-name": "STAR MAA MOVIES HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95875"
-    },
-    {
-        "channel-name": "TATA SKY TELUGU CINEMA HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95876"
-    },
-    {
-        "channel-name": "TV5 NEWS",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95877"
-    },
-    {
-        "channel-name": "TV9 NEWS",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95878"
-    },
-    {
-        "channel-name": "V6 NEWS",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95879"
-    },
-    {
-        "channel-name": "VANITHA TV",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95880"
-    },
-    {
-        "channel-name": "VISSA TV",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95881"
-    },
-    {
-        "channel-name": "ZEE CINEMALU HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95882"
-    },
-    {
-        "channel-name": "ZEE TELUGU HD",
-        "tvg-logo": "",
-        "group-title": "SOUTH INDIA",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95883"
-    },
-    {
-        "channel-name": "D SPORTS HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "SPORTS",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93721"
-    },
-    {
-        "channel-name": "DD SPORTS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "SPORTS",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93722"
-    },
-    {
-        "channel-name": "SONY SIX HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "SPORTS",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93723"
-    },
-    {
-        "channel-name": "STAR SPORTS 1 HD ENGLISH",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Star_Sports_1_IN.png",
-        "group-title": "SPORTS",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93724"
-    },
-    {
-        "channel-name": "STAR SPORTS 1 HD HINDI",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Star_Sports_1_IN.png",
-        "group-title": "SPORTS",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93725"
-    },
-    {
-        "channel-name": "STAR SPORTS 2 HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Star_Sports_2_IN.png",
-        "group-title": "SPORTS",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93726"
-    },
-    {
-        "channel-name": "STAR SPORTS 3",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "SPORTS",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93727"
-    },
-    {
-        "channel-name": "STAR SPORTS FIRST",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "SPORTS",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93728"
-    },
-    {
-        "channel-name": "STAR SPORTS SELECT 1 HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "SPORTS",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93729"
-    },
-    {
-        "channel-name": "STAR SPORTS SELECT 2 HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "SPORTS",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93730"
-    },
-    {
-        "channel-name": "STAR SPORTS TAMIL",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "SPORTS",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93731"
-    },
-    {
-        "channel-name": "TEN 1 HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "SPORTS",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93732"
-    },
-    {
-        "channel-name": "TEN 2 HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "SPORTS",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93733"
-    },
-    {
-        "channel-name": "TEN 3 HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "SPORTS",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93734"
-    },
-    {
-        "channel-name": "WILLOW CRICKET HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "SPORTS",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93735"
-    },
-    {
-        "channel-name": "KAIRALI NEWS",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93572"
-    },
-    {
-        "channel-name": "KAUMUDY",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93573"
-    },
-    {
-        "channel-name": "SHOLAM TV",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93574"
-    },
-    {
-        "channel-name": "AMRITHA TV",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93575"
-    },
-    {
-        "channel-name": "ASIANET HD",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93576"
-    },
-    {
-        "channel-name": "ASIANET MOVIE",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93577"
-    },
-    {
-        "channel-name": "ASIANET NEWS HD",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93578"
-    },
-    {
-        "channel-name": "ASIANET PLUS",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93579"
-    },
-    {
-        "channel-name": "DD MALAYALAM",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93580"
-    },
-    {
-        "channel-name": "FLOWERS TV",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93581"
-    },
-    {
-        "channel-name": "JAIHIND TV",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93582"
-    },
-    {
-        "channel-name": "JANAM TV",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93583"
-    },
-    {
-        "channel-name": "KAIRALI ARABIA",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93584"
-    },
-    {
-        "channel-name": "KAIRALI PEOPLE TV",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93585"
-    },
-    {
-        "channel-name": "KAPPA TV",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93586"
-    },
-    {
-        "channel-name": "KOCHU TV",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93587"
-    },
-    {
-        "channel-name": "MANORAMA NEWS",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93588"
-    },
-    {
-        "channel-name": "MATHRUBHUMI NEWS",
-        "tvg-logo": "",
-        "group-title": "MALAYALAM",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93589"
-    },
-    {
-        "channel-name": "MAZAVIL MANORAMA HD",
         "tvg-logo": "",
-        "group-title": "MALAYALAM",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93590"
+        "video-streaming-link": "https:\/\/d8gy12azhr71i.cloudfront.net\/out\/v1\/45be109c5b4f44319e882da947377364\/index_12.m3u8"
     },
     {
-        "channel-name": "NEWS 18 KERALA",
+        "channel-name": "CNBC AVAJ",
         "tvg-logo": "",
-        "group-title": "MALAYALAM",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93591"
+        "video-streaming-link": "https:\/\/nw18live.cdn.jio.com\/bpk-tv\/CNBC_Awaaz_NW18_MOB\/output01\/CNBC_Awaaz_NW18_MOB-audio_97234_und=97200-video=4150000.m3u8"
     },
     {
-        "channel-name": "RAJ MUSIC",
+        "channel-name": "NDTV PROFIT",
         "tvg-logo": "",
-        "group-title": "MALAYALAM",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93592"
+        "video-streaming-link": "https:\/\/ndtvprofitelemarchana.akamaized.net\/hls\/live\/2003680\/ndtvprofit\/ndtvprofitmaster.m3u8"
     },
     {
-        "channel-name": "RAJ NEWS MALAYALAM",
+        "channel-name": "ZEE PANJAB NEWS",
         "tvg-logo": "",
-        "group-title": "MALAYALAM",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93593"
+        "video-streaming-link": "https:\/\/d31s6sxcz6vnac.cloudfront.net\/index_3.m3u8"
     },
     {
-        "channel-name": "SAFARI TV",
+        "channel-name": "ZEE MADHYA PRADESH NEWS",
         "tvg-logo": "",
-        "group-title": "MALAYALAM",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93594"
+        "video-streaming-link": "https:\/\/d1ek9hdbw9xxcw.cloudfront.net\/index_4.m3u8"
     },
     {
-        "channel-name": "SURYA MOVIES",
+        "channel-name": "ZEE 24 TASS",
         "tvg-logo": "",
-        "group-title": "MALAYALAM",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93595"
+        "video-streaming-link": "https:\/\/dgrvlduwztkd4.cloudfront.net\/index_5.m3u8"
     },
     {
-        "channel-name": "SURYA MUSIC",
+        "channel-name": "APB Majha",
         "tvg-logo": "",
-        "group-title": "MALAYALAM",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93596"
+        "video-streaming-link": "https:\/\/abplivetv.akamaized.net\/hls\/live\/2043011\/manjha\/master_720p.m3u8"
     },
     {
-        "channel-name": "SURYA TV HD",
+        "channel-name": "Lokshahi News",
         "tvg-logo": "",
-        "group-title": "MALAYALAM",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93597"
+        "video-streaming-link": "https:\/\/see.lokshahi.live\/live\/index.m3u8"
     },
     {
-        "channel-name": "WE TV",
+        "channel-name": "TV 9 MARATHI",
         "tvg-logo": "",
-        "group-title": "MALAYALAM",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93598"
+        "video-streaming-link": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9marlygv8h\/liveabr\/pub-iotv9marlygv8h\/live_720p\/chunks.m3u8"
     },
     {
-        "channel-name": "ZEE KERALAM HD",
+        "channel-name": "ZEE SALAM",
         "tvg-logo": "",
-        "group-title": "MALAYALAM",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93599"
+        "video-streaming-link": "https:\/\/d2o3r1shda7xvv.cloudfront.net\/index_5.m3u8"
     },
     {
-        "channel-name": "===== TAMIL =====",
+        "channel-name": "TV 9 TELUGU",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100099"
+        "video-streaming-link": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9telcmjhcs\/liveabr\/pub-iotv9telcmjhcs\/live_720p\/chunks.m3u8"
     },
     {
-        "channel-name": " ADHTIYA TV",
+        "channel-name": "ZEE NEWS RAJASTHAN",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100100"
+        "video-streaming-link": "https:\/\/d2jso9g61rg1h8.cloudfront.net\/index_3.m3u8"
     },
     {
-        "channel-name": " ANGEL TV HD",
+        "channel-name": "ZEE NEWS HARIYANA",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100103"
+        "video-streaming-link": "https:\/\/d31s6sxcz6vnac.cloudfront.net\/index_3.m3u8"
     },
     {
-        "channel-name": " ATHAVAN TV",
+        "channel-name": "TV 9 BANGLA",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100104"
+        "video-streaming-link": "https:\/\/dyjmyiv3bp2ez.cloudfront.net\/pub-iotv9banaen8yq\/liveabr\/pub-iotv9banaen8yq\/live_720p\/chunks.m3u8"
     },
     {
-        "channel-name": " CAPTAIN NEWS",
+        "channel-name": "ABP ANANDA",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100105"
+        "video-streaming-link": "https:\/\/abplivetv.akamaized.net\/hls\/live\/2043012\/ananda\/master_1280.m3u8"
     },
     {
-        "channel-name": " CAPTAIN TV",
+        "channel-name": "JAN TV",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100106"
+        "video-streaming-link": "http:\/\/172.104.191.216:1935\/edge1\/sc1jantv.stream_aac\/playlist.m3u8"
     },
     {
-        "channel-name": " CHUTTI TV",
+        "channel-name": "ONE NOW",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100108"
+        "video-streaming-link": "https:\/\/proxy-15.sg1.dailymotion.com\/sec(ZmvFbGxMUUCbjec8a9qzW5Ap08XqnKsAqNcHaX3am9UiCkTagQR_xUWJFzsYWAde_qQgDLCccUfPTqWx5PYMZwbL2hf-5wnDE_9K-GB6GXw)\/video\/829\/403\/515304928_mp4_h264_aac_1.m3u8"
     },
     {
-        "channel-name": " COLORS TAMIL HD",
+        "channel-name": "ET NOW",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100109"
+        "video-streaming-link": "https:\/\/damso2e2yhynu.cloudfront.net\/master.m3u8"
     },
     {
-        "channel-name": " DD PODHIGAI",
+        "channel-name": "Times Now",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100110"
+        "video-streaming-link": "https:\/\/d3pvf6sv7wsu07.cloudfront.net\/master.m3u8"
     },
     {
-        "channel-name": " DD SAPTAGIRI",
+        "channel-name": "Mirror Now",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100111"
+        "video-streaming-link": "https:\/\/d179muqh6u5263.cloudfront.net\/master.m3u8"
     },
     {
-        "channel-name": " DISCOVERY KIDS TAMIL",
+        "channel-name": "ET Now Swadesh",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100112"
+        "video-streaming-link": "https:\/\/d32gxr3r1ksq2p.cloudfront.net\/master.m3u8"
     },
     {
-        "channel-name": " DISCOVERY WORLD HD",
+        "channel-name": "Navbhart Times",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100113"
+        "video-streaming-link": "https:\/\/dvvvc0h9v3hoz.cloudfront.net\/master.m3u8"
     },
     {
-        "channel-name": " FLOWERS TV",
+        "channel-name": "HINDI KHABAR",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100114"
+        "video-streaming-link": "https:\/\/server.livelegitpro.in:9899\/hindikhabar\/hindikhabar\/tracks-v1a1\/mono.m3u8"
     },
     {
-        "channel-name": " FOX LIFE HD",
+        "channel-name": "CNBC ENGLISH",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100115"
+        "video-streaming-link": "https:\/\/nw18live.cdn.jio.com\/bpk-tv\/CNBC_TV18_NW18_MOB\/output01\/CNBC_TV18_NW18_MOB-audio_98835_eng=98800-video=560800.m3u8"
     },
     {
-        "channel-name": " HISTORY TV18 HD",
+        "channel-name": "IBC NEWS",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100116"
+        "video-streaming-link": "https:\/\/livetv.ibc24.in\/livestream.m3u8"
     },
     {
-        "channel-name": " IBC BAKTHI",
+        "channel-name": "REPUBLIC ENGLISH",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100117"
+        "video-streaming-link": "https:\/\/weblive.republicworld.com\/httppush\/ottr_republic_english\/chunklist_4.m3u8"
     },
     {
-        "channel-name": " IBC COMEDY",
+        "channel-name": "ZEE NEES GUJRATI",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100118"
+        "video-streaming-link": "https:\/\/d2i4me5ac6ausm.cloudfront.net\/index_5.m3u8"
     },
     {
-        "channel-name": " IBC TAMIL",
+        "channel-name": "INDIA TODAY",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100119"
+        "video-streaming-link": "https:\/\/feeds.intoday.in\/hltapps\/api\/master.m3u8"
     },
     {
-        "channel-name": " IMAYAM TV",
+        "channel-name": "ZEE BIHAR ZHARKHAND",
         "tvg-logo": "",
-        "group-title": "TAMIL",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100120"
-    },
-    {
-        "channel-name": " J MOVIES",
-        "tvg-logo": "",
-        "group-title": "TAMIL",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100121"
-    },
-    {
-        "channel-name": " JAYA MAX",
-        "tvg-logo": "",
-        "group-title": "TAMIL",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100122"
-    },
-    {
-        "channel-name": " JAYA PLUS",
-        "tvg-logo": "",
-        "group-title": "TAMIL",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100123"
-    },
-    {
-        "channel-name": " JAYA TV HD",
-        "tvg-logo": "",
-        "group-title": "TAMIL",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100124"
-    },
-    {
-        "channel-name": " KTV HD",
-        "tvg-logo": "",
-        "group-title": "TAMIL",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100125"
-    },
-    {
-        "channel-name": " LOTUS NEWS",
-        "tvg-logo": "",
-        "group-title": "TAMIL",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100126"
-    },
-    {
-        "channel-name": " MADHA TV",
-        "tvg-logo": "",
-        "group-title": "TAMIL",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100127"
-    },
-    {
-        "channel-name": " MAKKAL TV",
-        "tvg-logo": "",
-        "group-title": "TAMIL",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100129"
-    },
-    {
-        "channel-name": " MK TV",
-        "tvg-logo": "",
-        "group-title": "TAMIL",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100132"
-    },
-    {
-        "channel-name": " MOON TV",
-        "tvg-logo": "",
-        "group-title": "TAMIL",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100133"
-    },
-    {
-        "channel-name": " NAT GEO WILD HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/PICONS\/NATIONAL_GEOGRAPHIC_WILD_HD.png",
-        "group-title": "TAMIL",
+        "group-title": "NEWS ",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100135"
+        "video-streaming-link": "https:\/\/d3vmwjy7v49lo5.cloudfront.net\/index_4.m3u8"
     },
     {
-        "channel-name": " NATIONAL GEOGRAPHIC HD",
+        "channel-name": "SET HD",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100136"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/dBdwOiGaQvy0TA1zOsjV6w\/master.m3u8"
     },
     {
-        "channel-name": " NEWS 18 TAMIL NADU",
+        "channel-name": "Sony SAB HD",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100137"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/CrTivkDESWqwvUj3zFEYEA\/master.m3u8"
     },
     {
-        "channel-name": " POLIMER NEWS",
+        "channel-name": "Sony PAL",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100139"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/dhPrGRwDRvuMQtmlzppzQQ\/master.m3u8"
     },
     {
-        "channel-name": " POLIMER TV",
+        "channel-name": "Sony YAY",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100140"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/GPY7RqOrSkmKJ8z1GbVNhg\/master.m3u8"
     },
     {
-        "channel-name": " PUTHIYA THALIMURAI",
+        "channel-name": "Sony Marathi",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100141"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/I2phC6tgTDuJngxw9gJgPw\/master.m3u8"
     },
     {
-        "channel-name": " PUTHUYUGAM",
+        "channel-name": "Sony AATH",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100142"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/j-YEIDwORxubtP_967VcZg\/master.m3u8"
     },
     {
-        "channel-name": " RAGAM TV",
+        "channel-name": "Sony MAX HD",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100143"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/UcjHNJmCQ1WRlGKlZm73QA\/master.m3u8"
     },
     {
-        "channel-name": " RAJ DIGITAL PLUS",
+        "channel-name": "Sony MAX",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100144"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/Oc1isQAET3WaNPoABfScmg\/master.m3u8"
     },
     {
-        "channel-name": " RAJ MUSIX",
+        "channel-name": "Sony WAH",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100145"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/gX5rCBf6Q7-D5AWY-sovzQ\/master.m3u8"
     },
     {
-        "channel-name": " RAJ NEWS",
+        "channel-name": "Sony MAX2",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100146"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/MdQ5Zy-PSraOccXu8jflCg\/master.m3u8"
     },
     {
-        "channel-name": " RAJ TV",
+        "channel-name": "Sony PIX HD",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100147"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/x7rXWd2ERZ2tvyQWPmO1HA\/master.m3u8"
     },
     {
-        "channel-name": " SAHANA TV",
+        "channel-name": "Sony BBC Earth HD",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100148"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/6bVWYIKGS0CIa-cOpZZJPQ\/master.m3u8"
     },
     {
-        "channel-name": " SATHIYAM TV",
+        "channel-name": "Sony TEN 1",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100150"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/6WhVNGKTRXyu588zZv1Lkg\/master.m3u8"
     },
     {
-        "channel-name": " SONY BBC EARTH HD",
+        "channel-name": "Sony TEN 2",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100151"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/LK-ik89MQIi_pWBbg74KNQ\/master.m3u8"
     },
     {
-        "channel-name": " SONY YAY",
+        "channel-name": "Sony TEN 3",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100152"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/BCOFZq1JQjq12fmaO6lAAA\/master.m3u8"
     },
     {
-        "channel-name": " STAR VIJAY HD",
+        "channel-name": "Sony TEN 4",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100153"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/smYybI_JToWaHzwoxSE9qA\/master.m3u8"
     },
     {
-        "channel-name": " SUN LIFE",
+        "channel-name": "Sony TEN 5",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100154"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/r-eLp41YTHWTagvQSXFtAQ\/master.m3u8"
     },
     {
-        "channel-name": " SUN MUSIC HD",
+        "channel-name": "Sony TEN 1 HD",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100155"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/wG75n5U8RrOKiFzaWObXbA\/master.m3u8"
     },
     {
-        "channel-name": " SUN NEWS",
+        "channel-name": "Sony  TEN 2 HD",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100156"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/V9h-iyOxRiGp41ppQScDSQ\/master.m3u8"
     },
     {
-        "channel-name": " SUN TV HD",
+        "channel-name": "Sony TEN 3 HD",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100157"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/ltsCG7TBSCSDmyq0rQtvSA\/master.m3u8"
     },
     {
-        "channel-name": " TAMILAN TV",
+        "channel-name": "Sony TEN 4 HD",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100158"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/tNzcW2ZhTVaViggo5ocI-A\/master.m3u8"
     },
     {
-        "channel-name": " TATA SKY TAMIL CINEMA",
+        "channel-name": "Sony TEN 5 HD",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100159"
+        "video-streaming-link": "https:\/\/dai.google.com\/linear\/hls\/event\/Sle_TR8rQIuZHWzshEXYjQ\/master.m3u8"
     },
     {
-        "channel-name": " THANTHI TV",
+        "channel-name": "Sony Kal",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "sony channels",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100160"
+        "video-streaming-link": "https:\/\/spt-sonykal-1-us.lg.wurl.tv\/playlist.m3u8"
     },
     {
-        "channel-name": " TUNE 6",
+        "channel-name": "Colors HD",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "VOOT",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100161"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_HD_voot_MOB\/Fallback\/index.m3u8"
     },
     {
-        "channel-name": " TVI HD",
+        "channel-name": "Colors Bangla HD",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "VOOT",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100162"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_Bangla_HD_voot_MOB\/Fallback\/index.m3u8"
     },
     {
-        "channel-name": " VALICHAM PLUS",
+        "channel-name": "Colors Kannada HD",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "VOOT",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100163"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_Kannada_HD_voot_MOB\/Fallback\/index.m3u8"
     },
     {
-        "channel-name": " VASANTH TV",
+        "channel-name": "Colors Marathi HD",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "VOOT",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100165"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_Marathi_HD_voot_MOB\/Fallback\/index.m3u8"
     },
     {
-        "channel-name": " VIJAY SUPER HD",
+        "channel-name": "Colors Gujarati",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "VOOT",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100167"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_Gujarati_voot_MOB\/Fallback\/index.m3u8"
     },
     {
-        "channel-name": " WIN NEWS",
+        "channel-name": "Colors Tamil HD",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "VOOT",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100168"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_Tamil_HD_voot_MOB\/Fallback\/index.m3u8"
     },
     {
-        "channel-name": " ZEE TAMIL HD",
+        "channel-name": "Colors Oriya",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "VOOT",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100169"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_Oriya_voot_MOB\/Fallback\/index.m3u8"
     },
     {
-        "channel-name": " ZEE TAMIL SD",
+        "channel-name": "Colors Infinity HD",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "VOOT",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100170"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_Infinity_HD_voot_MOB\""
     },
     {
-        "channel-name": " ZEE THIRAI",
+        "channel-name": "Colors Cineplex Superhit",
         "tvg-logo": "",
-        "group-title": "TAMIL",
+        "group-title": "VOOT",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100171"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Rishtey_Cineplex_voot_MOB\/Fallback\/index.m3u8"
     },
     {
-        "channel-name": "===== PUNJABI GENERAL =====",
+        "channel-name": "Colors Cineplex Bollywood",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "VOOT",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93686"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_Cineplex_Bollywood_voot_MOB\/Fallback\/index.m3u8"
     },
     {
-        "channel-name": "AIKAM TV HD",
+        "channel-name": "Colors Super",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "VOOT",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93687"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_Super_voot_MOB\/Fallback\/index.m3u8"
     },
     {
-        "channel-name": "BRIT ASIA",
+        "channel-name": "Colors Kannada Cinema",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "VOOT",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93688"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_Kannada_Cinema_voot_MOB\/Fallback\/index.m3u8"
     },
     {
-        "channel-name": "CHARDIKALAH TIMES TV",
+        "channel-name": "Colors Gujarati Cinema",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "VOOT",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93689"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_Gujarati_Cinema_voot_MOB\/Fallback\/index.m3u8"
     },
     {
-        "channel-name": "CHARDIKLA TIMES TV",
+        "channel-name": "MTV HD Plus",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "VOOT",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93690"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/MTV_HD_Plus_voot_MOB\/Fallback\/index.m3u8"
     },
     {
-        "channel-name": "DD PUNJABI",
+        "channel-name": "MTV Beats HD",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "VOOT",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93691"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/MTV_Beats_HD_voot_MOB\/Fallback\/index.m3u8"
     },
     {
-        "channel-name": "DESI CHANNEL",
+        "channel-name": "Nick HD+",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "VOOT",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93692"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Nick_HD_Plus\/Fallback\/index.m3u8"
     },
     {
-        "channel-name": "FATEH TV",
+        "channel-name": "Doreamon",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93693"
+        "video-streaming-link": "https:\/\/a6we.short.gy\/tivimaxxlinksdora.m3u8"
     },
     {
-        "channel-name": "GLOBAL PUNJABI HD",
+        "channel-name": "super hungama",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93694"
+        "video-streaming-link": "https:\/\/a6we.short.gy\/superhungamativimaxx.m3u8"
     },
     {
-        "channel-name": "HUNGAMA AMRITVANI HD",
+        "channel-name": "Hungama",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93695"
+        "video-streaming-link": "https:\/\/a6we.short.gy\/tivimaxxlinkshungama.m3u8"
     },
     {
-        "channel-name": "INDIA NEWS PUNJAB",
+        "channel-name": "Disney HD",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93696"
+        "video-streaming-link": "https:\/\/a6we.short.gy\/tivimaxxdisneyhd.m3u8"
     },
     {
-        "channel-name": "JASHAN TV HD",
+        "channel-name": "Sonic",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93697"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Sonic_Nickelodeon_voot_MOB\/Fallback\/index.m3u8"
     },
     {
-        "channel-name": "JUS 24x7",
+        "channel-name": "Pogo",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93698"
+        "video-streaming-link": "https:\/\/a6we.short.gy\/tivimaxxlinkspogo.m3u8"
     },
     {
-        "channel-name": "JUS ONE",
+        "channel-name": "Unique Tv",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93699"
+        "video-streaming-link": "https:\/\/a6we.short.gy\/tivimaxxlinksuniquetv.m3u8"
     },
     {
-        "channel-name": "LIVING INDIA NEWS",
+        "channel-name": "Disney",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93700"
+        "video-streaming-link": "https:\/\/a6we.short.gy\/disneytivimaxx.m3u8"
     },
     {
-        "channel-name": "MAHA",
+        "channel-name": "Cartoon Network",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93701"
+        "video-streaming-link": "https:\/\/a6we.short.gy\/tivimaxxlinkscn.m3u8"
     },
     {
-        "channel-name": "MANORANJAN MOVIES",
+        "channel-name": "Nick Junior",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93702"
+        "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Nick_Junior_voot_MOB\/Fallback\/index.m3u8"
     },
     {
         "channel-name": "MANORANJAN TV",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93703"
+        "video-streaming-link": "http:\/\/longstream-04.ajaah.com\/PlayBoxTV\/ManoranjanTV\/playlist.m3u8"
     },
     {
-        "channel-name": "MH1 MUSIC",
+        "channel-name": "Cartoony Tv",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93704"
+        "video-streaming-link": "https:\/\/cdn-singapore-5160-prod.tsv2.amagi.tv\/linear\/amg02537-skandhamediaser-cartoonytv-samsungin\/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1"
     },
     {
-        "channel-name": "MH1 NEWS",
+        "channel-name": "Gubbare",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93705"
+        "video-streaming-link": "https:\/\/epiconvh.s.llnwi.net\/gubbare\/master_480.m3u8"
     },
     {
-        "channel-name": "MH1 SHRADDHA",
+        "channel-name": "Animal Planet English",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93706"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/animal_planet_hd_english.m3u8"
     },
     {
-        "channel-name": "NEWS 18 PUNJAB HARYANA",
+        "channel-name": "Animal Planet Hindi",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93707"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/animal_planet_hd_hindi.m3u8"
     },
     {
-        "channel-name": "PCHS TV HD",
+        "channel-name": "Discovery English HD",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93708"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/discovery_hd_english.m3u8"
     },
     {
-        "channel-name": "PITAARA TV",
+        "channel-name": "Discovery Hindi HD",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93709"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/discovery_hd_hindi.m3u8"
     },
     {
-        "channel-name": "PRIME ASIA HD",
+        "channel-name": "Discovery Kids",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93710"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/discovery_kids_hindi.m3u8"
     },
     {
-        "channel-name": "PTC CHAKDE",
+        "channel-name": "Discovery Science English",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93711"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/discovery_science_english.m3u8"
     },
     {
-        "channel-name": "PTC NEWS",
+        "channel-name": "Discovery Science Hindi",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93712"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/discovery_science_hindi.m3u8"
     },
     {
-        "channel-name": "PTC PUNJABI",
+        "channel-name": "Discovery Turbo",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93713"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/discovery_turbo.m3u8"
     },
     {
-        "channel-name": "SANJHA TV HD",
+        "channel-name": "DMAX HD",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93714"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/dmax_hd.m3u8"
     },
     {
-        "channel-name": "SSTV HD",
+        "channel-name": "Eurosport HD",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93715"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/eurosport_hd_english.m3u8"
     },
     {
-        "channel-name": "TADKA",
+        "channel-name": "Food Network English",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93716"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/food_network_hd_english.m3u8"
     },
     {
-        "channel-name": "TATA SKY PUNJAB DE RANG",
+        "channel-name": "HGTV English HD",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93717"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/hgtv_hd_english.m3u8"
     },
     {
-        "channel-name": "ZEE PUNJAB HARYANA HD",
+        "channel-name": "ID English HD",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93718"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/id_hd_english.m3u8"
     },
     {
-        "channel-name": "ZEE PUNJABI",
+        "channel-name": "ID Hindi HD",
         "tvg-logo": "",
-        "group-title": "ASIA",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93719"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/id_hd_hindi.m3u8"
+    },
+    {
+        "channel-name": "TRVL English HD",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/trvl_channel_hd_english.m3u8"
+    },
+    {
+        "channel-name": "TLC English HD",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/tlc_hd_english.m3u8"
+    },
+    {
+        "channel-name": "TLC Hindi HD",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/tlc_hd_hindi.m3u8"
+    },
+    {
+        "channel-name": "IN: & pictures",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/16958"
+    },
+    {
+        "channel-name": "IN: & prive",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49557"
+    },
+    {
+        "channel-name": "IN: & TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/16964"
+    },
+    {
+        "channel-name": "IN: & Xplor",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/196116"
+    },
+    {
+        "channel-name": "IN: 3 Tamil TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/60420"
+    },
+    {
+        "channel-name": "IN: 10 TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/296485"
+    },
+    {
+        "channel-name": "IN: 1st India",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/159102"
+    },
+    {
+        "channel-name": "IN: 24 News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82567"
+    },
+    {
+        "channel-name": "IN: 5AAB TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/286195"
+    },
+    {
+        "channel-name": "IN: 9X Jalwa",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/45465"
+    },
+    {
+        "channel-name": "IN: 9X Jhakaas",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/165802"
+    },
+    {
+        "channel-name": "IN: 9X Tashan",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/45455"
+    },
+    {
+        "channel-name": "IN: 9XM",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/45471"
+    },
+    {
+        "channel-name": "IN: Aaj Tak",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/12977"
+    },
+    {
+        "channel-name": "IN: Aamar Cinema",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/297564"
+    },
+    {
+        "channel-name": "IN: Aastha Kannada",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/269761"
+    },
+    {
+        "channel-name": "IN: Aastha TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/145647"
+    },
+    {
+        "channel-name": "IN: ABN Telugu",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/163257"
+    },
+    {
+        "channel-name": "IN: ABP Ananda",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/159103"
+    },
+    {
+        "channel-name": "IN: ABP News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/16962"
+    },
+    {
+        "channel-name": "IN: Adithya TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/157469"
+    },
+    {
+        "channel-name": "IN: Akaal Channel",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/165767"
+    },
+    {
+        "channel-name": "IN: Akaram Kidz",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/267454"
+    },
+    {
+        "channel-name": "IN: Alpha ETC Punjabi",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/264732"
+    },
+    {
+        "channel-name": "IN: Amrita TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82497"
+    },
+    {
+        "channel-name": "IN: Anboli",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/299536"
+    },
+    {
+        "channel-name": "IN: Angel TV India",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/196120"
+    },
+    {
+        "channel-name": "IN: ANIMAL PLANET (TATA PLAY)",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/296266"
+    },
+    {
+        "channel-name": "IN: Anjan TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/286918"
+    },
+    {
+        "channel-name": "IN: Artist Aloud",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/286920"
+    },
+    {
+        "channel-name": "IN: Ashrafi Channel",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/286921"
+    },
+    {
+        "channel-name": "IN: Asianet",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82579"
+    },
+    {
+        "channel-name": "IN: Asianet Movies",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/157463"
+    },
+    {
+        "channel-name": "IN: Asianet News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/163276"
+    },
+    {
+        "channel-name": "IN: Asianet News Tamil",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/294789"
+    },
+    {
+        "channel-name": "IN: Asianet Plus",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193206"
+    },
+    {
+        "channel-name": "IN: Assam Talks",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/162127"
+    },
+    {
+        "channel-name": "IN: Aus Tamil TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/286792"
+    },
+    {
+        "channel-name": "IN: Ayush TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82500"
+    },
+    {
+        "channel-name": "IN: B4U Bhojpuri",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/197946"
+    },
+    {
+        "channel-name": "IN: B4U Kadak",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49556"
+    },
+    {
+        "channel-name": "IN: B4U Movies",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1369"
+    },
+    {
+        "channel-name": "IN: B4U Music",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1368"
+    },
+    {
+        "channel-name": "IN: B4U Plus",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1367"
+    },
+    {
+        "channel-name": "IN: Bansal News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/165400"
+    },
+    {
+        "channel-name": "IN: BBC Toronto",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49640"
+    },
+    {
+        "channel-name": "IN: Bflix+ Movies",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/73791"
+    },
+    {
+        "channel-name": "IN: Bhojpuri Cinema",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193007"
+    },
+    {
+        "channel-name": "IN: Big Magic",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49548"
+    },
+    {
+        "channel-name": "IN: Bindass",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/145655"
+    },
+    {
+        "channel-name": "IN: Blessing TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/299489"
+    },
+    {
+        "channel-name": "IN: Boogle Bollywood",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193087"
+    },
+    {
+        "channel-name": "IN: Brit Asia TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/71067"
+    },
+    {
+        "channel-name": "IN: Captain News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193038"
+    },
+    {
+        "channel-name": "IN: Captain TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/294952"
+    },
+    {
+        "channel-name": "IN: Cartoon Network",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82584"
+    },
+    {
+        "channel-name": "IN: Channel i",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/296496"
+    },
+    {
+        "channel-name": "IN: Channel WIN",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/172318"
+    },
+    {
+        "channel-name": "IN: Channel Y",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49586"
+    },
+    {
+        "channel-name": "IN: Chardikla Time TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49637"
+    },
+    {
+        "channel-name": "IN: Chutti TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/157495"
+    },
+    {
+        "channel-name": "IN: Cine Voice",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49604"
+    },
+    {
+        "channel-name": "IN: CNBC Awaaz",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49583"
+    },
+    {
+        "channel-name": "IN: CNBC Bajar",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82506"
+    },
+    {
+        "channel-name": "IN: CNBC TV 18",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/192198"
+    },
+    {
+        "channel-name": "IN: Colors",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1366"
+    },
+    {
+        "channel-name": "IN: Colors Bangla",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/247530"
+    },
+    {
+        "channel-name": "IN: Colors Cineplex",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/19741"
+    },
+    {
+        "channel-name": "IN: Colors Gujarati",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/145645"
+    },
+    {
+        "channel-name": "IN: Colors Kannada",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/192203"
+    },
+    {
+        "channel-name": "IN: Colors Marathi",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82642"
+    },
+    {
+        "channel-name": "IN: Colors Rishtey",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49547"
+    },
+    {
+        "channel-name": "IN: CVR News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/270135"
+    },
+    {
+        "channel-name": "IN: Dabangg",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/165800"
+    },
+    {
+        "channel-name": "IN: Dangal TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82589"
+    },
+    {
+        "channel-name": "IN: DD Bharati",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193040"
+    },
+    {
+        "channel-name": "IN: DD Girnar",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/145648"
+    },
+    {
+        "channel-name": "IN: DD India",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/165806"
+    },
+    {
+        "channel-name": "IN: DD Malayalam",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/45499"
+    },
+    {
+        "channel-name": "IN: DD National",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/192197"
+    },
+    {
+        "channel-name": "IN: DD News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/21668"
+    },
+    {
+        "channel-name": "IN: DD Podhigai",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193047"
+    },
+    {
+        "channel-name": "IN: DD Punjabi",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/283904"
+    },
+    {
+        "channel-name": "IN: DD Sports",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/56153"
+    },
+    {
+        "channel-name": "IN: Desi Channel",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49601"
+    },
+    {
+        "channel-name": "IN: Desi Plus",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49618"
+    },
+    {
+        "channel-name": "IN: Dhamaal",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82510"
+    },
+    {
+        "channel-name": "IN: Dhoom Music",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/69362"
+    },
+    {
+        "channel-name": "IN: Dighvijay News 24x7",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/283905"
+    },
+    {
+        "channel-name": "IN: Dil Se Movies",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/165784"
+    },
+    {
+        "channel-name": "IN: Dillagi",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/196128"
+    },
+    {
+        "channel-name": "IN: Discovery Channel",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/295292"
+    },
+    {
+        "channel-name": "IN: Discovery Kids",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82683"
+    },
+    {
+        "channel-name": "IN: Discovery Science",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1363"
+    },
+    {
+        "channel-name": "IN: Discovery World",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/73792"
+    },
+    {
+        "channel-name": "IN: Disney Channel",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/192985"
+    },
+    {
+        "channel-name": "IN: Divyavani TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/166373"
+    },
+    {
+        "channel-name": "IN: E 24",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193086"
+    },
+    {
+        "channel-name": "IN: Eet TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/51818"
+    },
+    {
+        "channel-name": "IN: Enterr 10",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193025"
+    },
+    {
+        "channel-name": "IN: Epic TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/192950"
+    },
+    {
+        "channel-name": "IN: ET Now",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82513"
+    },
+    {
+        "channel-name": "IN: Fakt Marathi",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193017"
+    },
+    {
+        "channel-name": "IN: Fast Way News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/267402"
+    },
+    {
+        "channel-name": "IN: Flowers TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193148"
+    },
+    {
+        "channel-name": "IN: Food Food",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1362"
+    },
+    {
+        "channel-name": "IN: Gaunda Punjab TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/296604"
+    },
+    {
+        "channel-name": "IN: GDNS Ludhiana",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/286949"
+    },
+    {
+        "channel-name": "IN: Gemini",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/165794"
+    },
+    {
+        "channel-name": "IN: Gemini Comedy",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/264710"
+    },
+    {
+        "channel-name": "IN: Gemini Movies",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/297557"
+    },
+    {
+        "channel-name": "IN: Gemini Music",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/297558"
+    },
+    {
+        "channel-name": "IN: Global Punjab",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49647"
+    },
+    {
+        "channel-name": "IN: Global Sanjh",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49617"
+    },
+    {
+        "channel-name": "IN: Goodnews TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/159106"
+    },
+    {
+        "channel-name": "IN: GS TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/196130"
+    },
+    {
+        "channel-name": "IN: Harvest TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/166372"
+    },
+    {
+        "channel-name": "IN: Harvest USA",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/198220"
+    },
+    {
+        "channel-name": "IN: High News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/299491"
+    },
+    {
+        "channel-name": "IN: History",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82604"
+    },
+    {
+        "channel-name": "IN: HM",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193056"
+    },
+    {
+        "channel-name": "IN: Hulchul TV Canada",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49630"
+    },
+    {
+        "channel-name": "IN: IBC 24",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193013"
+    },
+    {
+        "channel-name": "IN: IBC Comedy",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/45428"
+    },
+    {
+        "channel-name": "IN: IBC Tamil TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/51823"
+    },
+    {
+        "channel-name": "IN: Imayam TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/166375"
+    },
+    {
+        "channel-name": "IN: India News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/192968"
+    },
+    {
+        "channel-name": "IN: India plus",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/290683"
+    },
+    {
+        "channel-name": "IN: India Today",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/16970"
+    },
+    {
+        "channel-name": "IN: India TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49577"
+    },
+    {
+        "channel-name": "IN: INH 24x7",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193014"
+    },
+    {
+        "channel-name": "IN: Ion TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/198746"
+    },
+    {
+        "channel-name": "IN: Isai Aruvi",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193205"
+    },
+    {
+        "channel-name": "IN: J Movie",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/145638"
+    },
+    {
+        "channel-name": "IN: Jaihind TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/192073"
+    },
+    {
+        "channel-name": "IN: Jan TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193176"
+    },
+    {
+        "channel-name": "IN: Janam TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/197720"
+    },
+    {
+        "channel-name": "IN: Janta TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/60348"
+    },
+    {
+        "channel-name": "IN: Jaya Max",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/51824"
+    },
+    {
+        "channel-name": "IN: Jaya Plus",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193207"
+    },
+    {
+        "channel-name": "IN: Jaya TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/145637"
+    },
+    {
+        "channel-name": "IN: Jeevan TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/166377"
+    },
+    {
+        "channel-name": "IN: Jhanjar Music",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82522"
+    },
+    {
+        "channel-name": "IN: Jigyasa TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/275982"
+    },
+    {
+        "channel-name": "IN: JonmoBhumi TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/285932"
+    },
+    {
+        "channel-name": "IN: K News India",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/275947"
+    },
+    {
+        "channel-name": "IN: Kadak Hits",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82523"
+    },
+    {
+        "channel-name": "IN: Kairali News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/294953"
+    },
+    {
+        "channel-name": "IN: Kairali TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/51849"
+    },
+    {
+        "channel-name": "IN: Kalaignar Murasu TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/286966"
+    },
+    {
+        "channel-name": "IN: Kalaignar Seithigal",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/283911"
+    },
+    {
+        "channel-name": "IN: Kalaignar TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193204"
+    },
+    {
+        "channel-name": "IN: Kalinga TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193062"
+    },
+    {
+        "channel-name": "IN: Kanshi TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/145661"
+    },
+    {
+        "channel-name": "IN: Kappa TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193109"
+    },
+    {
+        "channel-name": "IN: Kaumudy TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82530"
+    },
+    {
+        "channel-name": "IN: KCL TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/286959"
+    },
+    {
+        "channel-name": "IN: KCV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/286960"
+    },
+    {
+        "channel-name": "IN: KCV Movies",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/286961"
+    },
+    {
+        "channel-name": "IN: Kerala Vision",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/267445"
+    },
+    {
+        "channel-name": "IN: Khabrain Abhi Tak",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/286974"
+    },
+    {
+        "channel-name": "IN: KTV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/36442"
+    },
+    {
+        "channel-name": "IN: Living India News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/159107"
+    },
+    {
+        "channel-name": "IN: Lok Sabha TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82532"
+    },
+    {
+        "channel-name": "IN: Madha TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193042"
+    },
+    {
+        "channel-name": "IN: Maha Movie",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82608"
+    },
+    {
+        "channel-name": "IN: Makkal TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/51821"
+    },
+    {
+        "channel-name": "IN: Malabar News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/283914"
+    },
+    {
+        "channel-name": "IN: Mangalam TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/192075"
+    },
+    {
+        "channel-name": "IN: Manorama News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/192076"
+    },
+    {
+        "channel-name": "IN: Manoranjan Movies",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/192200"
+    },
+    {
+        "channel-name": "IN: Manoranjan TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/295501"
+    },
+    {
+        "channel-name": "IN: Mantavya 24x7 News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/159109"
+    },
+    {
+        "channel-name": "IN: Mastiii",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/76958"
+    },
+    {
+        "channel-name": "IN: Mathrubhumi News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/163277"
+    },
+    {
+        "channel-name": "IN: Mazhavil Manorama",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193067"
+    },
+    {
+        "channel-name": "IN: Media One",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/51851"
+    },
+    {
+        "channel-name": "IN: Mh 1 Music",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/198604"
+    },
+    {
+        "channel-name": "IN: Moon TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/297560"
+    },
+    {
+        "channel-name": "IN: Movies Now",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/169118"
+    },
+    {
+        "channel-name": "IN: MTV Beats",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193068"
+    },
+    {
+        "channel-name": "IN: MTV India",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193647"
+    },
+    {
+        "channel-name": "IN: Music India",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1358"
+    },
+    {
+        "channel-name": "IN: Nambikkai TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/166382"
+    },
+    {
+        "channel-name": "IN: Namdhari TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49646"
+    },
+    {
+        "channel-name": "IN: Namma TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193070"
+    },
+    {
+        "channel-name": "IN: Nazrana",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/165810"
+    },
+    {
+        "channel-name": "IN: NDTV 24X7",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/21664"
+    },
+    {
+        "channel-name": "IN: NDTV India",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/166390"
+    },
+    {
+        "channel-name": "IN: NDTV Profit",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/166388"
+    },
+    {
+        "channel-name": "IN: News 7 Tamil",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/269685"
+    },
+    {
+        "channel-name": "IN: News 18 Assam",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/283919"
+    },
+    {
+        "channel-name": "IN: News 18 Gujarati",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193127"
+    },
+    {
+        "channel-name": "IN: News 18 India",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/247511"
+    },
+    {
+        "channel-name": "IN: News 18 Kannada",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193115"
+    },
+    {
+        "channel-name": "IN: News 18 Malayalam",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/283926"
+    },
+    {
+        "channel-name": "IN: News 18 Urdu",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193015"
+    },
+    {
+        "channel-name": "IN: News 18 Uttar Pradesh & Uttarakhand",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/283931"
+    },
+    {
+        "channel-name": "IN: News 1st",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/296492"
+    },
+    {
+        "channel-name": "IN: News 24",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/16601"
+    },
+    {
+        "channel-name": "IN: News Live",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193089"
+    },
+    {
+        "channel-name": "IN: Next TV Malabar",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/287006"
+    },
+    {
+        "channel-name": "IN: Nickelodeon",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/286732"
+    },
+    {
+        "channel-name": "IN: NK TV Plus",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/299492"
+    },
+    {
+        "channel-name": "IN: NRB TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/281555"
+    },
+    {
+        "channel-name": "IN: NTV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/165796"
+    },
+    {
+        "channel-name": "IN: Odisha TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193136"
+    },
+    {
+        "channel-name": "IN: Only Music",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/264726"
+    },
+    {
+        "channel-name": "IN: Peace TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82613"
+    },
+    {
+        "channel-name": "IN: Peppers TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/166401"
+    },
+    {
+        "channel-name": "IN: Pitaara",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/145652"
+    },
+    {
+        "channel-name": "IN: Polimer News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/163279"
+    },
+    {
+        "channel-name": "IN: POP Pataka",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82545"
+    },
+    {
+        "channel-name": "IN: Pratidin Time",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/198224"
+    },
+    {
+        "channel-name": "IN: Prime 9 News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/270138"
+    },
+    {
+        "channel-name": "IN: Prime Canada TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49519"
+    },
+    {
+        "channel-name": "IN: PTC Chakde",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193155"
+    },
+    {
+        "channel-name": "IN: PTC DHOL",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/264722"
+    },
+    {
+        "channel-name": "IN: PTC News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/295294"
+    },
+    {
+        "channel-name": "IN: PTC Punjabi",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82616"
+    },
+    {
+        "channel-name": "IN: PTC Punjabi Gold",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/197742"
+    },
+    {
+        "channel-name": "IN: PTC Simran",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/264723"
+    },
+    {
+        "channel-name": "IN: Public Music",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/192145"
+    },
+    {
+        "channel-name": "IN: Pulari TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/287016"
+    },
+    {
+        "channel-name": "IN: Puthiya Thalaimurai",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193035"
+    },
+    {
+        "channel-name": "IN: Puthuyugam TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/196101"
+    },
+    {
+        "channel-name": "IN: Raj Digital Plus",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/60418"
+    },
+    {
+        "channel-name": "IN: Raj Musix Telugu",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193137"
+    },
+    {
+        "channel-name": "IN: Raj News 24x7",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193648"
+    },
+    {
+        "channel-name": "IN: Raj TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193125"
+    },
+    {
+        "channel-name": "IN: Real News Kerala",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/283939"
+    },
+    {
+        "channel-name": "IN: Relax TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/287018"
+    },
+    {
+        "channel-name": "IN: Reporter",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/51854"
+    },
+    {
+        "channel-name": "IN: Republic Bharat",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49582"
+    },
+    {
+        "channel-name": "IN: Republic TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82617"
+    },
+    {
+        "channel-name": "IN: Romedy Now",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/51876"
+    },
+    {
+        "channel-name": "IN: Rupavahini",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/299528"
+    },
+    {
+        "channel-name": "IN: Saam TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/166387"
+    },
+    {
+        "channel-name": "IN: Sada TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49625"
+    },
+    {
+        "channel-name": "IN: Sadhna Plus News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/166394"
+    },
+    {
+        "channel-name": "IN: Sadhna TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/166392"
+    },
+    {
+        "channel-name": "IN: Sahara Samay",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/247493"
+    },
+    {
+        "channel-name": "IN: Sakshi TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193164"
+    },
+    {
+        "channel-name": "IN: Samachar Plus Rajasthan",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/299499"
+    },
+    {
+        "channel-name": "IN: Sana Plus",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/287021"
+    },
+    {
+        "channel-name": "IN: Sana TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/287022"
+    },
+    {
+        "channel-name": "IN: Sangat TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/165765"
+    },
+    {
+        "channel-name": "IN: Sangeet Bangla",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/165827"
+    },
+    {
+        "channel-name": "IN: Sangeet Marathi",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193185"
+    },
+    {
+        "channel-name": "IN: Sanjha TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49624"
+    },
+    {
+        "channel-name": "IN: Sankara TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/166407"
+    },
+    {
+        "channel-name": "IN: Sankhya TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/299378"
+    },
+    {
+        "channel-name": "IN: Sanskar TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/51882"
+    },
+    {
+        "channel-name": "IN: Sardari TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82554"
+    },
+    {
+        "channel-name": "IN: Sarv Dharam Sangam",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/166791"
+    },
+    {
+        "channel-name": "IN: Sathiyam TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193131"
+    },
+    {
+        "channel-name": "IN: Satsang TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/45463"
+    },
+    {
+        "channel-name": "IN: ShowBox",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/192998"
+    },
+    {
+        "channel-name": "IN: Shraddha Mh One",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193116"
+    },
+    {
+        "channel-name": "IN: Shubhsandesh TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82557"
+    },
+    {
+        "channel-name": "IN: Sikh Channel",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82556"
+    },
+    {
+        "channel-name": "IN: Sikh Spiritual Centre",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/286225"
+    },
+    {
+        "channel-name": "IN: Sirippoli",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193163"
+    },
+    {
+        "channel-name": "IN: Sivan TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/51842"
+    },
+    {
+        "channel-name": "IN: Siyatha TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/166117"
+    },
+    {
+        "channel-name": "IN: Sony (Set India)",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/281867"
+    },
+    {
+        "channel-name": "IN: Sony Aath",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/17005"
+    },
+    {
+        "channel-name": "IN: Sony BBC Earth",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/192995"
+    },
+    {
+        "channel-name": "IN: Sony Marathi",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193097"
+    },
+    {
+        "channel-name": "IN: Sony Max",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1359"
+    },
+    {
+        "channel-name": "IN: Sony Max 2",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/4862"
+    },
+    {
+        "channel-name": "IN: Sony Max India",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/63397"
+    },
+    {
+        "channel-name": "IN: Sony Pal",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193645"
+    },
+    {
+        "channel-name": "IN: Sony Pix",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49539"
+    },
+    {
+        "channel-name": "IN: Sony SAB",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1073"
+    },
+    {
+        "channel-name": "IN: Sony Sports Ten 1",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/16622"
+    },
+    {
+        "channel-name": "IN: Sony Sports Ten 2",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/16621"
+    },
+    {
+        "channel-name": "IN: Sony Sports Ten 3",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/56191"
+    },
+    {
+        "channel-name": "IN: Sony Wah",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/165801"
+    },
+    {
+        "channel-name": "IN: Sony Yay!",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1355"
+    },
+    {
+        "channel-name": "IN: Star Bharat",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/284583"
+    },
+    {
+        "channel-name": "IN: Star Gold",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1070"
+    },
+    {
+        "channel-name": "IN: Star Gold 2",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/43919"
+    },
+    {
+        "channel-name": "IN: Star Gold Select",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/297547"
+    },
+    {
+        "channel-name": "IN: Star Jalsha",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/12979"
+    },
+    {
+        "channel-name": "IN: Star Maa Movies",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82624"
+    },
+    {
+        "channel-name": "IN: Star Movies",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/11511"
+    },
+    {
+        "channel-name": "IN: Star Movies Select",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/267542"
+    },
+    {
+        "channel-name": "IN: Star Plus",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/16091"
+    },
+    {
+        "channel-name": "IN: Star Pravah",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193149"
+    },
+    {
+        "channel-name": "IN: Star Sports 1",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/3630"
+    },
+    {
+        "channel-name": "IN: Star Sports 2",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/3631"
+    },
+    {
+        "channel-name": "IN: Star Sports 3",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/62584"
+    },
+    {
+        "channel-name": "IN: Star Sports Select 1",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82628"
+    },
+    {
+        "channel-name": "IN: Star Sports Select 2",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/16619"
+    },
+    {
+        "channel-name": "IN: Star Vijay",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/19744"
+    },
+    {
+        "channel-name": "IN: Steelbird Music",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49650"
+    },
+    {
+        "channel-name": "IN: Subhavaartha TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/166397"
+    },
+    {
+        "channel-name": "IN: Sudarshan News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193077"
+    },
+    {
+        "channel-name": "IN: Sun Life",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/267819"
+    },
+    {
+        "channel-name": "IN: Sun Music",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/157496"
+    },
+    {
+        "channel-name": "IN: Sun News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/295303"
+    },
+    {
+        "channel-name": "IN: Sun TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/76969"
+    },
+    {
+        "channel-name": "IN: Surya Movies",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193145"
+    },
+    {
+        "channel-name": "IN: Suvarna News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/51844"
+    },
+    {
+        "channel-name": "IN: SVBC",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/166383"
+    },
+    {
+        "channel-name": "IN: Swamiji TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/267416"
+    },
+    {
+        "channel-name": "IN: Swaraj Express SMBC",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193093"
+    },
+    {
+        "channel-name": "IN: T News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193024"
+    },
+    {
+        "channel-name": "IN: Taaza TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/299497"
+    },
+    {
+        "channel-name": "IN: Tamil Vision",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/60423"
+    },
+    {
+        "channel-name": "IN: Tamilan TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/267549"
+    },
+    {
+        "channel-name": "IN: Thanthi TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/45437"
+    },
+    {
+        "channel-name": "IN: Thuthi TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/299495"
+    },
+    {
+        "channel-name": "IN: Times Now",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/76961"
+    },
+    {
+        "channel-name": "IN: Total Sports",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/299029"
+    },
+    {
+        "channel-name": "IN: Travelxp",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82636"
+    },
+    {
+        "channel-name": "IN: TV 5 Kannada",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193065"
+    },
+    {
+        "channel-name": "IN: TV 9 Gujarati",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193152"
+    },
+    {
+        "channel-name": "IN: TV 9 Kannada",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193060"
+    },
+    {
+        "channel-name": "IN: TV 9 Marathi",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193016"
+    },
+    {
+        "channel-name": "IN: TV 9 Telugu",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/163256"
+    },
+    {
+        "channel-name": "IN: TV 16 Toronto",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/147414"
+    },
+    {
+        "channel-name": "IN: TV Derana",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/296394"
+    },
+    {
+        "channel-name": "IN: Utsav Bharat",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/16614"
+    },
+    {
+        "channel-name": "IN: Utsav Gold",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82623"
+    },
+    {
+        "channel-name": "IN: Utsav Plus",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/60347"
+    },
+    {
+        "channel-name": "IN: V4 News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/299537"
+    },
+    {
+        "channel-name": "IN: V6 News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/192185"
+    },
+    {
+        "channel-name": "IN: Vasanth TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82569"
+    },
+    {
+        "channel-name": "IN: Vasantham TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/299474"
+    },
+    {
+        "channel-name": "IN: Velicham TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/159110"
+    },
+    {
+        "channel-name": "IN: Verbum TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/299529"
+    },
+    {
+        "channel-name": "IN: Victers TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/299493"
+    },
+    {
+        "channel-name": "IN: Vyas Higher Education Channel",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/299490"
+    },
+    {
+        "channel-name": "IN: We",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193159"
+    },
+    {
+        "channel-name": "IN: Willow",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/165776"
+    },
+    {
+        "channel-name": "IN: Wow Cinema One",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/197945"
+    },
+    {
+        "channel-name": "IN: Zee 24 Ghanta",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193187"
+    },
+    {
+        "channel-name": "IN: Zee 24 Kalak",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/45484"
+    },
+    {
+        "channel-name": "IN: Zee 24 Taas",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/45486"
+    },
+    {
+        "channel-name": "IN: Zee Action",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1353"
+    },
+    {
+        "channel-name": "IN: Zee Aflam",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/22067"
+    },
+    {
+        "channel-name": "IN: Zee Alwan",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1207"
+    },
+    {
+        "channel-name": "IN: Zee Anmol Cinema",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/19467"
+    },
+    {
+        "channel-name": "IN: Zee Bangla",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/145632"
+    },
+    {
+        "channel-name": "IN: Zee Bangla Cinema",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/21658"
+    },
+    {
+        "channel-name": "IN: Zee Biskope",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/193009"
+    },
+    {
+        "channel-name": "IN: Zee Bollywood",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1351"
+    },
+    {
+        "channel-name": "IN: Zee Business",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/16984"
+    },
+    {
+        "channel-name": "IN: Zee Caf\u00e9",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/49561"
+    },
+    {
+        "channel-name": "IN: Zee Cinema Asia",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1350"
+    },
+    {
+        "channel-name": "IN: Zee Classic",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/21578"
+    },
+    {
+        "channel-name": "IN: Zee Hindustan",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/145633"
+    },
+    {
+        "channel-name": "IN: Zee Kannada",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/145631"
+    },
+    {
+        "channel-name": "IN: Zee Magic",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/281920"
+    },
+    {
+        "channel-name": "IN: Zee Marathi",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/82646"
+    },
+    {
+        "channel-name": "IN: Zee News",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/5047"
+    },
+    {
+        "channel-name": "IN: Zee Picchar",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/192201"
+    },
+    {
+        "channel-name": "IN: Zee Punjabi",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/145630"
+    },
+    {
+        "channel-name": "IN: Zee Talkies",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/16957"
+    },
+    {
+        "channel-name": "IN: Zee Tamil",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/45505"
+    },
+    {
+        "channel-name": "IN: Zee Telugu",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/21561"
+    },
+    {
+        "channel-name": "IN: Zee TV",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1348"
+    },
+    {
+        "channel-name": "IN: Zee World",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/172264"
+    },
+    {
+        "channel-name": "IN: Zee Yuva",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/45502"
+    },
+    {
+        "channel-name": "IN: Zee Zest",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1361"
+    },
+    {
+        "channel-name": "IN: Zing",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/1347"
+    },
+    {
+        "channel-name": "IN: Zoom",
+        "tvg-logo": "",
+        "group-title": "Ungrouped",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/kuchini.site:8080\/bigboss\/dF2SUPPUwzmZ8prS\/192069"
     }
 ]
