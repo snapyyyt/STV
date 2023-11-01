@@ -870,7 +870,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery_Channel.m3u8"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/Discovery_Channel.m3u8"
     },
     {
         "channel-name": "Animal Planet HD",
@@ -879,7 +879,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Animal_Planet.m3u8"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/Animal_Planet.m3u8"
     },
     {
         "channel-name": "Discovery Science",
@@ -888,7 +888,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery_Science.m3u8"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/Discovery_Science.m3u8"
     },
     {
         "channel-name": "TLC HD",
@@ -897,7 +897,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/TLC.m3u8"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/TLC.m3u8"
     },
     {
         "channel-name": "Discovery Turbo",
@@ -906,7 +906,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery_Turbo.m3u8"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/Discovery_Turbo.m3u8"
     },
     {
         "channel-name": "Investigation Discovery",
@@ -915,7 +915,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Investigation_Discovery.m3u8"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/Investigation_Discovery.m3u8"
     },
     {
         "channel-name": "Eurosport HD",
@@ -924,7 +924,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Eurosport.m3u8"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/Eurosport.m3u8"
     },
     {
         "channel-name": "DMAX",
@@ -933,7 +933,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/DMAX.m3u8"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/DMAX.m3u8"
     },
     {
         "channel-name": "TRVL Channel",
@@ -942,7 +942,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/TRVL_Channel.m3u8"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/TRVL_Channel.m3u8"
     },
     {
         "channel-name": "HGTV",
@@ -951,7 +951,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/HGTV.m3u8"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/HGTV.m3u8"
     },
     {
         "channel-name": "Food Network",
@@ -960,7 +960,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Food%20Network.m3u8"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/Food%20Network.m3u8"
     },
     {
         "channel-name": "Discovery Kids",
@@ -969,6 +969,6 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery_Kids.m3u8"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/Discovery_Kids.m3u8"
     }
 ]
