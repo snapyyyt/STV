@@ -213,7 +213,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96197"
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Andpictureshd\/default\/index.m3u8"
     },
     {
         "channel-name": "AND TV HD",
@@ -222,7 +222,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96198"
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Andtvhd\/default\/index.m3u8"
     },
     {
         "channel-name": "ZEE ACTION",
@@ -231,7 +231,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96169"
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeeaction\/default\/index.m3u8"
     },
     {
         "channel-name": "ZEE TV HD",
@@ -243,13 +243,22 @@
         "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96170"
     },
     {
+        "channel-name": "ZEE TV HD",
+        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
+        "group-title": "ZEE5",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/str24.l9574.com\/606.stream\/index.m3u8"
+    },
+    {
         "channel-name": "ZEE CINEMA HD",
         "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
         "group-title": "ZEE5",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96171"
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeecinema\/default\/index.m3u8"
     },
     {
         "channel-name": "ZING",
@@ -276,7 +285,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96258"
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeeanmol\/default\/index.m3u8"
     },
     {
         "channel-name": "ZEE ANMOL CINEMA",
@@ -285,7 +294,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96259"
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeeanmolcinema\/default\/index.m3u8"
     },
     {
         "channel-name": "ZEE HINDUSTAN NEWS",
@@ -438,7 +447,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95882"
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeecinemalu\/default\/index.m3u8"
     },
     {
         "channel-name": " ZEE TELUGU HD",
@@ -483,7 +492,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100169"
+        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeetamil\/default\/index.m3u8"
     },
     {
         "channel-name": " ZEE TAMIL SD",
