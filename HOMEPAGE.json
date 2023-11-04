@@ -18,10 +18,10 @@
         "logo-url" : "https://i.ibb.co/B2wKbmf/jiotv.png"
     },
     {
-        "server-name" : "Tata Play 2",
-        "server-api" : "https://raw.githubusercontent.com/snapyyyt/STV/main/tata2.php",
+        "server-name" : "Airtel TV",
+        "server-api" : "https://raw.githubusercontent.com/snapyyyt/STV/main/airtel.php",
         "is-active" : true,
-        "logo-url" : "https://i.ibb.co/WKckHbw/tataplay.png"
+        "logo-url" : "https://i.postimg.cc/GpfCNK7J/download-3.png"
     }
     {
         "server-name" : "MOVIES (SERVER 2)",
