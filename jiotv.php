@@ -207,328 +207,481 @@
         "video-streaming-link": "https:\/\/spt-sonykal-1-us.lg.wurl.tv\/playlist.m3u8"
     },
     {
-        "channel-name": "AND PICTURES HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "ZEE5",
+        "channel-name": "Zing",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zing\/channel_web\/1170x658withlogo596214b303fa477e9eb584d1814d1c4c.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Andpictureshd\/default\/index.m3u8"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zing"
     },
     {
-        "channel-name": "AND TV HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "ZEE5",
+        "channel-name": "Big Magic",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-bigmagic_1786965389\/channel_web\/1170x658withlog2022520414.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Andtvhd\/default\/index.m3u8"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-bigmagic_1786965389"
     },
     {
-        "channel-name": "ZEE ACTION",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "ZEE5",
+        "channel-name": "Zee TV HD",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeetvhd\/channel_web\/1170x658withlogo37d9d9e488c140b191075cc5f07c1223.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeeaction\/default\/index.m3u8"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeetvhd"
     },
     {
-        "channel-name": "ZEE TV HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "ZEE5",
+        "channel-name": "&TV HD",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-tvhd_0\/channel_web\/1170x658withlogo7211ab37352b480183359b0628c61994.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96170"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-tvhd_0"
     },
     {
-        "channel-name": "ZEE TV HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Marathi HD",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeemarathi\/channel_web\/1170x658withlogo83012bc9c1344c7aa000e70a5ec92587.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/str24.l9574.com\/606.stream\/index.m3u8"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeemarathi"
     },
     {
-        "channel-name": "ZEE CINEMA HD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Yuva",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeeyuva\/channel_web\/1170x658withlogo3ab45ffee3a94b99b4f2f41859514f0f.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeecinema\/default\/index.m3u8"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeeyuva"
     },
     {
-        "channel-name": "ZING",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Caf\u00e9 HD",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeecafehd\/channel_web\/1170x658withlogo325698699.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96172"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeecafehd"
     },
     {
-        "channel-name": "ZEE CLASSICS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Ganga",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-bigganga\/channel_web\/1170x658withlogo26f3855d5eb443f78b6b058135157a22.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96252"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-bigganga"
     },
     {
-        "channel-name": "ZEE ANMOL",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Anmol_IN.png",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Tamil HD",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeetamil\/channel_web\/1170x6580c64b034b1f04766a39172f72eb97c77.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeeanmol\/default\/index.m3u8"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeetamil"
     },
     {
-        "channel-name": "ZEE ANMOL CINEMA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Telugu HD",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeetelugu\/channel_web\/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeeanmolcinema\/default\/index.m3u8"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeetelugu"
     },
     {
-        "channel-name": "ZEE HINDUSTAN NEWS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Kannada HD",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeekannada\/channel_web\/zeekannada17089566f88c3ba4af2a1b7da91e8cf14f3.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96260"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeekannada"
     },
     {
-        "channel-name": "ZEE NEWS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_News_IN.png",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Keralam HD",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-129\/channel_web\/1170x658withlogoea00fd123614470c9f82e2fde66280e4.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96261"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-129"
     },
     {
-        "channel-name": "ZEE NEWS BIHAR",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Bihar_Jharkhand_IN.png",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Bangla HD",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeebangla\/channel_web\/1170x658withlogoe3a7cf54204d452190f046f4841f5672.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96262"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeebangla"
     },
     {
-        "channel-name": "ZEE NEWS MP\/CHATTISGARH",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_MP_Chhattisgarh_IN.png",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Anmol",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeeanmol\/channel_web\/1170x658withlogof149fd8008b94c998965e1c2c880042a.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96263"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeeanmol"
     },
     {
-        "channel-name": "ZEE NEWS UP",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_News_IN.png",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Cinema HD",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeecinemahd\/channel_web\/1170x658withlogo9430ec08479b47f0a19c0283cd9495a7.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96264"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeecinemahd"
     },
     {
-        "channel-name": "ZEE RAJASTHAN",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Rajasthan_IN.png",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Cinemalu HD",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeecinemalu\/channel_web\/1170x658withlogoe8f8c52041fb4e1bbe03ea82cf72e557.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96265"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeecinemalu"
     },
     {
-        "channel-name": "ZEE BUSINESS",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Business_IN.png",
-        "group-title": "ZEE5",
+        "channel-name": "&Pictures HD",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-tvpictureshd\/channel_web\/1170x658withlogob44b36f78e1647db9fa013accc0fc0c6.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96338"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-tvpictureshd"
     },
     {
-        "channel-name": "ZEE ETC BOLLYWOOD",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Talkies HD",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeetalkies\/channel_web\/1170x658483062857.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96345"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeetalkies"
     },
     {
-        "channel-name": "ZEE YUVA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Bangla Cinema",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeebanglacinema\/channel_web\/1170x658withlogo37ae3406ee15436ab22f702a95eedaa7.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96350"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeebanglacinema"
     },
     {
-        "channel-name": "ZEE NEWS MP",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_News_IN.png",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Punjabi",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-215\/channel_web\/1170x658withlogoce2ca382ce0d467190d9a3e9cb6af78d.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96358"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-215"
     },
     {
-        "channel-name": "ZEE KALINGA",
-        "tvg-logo": "http:\/\/vodkom.com:25461\/Logo\/INDIA\/Zee_Kalinga_IN.png",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Anmol Cinema",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeeanmolcinema\/channel_web\/1170x658withlogo1a82943769da4b59aa160d90c9e3ebb9.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/96366"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeeanmolcinema"
     },
     {
-        "channel-name": " ZEE BANGLA CINEMA",
-        "tvg-logo": "",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Bollywood",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeeclassic\/channel_web\/1170x658withlogoae1cbdeedbac43e49796f0e4ff603acc.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95774"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeeclassic"
     },
     {
-        "channel-name": " ZEE BANGLA HD",
-        "tvg-logo": "",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Cinema",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeecinema\/channel_web\/1170x658withlogocac7810d94c848dba02ed5ab44341a78.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95778"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeecinema"
     },
     {
-        "channel-name": "ZEE 24 TAAS",
-        "tvg-logo": "",
-        "group-title": "ZEE5",
+        "channel-name": "&Pictures",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-pictures\/channel_web\/1170x658withlog1269578414.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95848"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-pictures"
     },
     {
-        "channel-name": "ZEE MARATHI HD",
-        "tvg-logo": "",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Action",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeeaction\/channel_web\/1170x658withlogo2d9df480fb454003af3b291d3180f237.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95849"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeeaction"
     },
     {
-        "channel-name": "ZEE TALKIES HD",
-        "tvg-logo": "",
-        "group-title": "ZEE5",
+        "channel-name": "&Prive HD",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-priv\u00e9hd\/channel_web\/1170x658withlogo375086496.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95850"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-priv\u00e9hd"
     },
     {
-        "channel-name": " ZEE CINEMALU HD",
-        "tvg-logo": "",
-        "group-title": "ZEE5",
+        "channel-name": "&flix HD",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-channel_2105335046\/channel_web\/1170x658379547401.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeecinemalu\/default\/index.m3u8"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-channel_2105335046"
     },
     {
-        "channel-name": " ZEE TELUGU HD",
-        "tvg-logo": "",
-        "group-title": "ZEE5",
+        "channel-name": "Sanskar TV",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-channel_1144658965\/channel_web\/1170x658withlogo9a371cbdfe144fbcb45d80f397ba6f96.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95883"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-channel_1144658965"
     },
     {
-        "channel-name": "ZEE 24 GHANTA",
-        "tvg-logo": "",
-        "group-title": "ZEE5",
+        "channel-name": "Satsang TV",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-channel_1565694979\/channel_web\/1170x658withlogo66703857.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100640"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-channel_1565694979"
     },
     {
-        "channel-name": "ZEE CAFE HD",
-        "tvg-logo": "",
-        "group-title": "ZEE5",
+        "channel-name": "Zee TV",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-zeetv\/channel_web\/1170x658withlogob3ded26b5724474a92c53277b074fe5f.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93678"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-zeetv"
     },
     {
-        "channel-name": "ZEE KERALAM HD",
-        "tvg-logo": "",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Sarthak",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-sarthaktv\/channel_web\/1170x658withlogo75246529e43d4eed88302dc6fef5a2f3.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93599"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-sarthaktv"
     },
     {
-        "channel-name": " ZEE TAMIL HD",
-        "tvg-logo": "",
-        "group-title": "ZEE5",
+        "channel-name": "Hare Krsna",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-183\/channel_web\/1170x658withlog1124442022.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/d75dqofg5kmfk.cloudfront.net\/bpk-tv\/Zeetamil\/default\/index.m3u8"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-183"
     },
     {
-        "channel-name": " ZEE TAMIL SD",
-        "tvg-logo": "",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Classic",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-176\/channel_web\/1170x658withlogo1948f549188543369c29907c29262f11.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100170"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-176"
     },
     {
-        "channel-name": " ZEE THIRAI",
-        "tvg-logo": "",
-        "group-title": "ZEE5",
+        "channel-name": "&xplorHD",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-209\/channel_web\/1170x658withlogo358457080.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100171"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-209"
     },
     {
-        "channel-name": "ZEE PUNJAB HARYANA HD",
-        "tvg-logo": "",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Biskope",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-216\/channel_web\/1170x658withlogo20909261.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93718"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-216"
     },
     {
-        "channel-name": "ZEE PUNJABI",
-        "tvg-logo": "",
-        "group-title": "ZEE5",
+        "channel-name": "Zee Thirai",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-224\/channel_web\/1170x658withlogo411383076d7e42eeb3ea401e38cde895.png",
+        "group-title": "ZEE CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93719"
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-224"
+    },
+    {
+        "channel-name": "Zee Zest HD",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-348\/channel_web\/1170x658withlog2096037619.png",
+        "group-title": "Lifestyle",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-348"
+    },
+    {
+        "channel-name": "Zee Picchar",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-241\/channel_web\/1170x658withlog1692640342.png",
+        "group-title": "ZEE CHANNELS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-241"
+    },
+    {
+        "channel-name": "Zee Chitramandir",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-394\/channel_web\/1170x658717187404.png",
+        "group-title": "ZEE CHANNELS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-394"
+    },
+    {
+        "channel-name": "Zee Kannada",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-9z5383466\/channel_web\/1170x658withlogo1c88bf22122047f3b5f03ff928aeaf2c.png",
+        "group-title": "ZEE CHANNELS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-9z5383466"
+    },
+    {
+        "channel-name": "Zee Bangla",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-9z5383484\/channel_web\/1170x658withlogo81f64841a969490c848a55eb035208cd.png",
+        "group-title": "ZEE CHANNELS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-9z5383484"
+    },
+    {
+        "channel-name": "Zee Telugu",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-9z5383485\/channel_web\/1170x658withlogo2582f16188fb441b83c1e432451eee0f.png",
+        "group-title": "ZEE CHANNELS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-9z5383485"
+    },
+    {
+        "channel-name": "Zee Marathi",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-9z5383486\/channel_web\/1170x658withlogo45995d246ac74654b7b80c48e1493ddc.png",
+        "group-title": "ZEE CHANNELS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-9z5383486"
+    },
+    {
+        "channel-name": "Zee Tamil",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-9z5383487\/channel_web\/1170x658withlogoa74d99e3438b48f1ae926604ada7c85a.png",
+        "group-title": "ZEE CHANNELS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-9z5383487"
+    },
+    {
+        "channel-name": "Zee Cinemalu",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-9z5383488\/channel_web\/1170x658withlogo4753e8766d8c4855a3cbeedbf4dea6d0.png",
+        "group-title": "ZEE CHANNELS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-9z5383488"
+    },
+    {
+        "channel-name": "Zee Talkies",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-9z5383489\/channel_web\/1170x658withlogoe11e2cce715b456990218cd26e7da994.png",
+        "group-title": "ZEE CHANNELS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-9z5383489"
+    },
+    {
+        "channel-name": "Aastha",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-9z5398761\/channel_web\/1170x65816b67c672aea48acb17fc42f6fce9d5b.png",
+        "group-title": "ZEE CHANNELS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-9z5398761"
+    },
+    {
+        "channel-name": "Aastha Telugu",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-9z5398768\/channel_web\/1170x658042cf19153ff4a83938e5682c2b92b59.png",
+        "group-title": "ZEE CHANNELS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-9z5398768"
+    },
+    {
+        "channel-name": "Aastha Tamil",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-9z5398770\/channel_web\/1170x6580c0b1f0b80c14441b5d15b2154806784.png",
+        "group-title": "ZEE CHANNELS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-9z5398770"
+    },
+    {
+        "channel-name": "Aastha Kannada",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-9z5398771\/channel_web\/1170x658761699067ac746c09ae79c3de315e2df.png",
+        "group-title": "ZEE CHANNELS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-9z5398771"
+    },
+    {
+        "channel-name": "Aastha Gujarati",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-9z5398791\/channel_web\/1170x65872d70eaa6f5646318005384e42d14078.png",
+        "group-title": "ZEE CHANNELS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-9z5398791"
+    },
+    {
+        "channel-name": "Dharm Sandesh",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-9z5398792\/channel_web\/1170x658c79674cf57ac4de48addad4284053d8e.png",
+        "group-title": "ZEE CHANNELS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-9z5398792"
+    },
+    {
+        "channel-name": "Aastha Bhajan",
+        "tvg-logo": "https:\/\/akamaividz2.zee5.com\/image\/upload\/resources\/0-9-9z5398793\/channel_web\/1170x658ffffcd473c784a51b16ca2818c6d046f.png",
+        "group-title": "ZEE CHANNELS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/similarly-evolved-cricket.ngrok-free.app\/ZEE5\/api.php?c=0-9-9z5398793"
     },
     {
         "channel-name": "Sports18 1",
