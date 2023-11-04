@@ -1023,7 +1023,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=733&id=Udaya_Comedy_MOB-audio_33636_eng=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=733&id=Udaya_Comedy_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "UDAYA MOVIES",
@@ -1032,7 +1032,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=678&id=Udaya_Movies_MOB-audio_33636_eng=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=678&id=Udaya_Movies_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "UDAYA HD",
@@ -1041,7 +1041,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=901&id=Udaya_HD_MOB-audio_98836_eng=98800-video=250000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=901&id=Udaya_HD_MOB-audio_98836_eng=98800-video=1680400.m3u8"
     },
     {
         "channel-name": "UDAYA MUSIC",
@@ -1050,7 +1050,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=744&id=Udaya_Music_MOB-audio_33636_eng=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=744&id=Udaya_Music_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "GEMINI COMEDY",
@@ -1059,7 +1059,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=729&id=Gemini_Comedy_MOB-audio_33636_eng=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=729&id=Gemini_Comedy_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "GEMINI HD",
@@ -1068,7 +1068,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=897&id=Gemini_TV_HD_MOB-audio_98836_eng=98800-video=250000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=897&id=Gemini_TV_HD_MOB-audio_98836_eng=98800-video=1680400.m3u8"
     },
     {
         "channel-name": "GEMINI LIFE",
@@ -1077,7 +1077,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=684&id=Gemini_Life_MOB-audio_33636_eng=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=684&id=Gemini_Life_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "GEMINI MOVIES HD",
@@ -1086,7 +1086,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=899&id=Gemini_Movies_HD_MOB-audio_98836_eng=98800-video=250000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=899&id=Gemini_Movies_HD_MOB-audio_98836_eng=98800-video=1680400.m3u8"
     },
     {
         "channel-name": "GEMINI MUSIC",
@@ -1095,7 +1095,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=898&id=Gemini_Music_HD_MOB-audio_98836_eng=98800-video=250000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=898&id=Gemini_Music_HD_MOB-audio_98836_eng=98800-video=1680400.m3u8"
     },
     {
         "channel-name": "GEMINI NEWS",
@@ -1113,7 +1113,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=558&id=Kushi_TV_MOB-audio_33636_eng=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=558&id=Kushi_TV_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "CHINTU TV",
@@ -1122,7 +1122,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=555&id=Chintu_TV_MOB-audio_33636_eng=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=555&id=Chintu_TV_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "CHUTTI TV",
@@ -1131,7 +1131,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=557&id=Chutti_TV_MOB-audio_33636_eng=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=557&id=Chutti_TV_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "KOCHU TV",
@@ -1140,7 +1140,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=557&id=Chutti_TV_MOB-audio_33636_eng=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=557&id=Chutti_TV_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "SUN BANGLA",
@@ -1149,7 +1149,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=1669&id=Sun_Bangla_MOB-audio_33636_eng=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=1669&id=Sun_Bangla_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "SURYA MOVIES",
@@ -1158,7 +1158,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=1754&id=Surya_Movies_MOB-audio_33636_eng=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=1754&id=Surya_Movies_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "SURYA MUSIC",
@@ -1167,7 +1167,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=747&id=Surya_Music_MOB-audio_33636_eng=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=747&id=Surya_Music_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "SURYA TV HD",
@@ -1176,7 +1176,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=900&id=Surya_HD_MOB-audio_98836_eng=98800-video=250000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=900&id=Surya_HD_MOB-audio_98836_eng=98800-video=1680400.m3u8"
     },
     {
         "channel-name": "SURYA COMEDY",
@@ -1185,7 +1185,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=1662&id=Surya_Comedy_MOB-audio_33636_eng=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=1662&id=Surya_Comedy_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "KTV",
@@ -1194,7 +1194,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=894&id=KTV_HD_MOB-audio_98836_eng=98800-video=250000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=894&id=KTV_HD_MOB-audio_98836_eng=98800-video=1680400.m3u8"
     },
     {
         "channel-name": "ADHTIYA TV",
@@ -1203,7 +1203,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=709&id=Adithya_TV_MOB-audio_33636_eng=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=709&id=Adithya_TV_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "SUN LIFE",
@@ -1212,7 +1212,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=682&id=Sun_Life_MOB-audio_33636_eng=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=682&id=Sun_Life_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "SUN MUSIC HD",
@@ -1221,7 +1221,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=895&id=Sun_Music_HD_MOB-audio_98836_eng=98800-video=250000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=895&id=Sun_Music_HD_MOB-audio_98836_eng=98800-video=1680400.m3u8"
     },
     {
         "channel-name": "SUN NEWS",
@@ -1230,7 +1230,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=676&id=Sun_News_MOB-audio_33636_eng=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=676&id=Sun_News_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "SUN TV HD",
@@ -1239,7 +1239,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=896&id=Sun_TV_HD_MOB-audio_98836_eng=98800-video=250000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=896&id=Sun_TV_HD_MOB-audio_98836_eng=98800-video=1680400.m3u8"
     },
     {
         "channel-name": "POGO TV",
@@ -1248,7 +1248,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=559&id=Pogo_Hindi_MOB-audio_33637_hin=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=559&id=Pogo_Hindi_MOB-audio_33637_hin=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "NICK",
@@ -1257,7 +1257,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=545&id=Nick_Hindi_MOB-audio_98841_hin=98800-video=458400.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=545&id=Nick_Hindi_MOB-audio_98841_hin=98800-video=1680400.m3u8"
     },
     {
         "channel-name": "CARTOON NETWORK",
@@ -1266,7 +1266,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=816&id=Cartoon_Network_Hindi_MOB-audio_33644_hin=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=816&id=Cartoon_Network_Hindi_MOB-audio_33644_hin=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "THE Q KAHANIYAN",
@@ -1275,7 +1275,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=1920&id=The_Q_Kahaniyan_MOB-audio_98835_eng=98800-video=250000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=1920&id=The_Q_Kahaniyan_MOB-audio_98835_eng=98800-video=1680400.m3u8"
     },
     {
         "channel-name": "SONY YAY",
@@ -1284,6 +1284,6 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=872&id=Sony_Yay_Hindi_MOB-audio_33636_eng=33600-video=148000.m3u8"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=872&id=Sony_Yay_Hindi_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     }
 ]
