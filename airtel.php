@@ -1023,7 +1023,16 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95832"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=733&id=Udaya_Comedy_MOB-audio_33636_eng=33600-video=1680400.m3u8"
+    },
+    {
+        "channel-name": "UDAYA MOVIES",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=678&id=Udaya_Movies_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "UDAYA HD",
@@ -1032,7 +1041,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95833"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=901&id=Udaya_HD_MOB-audio_98836_eng=98800-video=2906400.m3u8"
     },
     {
         "channel-name": "UDAYA MUSIC",
@@ -1041,7 +1050,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95835"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=744&id=Udaya_Music_MOB-audio_33636_eng=33600-video=2906400.m3u8"
     },
     {
         "channel-name": "GEMINI COMEDY",
@@ -1050,7 +1059,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95860"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=729&id=Gemini_Comedy_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "GEMINI HD",
@@ -1059,7 +1068,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95861"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=897&id=Gemini_TV_HD_MOB-audio_98836_eng=98800-video=2906400.m3u8"
     },
     {
         "channel-name": "GEMINI LIFE",
@@ -1068,7 +1077,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95862"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=684&id=Gemini_Life_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "GEMINI MOVIES HD",
@@ -1077,7 +1086,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95863"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=899&id=Gemini_Movies_HD_MOB-audio_98836_eng=98800-video=2906400.m3u8"
     },
     {
         "channel-name": "GEMINI MUSIC",
@@ -1086,7 +1095,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95864"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=898&id=Gemini_Music_HD_MOB-audio_98836_eng=98800-video=1680400.m3u8"
     },
     {
         "channel-name": "GEMINI NEWS",
@@ -1104,16 +1113,34 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95867"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=558&id=Kushi_TV_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
-        "channel-name": "KTV BANGLA",
+        "channel-name": "CHINTU TV",
         "tvg-logo": "",
         "group-title": "SUNXT",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100694"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=555&id=Chintu_TV_MOB-audio_33636_eng=33600-video=1680400.m3u8"
+    },
+    {
+        "channel-name": "CHUTTI TV",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=557&id=Chutti_TV_MOB-audio_33636_eng=33600-video=1680400.m3u8"
+    },
+    {
+        "channel-name": "KOCHU TV",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=557&id=Chutti_TV_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "SUN BANGLA",
@@ -1122,7 +1149,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100754"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=1669&id=Sun_Bangla_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "SURYA MOVIES",
@@ -1131,7 +1158,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93595"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=1754&id=Surya_Movies_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "SURYA MUSIC",
@@ -1140,7 +1167,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93596"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=747&id=Surya_Music_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "SURYA TV HD",
@@ -1149,7 +1176,25 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93597"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=900&id=Surya_HD_MOB-audio_98836_eng=98800-video=2906400.m3u8"
+    },
+    {
+        "channel-name": "SURYA COMEDY",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=1662&id=Surya_Comedy_MOB-audio_33636_eng=33600-video=1680400.m3u8"
+    },
+    {
+        "channel-name": "KTV",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=894&id=KTV_HD_MOB-audio_98836_eng=98800-video=1680400.m3u8"
     },
     {
         "channel-name": "ADHTIYA TV",
@@ -1158,16 +1203,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100100"
-    },
-    {
-        "channel-name": "KTV HD",
-        "tvg-logo": "",
-        "group-title": "SUNXT",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100125"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=709&id=Adithya_TV_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "SUN LIFE",
@@ -1176,7 +1212,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100154"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=682&id=Sun_Life_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "SUN MUSIC HD",
@@ -1185,7 +1221,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100155"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=895&id=Sun_Music_HD_MOB-audio_98836_eng=98800-video=2906400.m3u8"
     },
     {
         "channel-name": "SUN NEWS",
@@ -1194,7 +1230,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100156"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=676&id=Sun_News_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     },
     {
         "channel-name": "SUN TV HD",
@@ -1203,1059 +1239,222 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100157"
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=896&id=Sun_TV_HD_MOB-audio_98836_eng=98800-video=2906400.m3u8"
     },
     {
-        "channel-name": "IND - DD Sports",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/5eb738f8e69cf05c0896333d37815589.png",
-        "group-title": "Indian",
+        "channel-name": "STAR PLUS HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58185"
+        "video-streaming-link": "http:\/\/stalker.ugoiptv.com:80\/play\/live.php?mac=00:1A:79:6B:06:77&stream=155971&extension=ts&play_token=iSxxZtBjSX"
     },
     {
-        "channel-name": "IND - PTC",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/5a68d57038d2444c1394517e6899a64b.png",
-        "group-title": "Indian",
+        "channel-name": "STAR BHARAT HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58187"
+        "video-streaming-link": "http:\/\/stalker.ugoiptv.com:80\/play\/live.php?mac=00:1A:79:6B:06:77&stream=156173&extension=ts&play_token=syWdQOyROA"
     },
     {
-        "channel-name": "IND - TRAVEL XP HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/a5eb5ec7aea52779850704030062fe5e.png",
-        "group-title": "Indian",
+        "channel-name": "STAR UTSAV HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58227"
+        "video-streaming-link": "http:\/\/stalker.ugoiptv.com:80\/play\/live.php?mac=00:1A:79:6B:06:77&stream=156163&extension=ts&play_token=oN2l6b8tJb"
     },
     {
-        "channel-name": "IND - SONY TV HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/5413941995b538aa2a17b2d8cde4c11a.png",
-        "group-title": "Indian",
+        "channel-name": "STAR VIJAY HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58223"
+        "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=155874&extension=ts&play_token=CStAsxHf8i"
     },
     {
-        "channel-name": "IND - SONY MAX 2",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/5413941995b538aa2a17b2d8cde4c11a.png",
-        "group-title": "Indian",
+        "channel-name": "STAR PRAVAH HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58222"
+        "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=155755&extension=ts&play_token=hguOcYXa8a"
     },
     {
-        "channel-name": "IND - TEN 1 HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/574757b4f5ca85cd09aedca97a2834cf.png",
-        "group-title": "Indian",
+        "channel-name": "STAR UTSAV MOVIES HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58219"
+        "video-streaming-link": "http:\/\/stalker.ugoiptv.com:80\/play\/live.php?mac=00:1A:79:6B:06:77&stream=1112131&extension=ts&play_token=OikfuTrSMt"
     },
     {
-        "channel-name": "IND - B4U MUSIC",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/545dea2c4dff812ef7446280a58608a0.png",
-        "group-title": "Indian",
+        "channel-name": "STAR MAA MOVIES HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58215"
+        "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=155842&extension=ts&play_token=zFB6ouj3GO"
     },
     {
-        "channel-name": "IND - SONY SIX HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/b82a63a42452ac6a9f391d03b9ab338f.png",
-        "group-title": "Indian",
+        "channel-name": "STAR GOLD HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58207"
+        "video-streaming-link": "http:\/\/stalker.ugoiptv.com:80\/play\/live.php?mac=00:1A:79:6B:06:77&stream=155969&extension=ts&play_token=0afcwiKPmJ"
     },
     {
-        "channel-name": "IND - ZEE ACTION",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/d92b68585247c48fc3ef9eab5b94b243.png",
-        "group-title": "Indian",
+        "channel-name": "STAR GOLD 2 HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58200"
+        "video-streaming-link": "http:\/\/stalker.ugoiptv.com:80\/play\/live.php?mac=00:1A:79:6B:06:77&stream=1112132&extension=ts&play_token=L7ncEAsv7I"
     },
     {
-        "channel-name": "IND - ZEE CINEMA HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/a5820c7a7575e72b83c6f06cb1f74bf1.png",
-        "group-title": "Indian",
+        "channel-name": "STAR SUVARNA",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58199"
+        "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=155705&extension=ts&play_token=1psd7x0MNk"
     },
     {
-        "channel-name": "IND - ZING",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/bdc98412e9d6ca64174d63f8a59d5496.png",
-        "group-title": "Indian",
+        "channel-name": "STAR MAA MOVIES HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58196"
+        "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=155842&extension=ts&play_token=tpjiBdFdTY"
     },
     {
-        "channel-name": "IND - Sony MAX HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/1130f6c51a1ff041b1934e2506abd8b5.png",
-        "group-title": "Indian",
+        "channel-name": "STAR MAA GOLD HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58193"
+        "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=281968&extension=ts&play_token=pVObXyWhaF"
     },
     {
-        "channel-name": "IND - AND PICTURES HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/61f8cc9f7c05d4b10fbf98d79c7ac93c.png",
-        "group-title": "Indian",
+        "channel-name": "STAR GOLD SELECT HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58192"
+        "video-streaming-link": "http:\/\/stalker.ugoiptv.com:80\/play\/live.php?mac=00:1A:79:6B:06:77&stream=155970&extension=ts&play_token=EAQsfeStvb"
     },
     {
-        "channel-name": "IND - ZEE TV",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/39e1ce1bd610e93172e5cfed700cfaaa.png",
-        "group-title": "Indian",
+        "channel-name": "STAR MAA HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58189"
+        "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=155843&extension=ts&play_token=IbZrIkn6K0"
     },
     {
-        "channel-name": "IND - Zee TV UK",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/d92b68585247c48fc3ef9eab5b94b243.png",
-        "group-title": "Indian",
+        "channel-name": "STAR SPORTS 1 HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58241"
+        "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=1104673&extension=ts&play_token=fF5JVAnbVC"
     },
     {
-        "channel-name": "IND - SONY PAL",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/29a7abad016715e05ca93a03d1c877fb.png",
-        "group-title": "Indian",
+        "channel-name": "STAR SPORTS 1 HINDI HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58239"
+        "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=1104672&extension=ts&play_token=SOcpOR5EqA"
     },
     {
-        "channel-name": "IND - SONY MAX UK HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/64ba1b764fb5e83964192f761c581c85.png",
-        "group-title": "Indian",
+        "channel-name": "STAR SPORTS TAMIL HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58230"
+        "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=155873&extension=ts&play_token=qFiHX7xtv6"
     },
     {
-        "channel-name": "IND - NDTV",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/0f78e774e7cd0cdbf8ccfb9aa0abc2b9.png",
-        "group-title": "Indian",
+        "channel-name": "STAR SPORTS SELECT 1 HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58379"
+        "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=155972&extension=ts&play_token=PwVPYAxepK"
     },
     {
-        "channel-name": "IND - FOOD FOOD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/9247f51342dfd5d0de9c83945cb05981.png",
-        "group-title": "Indian",
+        "channel-name": "STAR SPORTS SELECT 2 HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58375"
+        "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=155973&extension=ts&play_token=gr4loAGuSR"
     },
     {
-        "channel-name": "IND - Zee News",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/670dbaf7afc14ce6b449ca8750789abc.png",
-        "group-title": "Indian",
+        "channel-name": "STAR SPORTS 2 HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58341"
+        "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=1104674&extension=ts&play_token=PyFKtOZi36"
     },
     {
-        "channel-name": "IND - ABP NEWS",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/b47ca92d7a4b202f30060d9a9e68cd93.png",
-        "group-title": "Indian",
+        "channel-name": "STAR SPORTS 3 HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58352"
+        "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=1104675&extension=ts&play_token=y4RABtoYvL"
     },
     {
-        "channel-name": "IND - B4U MOVIES",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/032db619a4a269322fd9697b5c7f95c7.png",
-        "group-title": "Indian",
+        "channel-name": "STAR SPORTS 2 HINDI HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58354"
+        "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=1104674&extension=ts&play_token=PyFKtOZi36"
     },
     {
-        "channel-name": "IND - MTV PLUS",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/0aff2624c4a5ba85c08cc9293bf7a5c0.png",
-        "group-title": "Indian",
+        "channel-name": "NAT GEO HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58363"
+        "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=156011&extension=ts&play_token=hRHvkHPXAH"
     },
     {
-        "channel-name": "IND - DD National",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/d7e8704d8fcc2c8201e4055c992bceec.png",
-        "group-title": "Indian",
+        "channel-name": "NAT GEO WILD HD",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58365"
-    },
-    {
-        "channel-name": "IND - ZEE CINEMA",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/5d9e7a26f46573efd6b1f577baa1d3b4.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58423"
-    },
-    {
-        "channel-name": "IND - ZEE ANMOL",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/9961699b6a5fa23495f70ecbde877cce.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58420"
-    },
-    {
-        "channel-name": "IND - SET MAX",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/1130f6c51a1ff041b1934e2506abd8b5.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58405"
-    },
-    {
-        "channel-name": "IND - SAHARA SAMAY BIHAR",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/12f86721214a74919b5eb032d0064c25.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58399"
-    },
-    {
-        "channel-name": "IND -  RISHTAY ASIA",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/ba77cc24083ee02f35b209eb2febb86b.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58393"
-    },
-    {
-        "channel-name": "IND - NEWS 24",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/725e939ff7a522e4ccaa9aff1d8b8815.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58389"
-    },
-    {
-        "channel-name": "IND - MUSIC INDIA",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/1a02c7797dc1fd1b40939e204f9df9ba.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58385"
-    },
-    {
-        "channel-name": "IND - SIKH CHANNEL",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/d335ff8cf9785882eaf646040de1df27.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58453"
-    },
-    {
-        "channel-name": "IND - Star Gold UK",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/23e8781e33eaea76c4800752dac2099c.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58450"
-    },
-    {
-        "channel-name": "IND - Ptc Punjabi UK",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/adbd2888d39a8894321ac13d20505049.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58447"
-    },
-    {
-        "channel-name": "IND - Aaj Tak News",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/500640f03e46b890b044560849508650.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58443"
-    },
-    {
-        "channel-name": "IND - ZOOM",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/086c69742dd8ac5e6fff267655113589.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58441"
-    },
-    {
-        "channel-name": "IND - ZEE TALKIES",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/08d50e279da107edb6d5aba7e4dd5e71.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58436"
-    },
-    {
-        "channel-name": "IND -  9X JALWA",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/d2d771a6f849b5427dc1239ea0aea751.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/62660"
-    },
-    {
-        "channel-name": "IND - TEN SPORT 1",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/4ee9f88fbbbc0f8891dd86cb30e6da88.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/63594"
-    },
-    {
-        "channel-name": "IND - TEN SPORT 2",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/4ee9f88fbbbc0f8891dd86cb30e6da88.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/63595"
-    },
-    {
-        "channel-name": "IND - &flix",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/e0f8bc3db4d7c8f51eee2842f07648d1.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67082"
-    },
-    {
-        "channel-name": "IND - &Pictures HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/dddb2f5bec779148c589a134810b4faf.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67083"
-    },
-    {
-        "channel-name": "IND - &Prive HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/dddb2f5bec779148c589a134810b4faf.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67084"
-    },
-    {
-        "channel-name": "IND - &TV HD",
-        "tvg-logo": "http:\/\/2hubs.ddns.net:25461\/images\/1d3b7638256ae451a80600cf83de1f6f.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67085"
-    },
-    {
-        "channel-name": "IND - 9XM",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/c49ffba478a08958434b99ffc8e3f311.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67089"
-    },
-    {
-        "channel-name": "IND - B4U Kadak",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/258830010514ba61b8cff1782f15edf2.PNG",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67107"
-    },
-    {
-        "channel-name": "IND - DD SPORTS",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/5eb738f8e69cf05c0896333d37815589.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67131"
-    },
-    {
-        "channel-name": "IND - Bflix Movies HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/6e425a38acbab5fc9977fc3e2dc11f96.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67171"
-    },
-    {
-        "channel-name": "IND - NAT GEO WILD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/c98acd6a62b24c1d6105405f987a51f5.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67181"
-    },
-    {
-        "channel-name": "IND - Sony Pix HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/5f094320ac9a5ec871e1c1e4e35a4be9.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67218"
-    },
-    {
-        "channel-name": "IND - SONY SAB HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/29ff789bd0aa2ffcd5488876b406bdec.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67220"
-    },
-    {
-        "channel-name": "IND - SONY TEN 2",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/574757b4f5ca85cd09aedca97a2834cf.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67223"
-    },
-    {
-        "channel-name": "IND - SONY TV UK",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/5413941995b538aa2a17b2d8cde4c11a.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67224"
-    },
-    {
-        "channel-name": "IND - STAR BHARAT",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/592f81b2117a285ba1337e137e1985ab.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67231"
-    },
-    {
-        "channel-name": "IND - STAR GOLD HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/23e8781e33eaea76c4800752dac2099c.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67232"
-    },
-    {
-        "channel-name": "IND - STAR PLUS",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/943e59b202b76ff73084b5e72a2810c3.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67236"
-    },
-    {
-        "channel-name": "IND - Big Magic HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/6f7609eefd8cac9cdcf881d68c00d4bc.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67243"
-    },
-    {
-        "channel-name": "IND - DESI CHANNEL",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/ac6952b71ca82dfb8f7811e32fb09f77.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67251"
-    },
-    {
-        "channel-name": "IND - TEN 2 HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/574757b4f5ca85cd09aedca97a2834cf.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67252"
-    },
-    {
-        "channel-name": "IND - ZEE Action HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/d92b68585247c48fc3ef9eab5b94b243.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67266"
-    },
-    {
-        "channel-name": "IND - Zee Cinema UK",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/a5820c7a7575e72b83c6f06cb1f74bf1.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67276"
-    },
-    {
-        "channel-name": "IND - STAR MOVIES",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/071925804ce48fb39aa4aa4a326cfbee.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67281"
-    },
-    {
-        "channel-name": "IND - Brit Asia",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/be868351163ace57a0308eddbf0bbcc8.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/66019"
-    },
-    {
-        "channel-name": "IND - Peace TV Eng",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/9ecb50b6bb4369019a7f8b52d28c46c5.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/69847"
-    },
-    {
-        "channel-name": "IND - Willow",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/73732fc005301792a81bef5a24552d3e.PNG",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/69848"
-    },
-    {
-        "channel-name": "IND - STAR GOLD HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/bba363190f34aa83bd9ccdd4c2cf3a89.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/69850"
-    },
-    {
-        "channel-name": "IND - Utsav Plus HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/a7d381f970a37546acb7adbcc266c9e1.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/69853"
-    },
-    {
-        "channel-name": "IND - COLORS HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/43bd07896c5d04002f9b0d70272fcb21.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/69863"
-    },
-    {
-        "channel-name": "IND - COLORS",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/43bd07896c5d04002f9b0d70272fcb21.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/69864"
-    },
-    {
-        "channel-name": "IND - Food XP UK",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/792c4a42c34fb221a211c3d4ce011fe9.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71063"
-    },
-    {
-        "channel-name": "IND - ZEE AFLAM",
-        "tvg-logo": "https:\/\/w7.pngwing.com\/pngs\/56\/963\/png-transparent-zee-aflam-television-channel-zee-alwan-zee-tv-zee-tv-logo-television-text-logo-thumbnail.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71064"
-    },
-    {
-        "channel-name": "IND - ZEE MUSIC",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/c334dd39dbd1bdf6514b93dd5a1ad154.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71065"
-    },
-    {
-        "channel-name": "IND - Wow Cinema HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/76bd33412cc5f94f5d4da163b3a97b27.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71096"
-    },
-    {
-        "channel-name": "IND - STAR GOLD SELECT HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/23e8781e33eaea76c4800752dac2099c.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71097"
-    },
-    {
-        "channel-name": "IND - TLC HD (JIO)",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/c62d03d2696f2488543c53cb6b82b44e.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71098"
-    },
-    {
-        "channel-name": "IND - UTV BINDAS HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/31029b48cad21a2662f5992d3eb406d7.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71099"
-    },
-    {
-        "channel-name": "IND - UTV HD (Movies)",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/847da5151b4882b0bc732c805f6aae68.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71100"
-    },
-    {
-        "channel-name": "IND - Zee Punjabi HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/dacc1a76b96c2cb21d60703107fc924a.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71102"
-    },
-    {
-        "channel-name": "IND - COLOR CINEPLEX HD (JIO)",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/43bd07896c5d04002f9b0d70272fcb21.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71151"
-    },
-    {
-        "channel-name": "IND - Discovery Science Hindi (jio)",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/9df067cf6f9a904a6938b9c875cd227d.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71152"
-    },
-    {
-        "channel-name": "IND - Discovery Turbo(JIO)",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/394f70f4143a6ee42340a3246cf5cda5.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71153"
-    },
-    {
-        "channel-name": "IND - JUS HINDI HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/02178e311a0ba6980960daeba6047e65.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71154"
-    },
-    {
-        "channel-name": "IND - MTV Beats HD (jio)",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/18f3f6d4eae278965d44d621206877aa.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71155"
-    },
-    {
-        "channel-name": "IND - Sony BBC Earth Hindi FHD (jio)",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/61057e49fc9bcca76c529ea2ec65b751.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71156"
-    },
-    {
-        "channel-name": "IND - Sony Ten 3 HD (JIO)",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/5fdc9bcebfe55ba5c6598d7be1a2ca10.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71157"
-    },
-    {
-        "channel-name": "IND -   Filmchi India",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/02178e311a0ba6980960daeba6047e65.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71158"
-    },
-    {
-        "channel-name": "IND - Cartoon Networ (JIO)",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/14d070eb011b574429cde7374feeba44.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71162"
-    },
-    {
-        "channel-name": "IND - Nick Hindi HD (jio)",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/dbe20313e007928ef4e9990347a2e424.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71166"
-    },
-    {
-        "channel-name": "IND - Discovery HD World (jio)",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/5afa66b8cff5a5a29ceea6a5cd3024a3.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71169"
-    },
-    {
-        "channel-name": "IND - Discovery Hindi HD *JIO*",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/5afa66b8cff5a5a29ceea6a5cd3024a3.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/71173"
-    },
-    {
-        "channel-name": "IND - Sony YAY@VIP HINDI",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/46f8638ab52ad309b9cac251f5ab46ba.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/72597"
-    },
-    {
-        "channel-name": "IND - Zee Cafe HD",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/af9e2cf9e4bcc1e425bb2296a3be2af7.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/72598"
-    },
-    {
-        "channel-name": "IND - BBO Clasic",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/43bd07896c5d04002f9b0d70272fcb21.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/72600"
-    },
-    {
-        "channel-name": "IND - 9X Tashan HD",
-        "tvg-logo": "https:\/\/w7.pngwing.com\/pngs\/986\/104\/png-transparent-9xm-9x-media-music-television-live-music-miscellaneous-television-text-thumbnail.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/72877"
-    },
-    {
-        "channel-name": "IND - B4U Plus HD",
-        "tvg-logo": "https:\/\/w7.pngwing.com\/pngs\/1018\/469\/png-transparent-b4u-movies-b4u-music-television-channel-others-television-white-text-thumbnail.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/72879"
-    },
-    {
-        "channel-name": "IND - HISTORY CHANNEL",
-        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f5\/History_Logo.svg\/150px-History_Logo.svg.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/72904"
-    },
-    {
-        "channel-name": "IND - Wow Kids",
-        "tvg-logo": "https:\/\/w7.pngwing.com\/pngs\/1016\/404\/png-transparent-times-now-noida-film-city-television-channel-logo-asianet-newsable-television-blue-text-thumbnail.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/72906"
-    },
-    {
-        "channel-name": "IND -  POGO HINDI",
-        "tvg-logo": "https:\/\/w7.pngwing.com\/pngs\/727\/51\/png-transparent-vambre-prohyas-cartoon-network-television-show-drawing-pogo-sticks-television-hand-sports-equipment-thumbnail.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/72919"
-    },
-    {
-        "channel-name": "IND - COLORS HINDI DUB",
-        "tvg-logo": "https:\/\/w7.pngwing.com\/pngs\/120\/240\/png-transparent-infinity-emoji-creation-full-nature-symbol-environment-design-icon-colorful-thumbnail.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/73014"
-    },
-    {
-        "channel-name": "IND - Filmchi India",
-        "tvg-logo": "https:\/\/w7.pngwing.com\/pngs\/871\/719\/png-transparent-triangle-geometry-colorful-diamond-background-gray-and-blue-3d-texture-angle-color-splash-thumbnail.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/73015"
-    },
-    {
-        "channel-name": "IND - Epic HD",
-        "tvg-logo": "https:\/\/w7.pngwing.com\/pngs\/663\/762\/png-transparent-word-epic-words-search-puzzles-dictionary-epic-games-synonym-word-text-logo-monochrome-thumbnail.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/73016"
-    },
-    {
-        "channel-name": "IND - Fashion TV",
-        "tvg-logo": "https:\/\/w7.pngwing.com\/pngs\/565\/350\/png-transparent-fashion-television-television-channel-fashiontv-others-television-angle-fashion-thumbnail.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/73017"
-    },
-    {
-        "channel-name": "IND - Mastiii",
-        "tvg-logo": "https:\/\/w7.pngwing.com\/pngs\/159\/306\/png-transparent-mega-millions-progressive-jackpot-iowa-lottery-powerball-mega-number-mn-text-logo-banner-thumbnail.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/73018"
-    },
-    {
-        "channel-name": "IND - Clasic Bollywood",
-        "tvg-logo": "https:\/\/w7.pngwing.com\/pngs\/759\/1000\/png-transparent-mn-text-label-logo-thumbnail.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/73019"
-    },
-    {
-        "channel-name": "IND - Bolly Wood Premier",
-        "tvg-logo": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/5\/50\/MNX_new_logo.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/73020"
-    },
-    {
-        "channel-name": "IND - MTV HD +",
-        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/68\/MTV_2021_%28brand_version%29.svg\/200px-MTV_2021_%28brand_version%29.svg.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/73021"
-    },
-    {
-        "channel-name": "IND - NAT GEO HD",
-        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/27\/National_Geographic_Wild_logo.svg\/220px-National_Geographic_Wild_logo.svg.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/73022"
-    },
-    {
-        "channel-name": "IND - STAR Bharat INDIA HD",
-        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/46\/Shemaroo_Logo.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/73023"
-    },
-    {
-        "channel-name": "IND - Sony TV Asia HD",
-        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/57\/SET_India_2016.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/73024"
-    },
-    {
-        "channel-name": "IND - BBO",
-        "tvg-logo": "https:\/\/www.pinpng.com\/pngs\/m\/358-3580927_tata-sky-logo-png-tata-sky-png-logo.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/73026"
-    },
-    {
-        "channel-name": "IND -  ZEE Zest",
-        "tvg-logo": "https:\/\/www.pinpng.com\/pngs\/m\/358-3580927_tata-sky-logo-png-tata-sky-png-logo.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/73027"
-    },
-    {
-        "channel-name": "IND - SHOW BOX",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/15cbc6b586c8b9c292e35df5a46df8bc.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/72601"
-    },
-    {
-        "channel-name": "IND - Rishtey CinePlex UK",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/ba77cc24083ee02f35b209eb2febb86b.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/58448"
-    },
-    {
-        "channel-name": "IND - SONY MAX",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/1130f6c51a1ff041b1934e2506abd8b5.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67216"
-    },
-    {
-        "channel-name": "IND - ZEE Anmol",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/9961699b6a5fa23495f70ecbde877cce.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67267"
-    },
-    {
-        "channel-name": "IND - Zee Classic",
-        "tvg-logo": "http:\/\/attp.ddns.net:25461\/images\/d92b68585247c48fc3ef9eab5b94b243.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/67275"
-    },
-    {
-        "channel-name": "IND - Star Sports Select 1 HD",
-        "tvg-logo": "https:\/\/w7.pngwing.com\/pngs\/214\/781\/png-transparent-star-sports-sony-ten-star-india-television-channel-others-miscellaneous-television-text-thumbnail.png",
-        "group-title": "Indian",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "http:\/\/2hubs.ddns.net:25461\/iptvsolu\/eI3mjZ1M7Y\/72905"
+        "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=155989&extension=ts&play_token=CMYC4hy7tZ"
     }
 ]
