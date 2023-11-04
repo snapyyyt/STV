@@ -864,111 +864,345 @@
         "video-streaming-link": "https:\/\/prod-sports-north-gm.jiocinema.com\/bpk-tv\/Colors_Oriya_voot_MOB\/Fallback\/index.m3u8"
     },
     {
-        "channel-name": "Discovery Channel HD",
-        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798826.png",
-        "group-title": " DISCOVERY+",
+        "channel-name": "Animal Planet English",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/Discovery_Channel.m3u8"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/animal_planet_hd_english.m3u8"
     },
     {
-        "channel-name": "Animal Planet HD",
-        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798827.png",
-        "group-title": " DISCOVERY+",
+        "channel-name": "Animal Planet Hindi",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/Animal_Planet.m3u8"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/animal_planet_hd_hindi.m3u8"
     },
     {
-        "channel-name": "Discovery Science",
-        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798828.png",
-        "group-title": " DISCOVERY+",
+        "channel-name": "Discovery English HD",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/Discovery_Science.m3u8"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/discovery_hd_english.m3u8"
     },
     {
-        "channel-name": "TLC HD",
-        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798829.png",
-        "group-title": " DISCOVERY+",
+        "channel-name": "Discovery Hindi HD",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/TLC.m3u8"
-    },
-    {
-        "channel-name": "Discovery Turbo",
-        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798830.png",
-        "group-title": " DISCOVERY+",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/Discovery_Turbo.m3u8"
-    },
-    {
-        "channel-name": "Investigation Discovery",
-        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798831.png",
-        "group-title": " DISCOVERY+",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/Investigation_Discovery.m3u8"
-    },
-    {
-        "channel-name": "Eurosport HD",
-        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798832.png",
-        "group-title": " DISCOVERY+",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/Eurosport.m3u8"
-    },
-    {
-        "channel-name": "DMAX",
-        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/833223836.png",
-        "group-title": " DISCOVERY+",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/DMAX.m3u8"
-    },
-    {
-        "channel-name": "TRVL Channel",
-        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798834.png",
-        "group-title": " DISCOVERY+",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/TRVL_Channel.m3u8"
-    },
-    {
-        "channel-name": "HGTV",
-        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798835.png",
-        "group-title": " DISCOVERY+",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/HGTV.m3u8"
-    },
-    {
-        "channel-name": "Food Network",
-        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798836.png",
-        "group-title": " DISCOVERY+",
-        "license-type": "widevine",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/Food%20Network.m3u8"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/discovery_hd_hindi.m3u8"
     },
     {
         "channel-name": "Discovery Kids",
-        "tvg-logo": "https:\/\/m3u-editor.com\/storage\/channel-logos\/13a256a0-e736-11ed-941b-2fd7e430caa9\/4683727\/832798837.png",
-        "group-title": " DISCOVERY+",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/Discovery_Kids.m3u8"
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/discovery_kids_hindi.m3u8"
+    },
+    {
+        "channel-name": "Discovery Science English",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/discovery_science_english.m3u8"
+    },
+    {
+        "channel-name": "Discovery Science Hindi",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/discovery_science_hindi.m3u8"
+    },
+    {
+        "channel-name": "Discovery Turbo",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/discovery_turbo.m3u8"
+    },
+    {
+        "channel-name": "DMAX HD",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/dmax_hd.m3u8"
+    },
+    {
+        "channel-name": "Eurosport HD",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/eurosport_hd_english.m3u8"
+    },
+    {
+        "channel-name": "Food Network English",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/food_network_hd_english.m3u8"
+    },
+    {
+        "channel-name": "HGTV English HD",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/hgtv_hd_english.m3u8"
+    },
+    {
+        "channel-name": "ID English HD",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/id_hd_english.m3u8"
+    },
+    {
+        "channel-name": "ID Hindi HD",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/id_hd_hindi.m3u8"
+    },
+    {
+        "channel-name": "TRVL English HD",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/trvl_channel_hd_english.m3u8"
+    },
+    {
+        "channel-name": "TLC English HD",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/tlc_hd_english.m3u8"
+    },
+    {
+        "channel-name": "TLC Hindi HD",
+        "tvg-logo": "",
+        "group-title": "Kids & Information",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/denver1769.pages.dev\/Discovery\/tlc_hd_hindi.m3u8"
+    },
+    {
+        "channel-name": "UDAYA COMEDY",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95832"
+    },
+    {
+        "channel-name": "UDAYA HD",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95833"
+    },
+    {
+        "channel-name": "UDAYA MUSIC",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95835"
+    },
+    {
+        "channel-name": "GEMINI COMEDY",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95860"
+    },
+    {
+        "channel-name": "GEMINI HD",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95861"
+    },
+    {
+        "channel-name": "GEMINI LIFE",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95862"
+    },
+    {
+        "channel-name": "GEMINI MOVIES HD",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95863"
+    },
+    {
+        "channel-name": "GEMINI MUSIC",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95864"
+    },
+    {
+        "channel-name": "GEMINI NEWS",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95865"
+    },
+    {
+        "channel-name": "KUSHI TV",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/95867"
+    },
+    {
+        "channel-name": "KTV BANGLA",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100694"
+    },
+    {
+        "channel-name": "SUN BANGLA",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100754"
+    },
+    {
+        "channel-name": "SURYA MOVIES",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93595"
+    },
+    {
+        "channel-name": "SURYA MUSIC",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93596"
+    },
+    {
+        "channel-name": "SURYA TV HD",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/93597"
+    },
+    {
+        "channel-name": "ADHTIYA TV",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100100"
+    },
+    {
+        "channel-name": "KTV HD",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100125"
+    },
+    {
+        "channel-name": "SUN LIFE",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100154"
+    },
+    {
+        "channel-name": "SUN MUSIC HD",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100155"
+    },
+    {
+        "channel-name": "SUN NEWS",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100156"
+    },
+    {
+        "channel-name": "SUN TV HD",
+        "tvg-logo": "",
+        "group-title": "SUNXT",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/fGyRSpbg\/UvOKkxchG5vMpNE\/100157"
     }
 ]
