@@ -866,7 +866,7 @@
     {
         "channel-name": "Animal Planet English",
         "tvg-logo": "",
-        "group-title": "Kids & Information",
+        "group-title": "DISCOVERY CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -875,7 +875,7 @@
     {
         "channel-name": "Animal Planet Hindi",
         "tvg-logo": "",
-        "group-title": "Kids & Information",
+        "group-title": "DISCOVERY CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -884,7 +884,7 @@
     {
         "channel-name": "Discovery English HD",
         "tvg-logo": "",
-        "group-title": "Kids & Information",
+        "group-title": "DISCOVERY CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -893,7 +893,7 @@
     {
         "channel-name": "Discovery Hindi HD",
         "tvg-logo": "",
-        "group-title": "Kids & Information",
+        "group-title": "DISCOVERY CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -902,7 +902,7 @@
     {
         "channel-name": "Discovery Kids",
         "tvg-logo": "",
-        "group-title": "Kids & Information",
+        "group-title": "DISCOVERY CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -911,7 +911,7 @@
     {
         "channel-name": "Discovery Science English",
         "tvg-logo": "",
-        "group-title": "Kids & Information",
+        "group-title": "DISCOVERY CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -920,7 +920,7 @@
     {
         "channel-name": "Discovery Science Hindi",
         "tvg-logo": "",
-        "group-title": "Kids & Information",
+        "group-title": "DISCOVERY CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -929,7 +929,7 @@
     {
         "channel-name": "Discovery Turbo",
         "tvg-logo": "",
-        "group-title": "Kids & Information",
+        "group-title": "DISCOVERY CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -938,7 +938,7 @@
     {
         "channel-name": "DMAX HD",
         "tvg-logo": "",
-        "group-title": "Kids & Information",
+        "group-title": "DISCOVERY CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -947,7 +947,7 @@
     {
         "channel-name": "Eurosport HD",
         "tvg-logo": "",
-        "group-title": "Kids & Information",
+        "group-title": "DISCOVERY CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -956,7 +956,7 @@
     {
         "channel-name": "Food Network English",
         "tvg-logo": "",
-        "group-title": "Kids & Information",
+        "group-title": "DISCOVERY CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -965,7 +965,7 @@
     {
         "channel-name": "HGTV English HD",
         "tvg-logo": "",
-        "group-title": "Kids & Information",
+        "group-title": "DISCOVERY CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -974,7 +974,7 @@
     {
         "channel-name": "ID English HD",
         "tvg-logo": "",
-        "group-title": "Kids & Information",
+        "group-title": "DISCOVERY CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -983,7 +983,7 @@
     {
         "channel-name": "ID Hindi HD",
         "tvg-logo": "",
-        "group-title": "Kids & Information",
+        "group-title": "DISCOVERY CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -992,7 +992,7 @@
     {
         "channel-name": "TRVL English HD",
         "tvg-logo": "",
-        "group-title": "Kids & Information",
+        "group-title": "DISCOVERY CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -1001,7 +1001,7 @@
     {
         "channel-name": "TLC English HD",
         "tvg-logo": "",
-        "group-title": "Kids & Information",
+        "group-title": "DISCOVERY CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -1010,7 +1010,7 @@
     {
         "channel-name": "TLC Hindi HD",
         "tvg-logo": "",
-        "group-title": "Kids & Information",
+        "group-title": "DISCOVERY CHANNELS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
