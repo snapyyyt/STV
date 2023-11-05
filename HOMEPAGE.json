@@ -6,6 +6,12 @@
         "logo-url" : "https://i.postimg.cc/vTh7m0bT/photo-2023-08-05-07-13-47-modified.png"
     },
     {
+        "server-name" : "SNAPPY TV SERIES",
+        "server-api" : "https://raw.githubusercontent.com/snapyyyt/STV/main/series.php",
+        "is-active" : true,
+        "logo-url" : "https://i.postimg.cc/zGbPJbr8/download-4-modified.png"
+    },
+    {
         "server-name" : "Tata Play",
         "server-api" : "https://raw.githubusercontent.com/snapyyyt/STV/main/tata.php",
         "is-active" : true,
@@ -21,6 +27,6 @@
         "server-name" : "Airtel TV",
         "server-api" : "https://raw.githubusercontent.com/snapyyyt/STV/main/airtel.php",
         "is-active" : true,
-        "logo-url" : "https://i.postimg.cc/GpfCNK7J/download-3.png"
+        "logo-url" : "https://i.postimg.cc/ZK0wcB0p/download-3-modified.png"
     }
 ]
