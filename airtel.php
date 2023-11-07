@@ -736,5 +736,50 @@
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
         "video-streaming-link": "https:\/\/dai.google.com\/ssai\/event\/DD7fA-HgSUaLyZp9AjRYxQ\/master.m3u8"
+    },
+    {
+        "channel-name": "POGO TV",
+        "tvg-logo": "",
+        "group-title": "KIDS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=559&id=Pogo_Hindi_MOB-audio_33637_hin=33600-video=1680400.m3u8"
+    },
+    {
+        "channel-name": "NICK",
+        "tvg-logo": "",
+        "group-title": "KIDS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=545&id=Nick_Hindi_MOB-audio_98841_hin=98800-video=1680400.m3u8"
+    },
+    {
+        "channel-name": "CARTOON NETWORK",
+        "tvg-logo": "",
+        "group-title": "KIDS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=816&id=Cartoon_Network_Hindi_MOB-audio_33644_hin=33600-video=1680400.m3u8"
+    },
+    {
+        "channel-name": "THE Q KAHANIYAN",
+        "tvg-logo": "",
+        "group-title": "KIDS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=1920&id=The_Q_Kahaniyan_MOB-audio_98835_eng=98800-video=1680400.m3u8"
+    },
+    {
+        "channel-name": "SONY YAY",
+        "tvg-logo": "",
+        "group-title": "KIDS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=872&id=Sony_Yay_Hindi_MOB-audio_33636_eng=33600-video=1680400.m3u8"
     }
 ]
