@@ -44,7 +44,7 @@
         "group-title": "Kids",
         "channel-name": "Hungama",
         "tvg-id": "",
-        "video-streaming-link": "http://b1g.me:80/William123/William123/161878",
+        "video-streaming-link": "https:\/\/ninjatv.lol\/u.php?id=4019",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": ""
