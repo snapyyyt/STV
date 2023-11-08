@@ -1424,7 +1424,7 @@
     {
         "channel-name": "POGO",
         "tvg-logo": "",
-        "group-title": "SUNXT",
+        "group-title": "KIDS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -1433,7 +1433,7 @@
     {
         "channel-name": "CARTOON NETWORK",
         "tvg-logo": "",
-        "group-title": "SUNXT",
+        "group-title": "KIDS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -1442,7 +1442,7 @@
     {
         "channel-name": "SONY YAY",
         "tvg-logo": "",
-        "group-title": "SUNXT",
+        "group-title": "KIDS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -1451,7 +1451,7 @@
     {
         "channel-name": "THE Q KAHANIYAN",
         "tvg-logo": "",
-        "group-title": "SUNXT",
+        "group-title": "KIDS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
@@ -1460,11 +1460,38 @@
     {
         "channel-name": "NICK",
         "tvg-logo": "",
-        "group-title": "SUNXT",
+        "group-title": "KIDS",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
         "video-streaming-link": "https:\/\/sports247.eu.org\/app\/strmm.php?cid=545&id=Nick_Hindi_MOB-audio_98841_hin=98800-video=1680400.m3u8"
+    },
+    {
+        "channel-name": "Hungama",
+        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Hungama_TV.svg\/1200px-Hungama_TV.svg.png",
+        "group-title": "KIDS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/103.186.77.21:8000\/play\/a032\/index.m3u8"
+    },
+    {
+        "channel-name": "Hungama Tamil",
+        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Hungama_TV.svg\/1200px-Hungama_TV.svg.png",
+        "group-title": "KIDS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/watchtv.best:80\/play\/live.php?mac=00:1A:79:C0:09:EE&stream=1097666&extension=m3u8?#key=Toxic-TV&token=ARTURO&id=672&[User-agent=REDLINECLIENT]"
+    },
+    {
+        "channel-name": "Disney HD",
+        "tvg-logo": "https:\/\/www.pngitem.com\/pimgs\/m\/295-2955223_disney-channel-logo-de-hd-png-download.png",
+        "group-title": "KIDS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http:\/\/pal.alphatx.me:80\/play\/live.php?mac=00:1A:79:18:44:83&stream=156000&extension=m3u8?#key=Toxic-TV&token=ARTURO&id=672&[User-agent=REDLINECLIENT]"
     },
     {
         "channel-name": "STAR PLUS HD",
