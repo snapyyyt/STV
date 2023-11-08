@@ -54,7 +54,7 @@
         "group-title": "Kids",
         "channel-name": "Hungama Multiaudio",
         "tvg-id": "",
-        "video-streaming-link": "http://kuchini.site:8080/Giobox2/7F6X1qqR6yOH14nAjO8/267168",
+        "video-streaming-link": "http://livetvbox.live:8080/live/mamunkh6330/mamun160222/66162.m3u8",
         "license-type": "widevine",
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
