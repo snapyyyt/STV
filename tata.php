@@ -70,6 +70,16 @@
         "license-key-local": ""
     },
 	  {
+        "tvg-logo": "https://i.postimg.cc/Nfmk6XSP/download-5.jpg",
+        "group-title": "Movies",
+        "channel-name": "STAR MOVIES",
+        "tvg-id": "",
+        "video-streaming-link": "http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=282639&extension=ts&play_token=5xeHiBmOfE",
+        "license-type": "widevine",
+        "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
+        "license-key-local": ""
+    },
+	  {
         "tvg-logo": "https://i.postimg.cc/2yXT0m2Q/download.jpg",
         "group-title": "Movies",
         "channel-name": "STAR GOLD ROMANCE",
