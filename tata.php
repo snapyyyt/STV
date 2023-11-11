@@ -44,8 +44,7 @@
         "group-title": "Kids",
         "channel-name": "Hungama",
         "tvg-id": "",
-        "video-streaming-link": "http://54.39.100.215/IN__KG/index.m3u8?token=ba3f39ced77336a5707960d189e86ba9
-",
+        "video-streaming-link": "http://46.229.253.27/live/asif@24680/asif@24680/66162.m3u8?token=ShJcU0BbQQNHClAND1INDgwGUQADDQYCVQRSBFBTCgpVBwFWVQVRDQEbGBpEF0dcWF1vWQIXXlcHU1QFSUZGQVRCa1tXEVkbUQkAAQZSFxUbRFldAxdeUR1AEl4BRgkQAggCCgcLUxtJG1FAQwZHV1hcb1QDQw0CVEBYWRAIXx4TX1ptV1YOWAtdFgIVUxcVG1lDQEQPChRdDk4VBw1HQFBEURAJEVIKXQEWFBUAWkxXREJJRA9GKH9AThUAHEdXX0NdXV0RWRsICkEAFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCUEAXQsCGko=",
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": ""
