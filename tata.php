@@ -34,7 +34,7 @@
         "group-title": "Kids",
         "channel-name": "DORAEMON 24/7",
         "tvg-id": "",
-        "video-streaming-link": "http://185.229.191.157/KIDS-DORAEMON_HD/index.m3u8?token=1640f2ef6eb1be13f69e108cb77a1d8d",
+        "video-streaming-link": "http://sanjibweb.live/paid/test.m3u8?id=3407",
         "license-type": "widevine",
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
