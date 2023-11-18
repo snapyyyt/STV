@@ -24,7 +24,7 @@
         "group-title": "Kids",
         "channel-name": "SHINCHAN 24/7",
         "tvg-id": "",
-        "video-streaming-link": "http:\/\/starshare.live:8080\/live\/asif@24680\/asif@24680\/147724.m3u8",
+        "video-streaming-link": "http://sanjibweb.live/paid/test.m3u8?id=3407",
         "license-type": "widevine",
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
