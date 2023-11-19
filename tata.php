@@ -94,7 +94,7 @@
         "group-title": "Tata Sky",
         "channel-name": "ESPN hindi ",
         "tvg-id": "disneychannel.in",
-        "video-streaming-link": "https://cricket-bay.vercel.app/code-crafters-IndVsAusHin",
+        "video-streaming-link": "https://snappytv.000webhostapp.com/espn.m3u8",
         "license-type": "widevine",
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
