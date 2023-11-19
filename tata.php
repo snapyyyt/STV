@@ -89,16 +89,6 @@
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
     },
-   {
-        "tvg-logo": "https://i.postimg.cc/jq78fjyf/download.png",
-        "group-title": "Tata Sky",
-        "channel-name": "ESPN hindi ",
-        "tvg-id": "disneychannel.in",
-        "video-streaming-link": "https://snappytv.000webhostapp.com/espn.m3u8",
-        "license-type": "widevine",
-        "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
-        "license-key-local": ""
-    },
     {
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-52679-k7zx7qqg-v1\/imageContent-52679-k7zx7qqg-m2.png",
