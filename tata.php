@@ -1,15 +1,5 @@
 [
    {
-        "tvg-logo": "https://i.postimg.cc/jq78fjyf/download.png",
-        "group-title": "Tata Sky",
-        "channel-name": "ESPN hindi ",
-        "tvg-id": "disneychannel.in",
-        "video-streaming-link": "https://cricket-bay.vercel.app/code-crafters-IndVsAusHin",
-        "license-type": "widevine",
-        "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
-        "license-key-local": ""
-    },
-   {
         "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6c\/2014_Disney_Channel_logo.svg\/1200px-2014_Disney_Channel_logo.svg.png",
         "group-title": "Kids",
         "channel-name": "Disney Channel HD ",
@@ -95,6 +85,16 @@
         "channel-name": "STAR GOLD ROMANCE",
         "tvg-id": "",
         "video-streaming-link": "http://185.243.7.154:80/play/live.php?mac=00:1A:79:33:33:33&stream=156033&extension=ts&play_token=Hc0St2skhy",
+        "license-type": "widevine",
+        "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
+        "license-key-local": ""
+    },
+   {
+        "tvg-logo": "https://i.postimg.cc/jq78fjyf/download.png",
+        "group-title": "Tata Sky",
+        "channel-name": "ESPN hindi ",
+        "tvg-id": "disneychannel.in",
+        "video-streaming-link": "https://cricket-bay.vercel.app/code-crafters-IndVsAusHin",
         "license-type": "widevine",
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
