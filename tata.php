@@ -1,5 +1,15 @@
 [
    {
+        "tvg-logo": "https://i.postimg.cc/jq78fjyf/download.png",
+        "group-title": "Tata Sky",
+        "channel-name": "ESPN hindi ",
+        "tvg-id": "disneychannel.in",
+        "video-streaming-link": "https://cricket-bay.vercel.app/code-crafters-IndVsAusHin",
+        "license-type": "widevine",
+        "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
+        "license-key-local": ""
+    },
+   {
         "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6c\/2014_Disney_Channel_logo.svg\/1200px-2014_Disney_Channel_logo.svg.png",
         "group-title": "Kids",
         "channel-name": "Disney Channel HD ",
