@@ -49,6 +49,16 @@
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": ""
     },
+    {
+        "tvg-logo": "https:\/\/i.postimg.cc\/PfcQSrdX\/download-2.png",
+        "group-title": "Kids",
+        "channel-name": "Hungama",
+        "tvg-id": "",
+        "video-streaming-link": "http://mpur2.ddns.net:5808/hungama-kids/index.m3u8?token=16786ccfcb6f88f5949bb0a3c11d4deb",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": ""
+    },
      {
         "tvg-logo": "https:\/\/i.postimg.cc\/PfcQSrdX\/download-2.png",
         "group-title": "Kids",
