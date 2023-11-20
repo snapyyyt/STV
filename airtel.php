@@ -1482,7 +1482,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/watchtv.best:80\/play\/live.php?mac=00:1A:79:C0:09:EE&stream=1097666&extension=m3u8?#key=Toxic-TV&token=ARTURO&id=672&[User-agent=REDLINECLIENT]"
+        "video-streaming-link": "http:\/\/watchtv.best:80\/play\/live.php?mac=00:1A:79:C0:09:EE&stream=1097666&extension=m3u8?#key=Toxic-TV&token=ARTURO"
     },
     {
         "channel-name": "Disney HD",
@@ -1491,7 +1491,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/pal.alphatx.me:80\/play\/live.php?mac=00:1A:79:18:44:83&stream=156000&extension=m3u8?#key=Toxic-TV&token=ARTURO&id=672&[User-agent=REDLINECLIENT]"
+        "video-streaming-link": "http:\/\/pal.alphatx.me:80\/play\/live.php?mac=00:1A:79:18:44:83&stream=156000&extension=m3u8?#key=Toxic-TV&token=ARTURO"
     },
     {
         "channel-name": "STAR PLUS HD",
