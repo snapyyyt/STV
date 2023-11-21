@@ -54,7 +54,7 @@
     "group-title": "Kids",
     "channel-name": "Hungama",
     "tvg-id": "",
-    "video-streaming-link": "https://bdtubelive.xyz/live.m3u8?id=7613",
+    "video-streaming-link": "http:\\sanjibweb.live\TP\manifest.m3u8?id=7613",
     "license-type": "widevine",
     "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
     "license-key-local": ""
