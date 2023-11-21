@@ -1491,7 +1491,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/pal.alphatx.me:80\/play\/live.php?mac=00:1A:79:18:44:83&stream=156000&extension=m3u8?#key=Toxic-TV&token=ARTURO"
+        "video-streaming-link": "https://fifabangladesh.xyz/DISNEYxRANAPK/play.m3u8"
     },
     {
         "channel-name": "STAR PLUS HD",
