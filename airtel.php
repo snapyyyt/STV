@@ -1572,7 +1572,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "http:\/\/line.tvdsz.cc:80\/FZJ6R4Y\/BehlBNlQo2\/372926?play_token=0AN98OZEqY"
+        "video-streaming-link": "http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=1112132&extension=ts&play_token=t2j2NuMKKR"
     },
     {
         "channel-name": "STAR SUVARNA",
