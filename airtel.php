@@ -1692,6 +1692,15 @@
         "video-streaming-link": "http:\/\/185.243.7.154:80\/play\/live.php?mac=00:1A:79:B4:F2:61&stream=1104674&extension=ts&play_token=PyFKtOZi36"
     },
     {
+        "channel-name": "STAR UTSAV MOVIES",
+        "tvg-logo": "",
+        "group-title": "STAR CHANNELS",
+        "license-type": "widevine",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": "",
+        "video-streaming-link": "http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=1112131&extension=ts&play_token=4v3mAL8X11"
+    },
+    {
         "channel-name": "NAT GEO HD",
         "tvg-logo": "",
         "group-title": "STAR CHANNELS",
