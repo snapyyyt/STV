@@ -44,7 +44,7 @@
     "group-title": "Kids",
     "channel-name": "Hungama",
     "tvg-id": "",
-    "video-streaming-link": "http://103.186.77.21:8000/play/a032/index.m3u8",
+    "video-streaming-link": "https:\\sanjibweb.me\paid\smtv2\index.m3u8?id=108",
     "license-type": "widevine",
     "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
     "license-key-local": ""
@@ -54,7 +54,7 @@
     "group-title": "Kids",
     "channel-name": "Hungama",
     "tvg-id": "",
-    "video-streaming-link": "http:\\sanjibweb.live\TP\manifest.m3u8?id=7613",
+    "video-streaming-link": "https:\/\/sanjibweb.me\/paid\/smtv2\/index.m3u8?id=891",
     "license-type": "widevine",
     "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
     "license-key-local": ""
