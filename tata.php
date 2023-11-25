@@ -24,7 +24,7 @@
     "group-title": "Kids",
     "channel-name": "SHINCHAN 24/7",
     "tvg-id": "",
-    "video-streaming-link": "http://sanjibweb.live/paid/test.m3u8?id=3395",
+    "video-streaming-link": "http://livetvbox.live:8080/live/Roy/Roy/147724.m3u8",
     "license-type": "widevine",
     "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
     "license-key-local": ""
@@ -34,7 +34,7 @@
     "group-title": "Kids",
     "channel-name": "DORAEMON 24/7",
     "tvg-id": "",
-    "video-streaming-link": "https://sanjibweb.live/paid/test.m3u8?id=3407",
+    "video-streaming-link": "http://livetvbox.live:8080/live/Roy/Roy/147746.m3u8",
     "license-type": "widevine",
     "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
     "license-key-local": ""
