@@ -44,7 +44,7 @@
     "group-title": "Kids",
     "channel-name": "Hungama",
     "tvg-id": "",
-    "video-streaming-link": "https:\\sanjibweb.me\paid\smtv2\index.m3u8?id=108",
+    "video-streaming-link": "https://kingkohli.pages.dev/Play/Hungama_Denver_index.m3u8",
     "license-type": "widevine",
     "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
     "license-key-local": ""
