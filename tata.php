@@ -6382,6 +6382,15 @@
         "license-key-local": "undefined"
     },
     {
+        "license-type": "widevine",
+        "tvg-logo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-224/list/1170x658withlogo334138193.jpg",
+        "group-title": "Entertainment",
+        "channel-name": "Zee Thirai",
+        "video-streaming-link": "http://185.243.7.154:80/play/live.php?mac=00:1A:79:B4:F2:61&stream=155912&extension=ts&play_token=sLaIYX9Z6A",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
+        "license-key-local": ""
+    },
+    {
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/EKMHCL_Thumbnail-v1\/EKMHCL_Thumbnail.jpg",
         "group-title": "None",
