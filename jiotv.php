@@ -6,7 +6,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=143&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=143&e=.m3u8"
     },
     {
         "channel-name": "Colors HD",
@@ -15,7 +15,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=144&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=144&e=.m3u8"
     },
     {
         "channel-name": "History TV18 HD",
@@ -24,7 +24,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=146&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=146&e=.m3u8"
     },
     {
         "channel-name": "Zee Talkies",
@@ -33,7 +33,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=153&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=153&e=.m3u8"
     },
     {
         "channel-name": "Sony SAB",
@@ -42,7 +42,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=154&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=154&e=.m3u8"
     },
     {
         "channel-name": "Sony Ten 5 HD",
@@ -51,7 +51,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=155&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=155&e=.m3u8"
     },
     {
         "channel-name": "Sony Ten 1 HD",
@@ -60,7 +60,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=162&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=162&e=.m3u8"
     },
     {
         "channel-name": "Travelxp HD",
@@ -69,7 +69,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=164&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=164&e=.m3u8"
     },
     {
         "channel-name": "Zee Cinema HD",
@@ -78,7 +78,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=165&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=165&e=.m3u8"
     },
     {
         "channel-name": "Cartoon Network Telugu",
@@ -87,7 +87,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=166&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=166&e=.m3u8"
     },
     {
         "channel-name": "Zee TV HD",
@@ -96,7 +96,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=167&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=167&e=.m3u8"
     },
     {
         "channel-name": "Aaj Tak",
@@ -105,7 +105,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=173&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=173&e=.m3u8"
     },
     {
         "channel-name": "Aastha",
@@ -114,7 +114,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=175&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=175&e=.m3u8"
     },
     {
         "channel-name": "ABP News India",
@@ -123,7 +123,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=177&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=177&e=.m3u8"
     },
     {
         "channel-name": "Asianet News",
@@ -132,7 +132,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=180&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=180&e=.m3u8"
     },
     {
         "channel-name": "B4U Movies",
@@ -141,7 +141,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=182&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=182&e=.m3u8"
     },
     {
         "channel-name": "B4U Music",
@@ -150,7 +150,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=183&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=183&e=.m3u8"
     },
     {
         "channel-name": "And Pictures HD",
@@ -159,7 +159,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=185&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=185&e=.m3u8"
     },
     {
         "channel-name": "CNBC Awaaz",
@@ -168,7 +168,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=190&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=190&e=.m3u8"
     },
     {
         "channel-name": "CNN",
@@ -177,7 +177,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=193&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=193&e=.m3u8"
     },
     {
         "channel-name": "Colors Gujarati",
@@ -186,7 +186,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=196&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=196&e=.m3u8"
     },
     {
         "channel-name": "Colors Oriya",
@@ -195,7 +195,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=198&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=198&e=.m3u8"
     },
     {
         "channel-name": "DD National",
@@ -204,7 +204,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=202&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=202&e=.m3u8"
     },
     {
         "channel-name": "DD News",
@@ -213,7 +213,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=203&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=203&e=.m3u8"
     },
     {
         "channel-name": "DD Sports",
@@ -222,7 +222,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=204&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=204&e=.m3u8"
     },
     {
         "channel-name": "ET Now",
@@ -231,7 +231,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=212&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=212&e=.m3u8"
     },
     {
         "channel-name": "News 18 India",
@@ -240,7 +240,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=231&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=231&e=.m3u8"
     },
     {
         "channel-name": "News18 Lokmat",
@@ -249,7 +249,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=232&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=232&e=.m3u8"
     },
     {
         "channel-name": "India TV",
@@ -258,7 +258,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=235&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=235&e=.m3u8"
     },
     {
         "channel-name": "Discovery",
@@ -267,7 +267,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=242&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=242&e=.m3u8"
     },
     {
         "channel-name": "MTV",
@@ -276,7 +276,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=248&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=248&e=.m3u8"
     },
     {
         "channel-name": "Music India",
@@ -285,7 +285,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=250&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=250&e=.m3u8"
     },
     {
         "channel-name": "ETV Cinema",
@@ -294,7 +294,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=252&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=252&e=.m3u8"
     },
     {
         "channel-name": "NDTV 24x7",
@@ -303,7 +303,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=255&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=255&e=.m3u8"
     },
     {
         "channel-name": "NDTV India",
@@ -312,7 +312,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=258&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=258&e=.m3u8"
     },
     {
         "channel-name": "NDTV Profit",
@@ -321,7 +321,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=259&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=259&e=.m3u8"
     },
     {
         "channel-name": "Rishtey",
@@ -330,7 +330,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=279&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=279&e=.m3u8"
     },
     {
         "channel-name": "Animal Planet HD World",
@@ -339,7 +339,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=286&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=286&e=.m3u8"
     },
     {
         "channel-name": "Sanskar",
@@ -348,7 +348,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=288&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=288&e=.m3u8"
     },
     {
         "channel-name": "Sony Max SD",
@@ -357,7 +357,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=289&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=289&e=.m3u8"
     },
     {
         "channel-name": "sonic Tamil",
@@ -366,7 +366,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=290&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=290&e=.m3u8"
     },
     {
         "channel-name": "SET HD",
@@ -375,7 +375,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=291&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=291&e=.m3u8"
     },
     {
         "channel-name": "Times NOW",
@@ -384,7 +384,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=383&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=383&e=.m3u8"
     },
     {
         "channel-name": "PM e Vidya 01",
@@ -393,7 +393,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=400&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=400&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 19",
@@ -402,7 +402,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=401&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=401&e=.m3u8"
     },
     {
         "channel-name": "PM e Vidya 02",
@@ -411,7 +411,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=402&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=402&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 20",
@@ -420,7 +420,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=403&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=403&e=.m3u8"
     },
     {
         "channel-name": "PM e Vidya 07",
@@ -429,7 +429,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=404&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=404&e=.m3u8"
     },
     {
         "channel-name": "PM e Vidya 03",
@@ -438,7 +438,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=405&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=405&e=.m3u8"
     },
     {
         "channel-name": "PM e Vidya 04",
@@ -447,7 +447,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=406&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=406&e=.m3u8"
     },
     {
         "channel-name": "PM e Vidya 05",
@@ -456,7 +456,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=407&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=407&e=.m3u8"
     },
     {
         "channel-name": "PM e Vidya 06",
@@ -465,7 +465,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=408&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=408&e=.m3u8"
     },
     {
         "channel-name": "PM e Vidya 08",
@@ -474,7 +474,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=409&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=409&e=.m3u8"
     },
     {
         "channel-name": "PM e Vidya 09",
@@ -483,7 +483,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=410&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=410&e=.m3u8"
     },
     {
         "channel-name": "PM e Vidya 10",
@@ -492,7 +492,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=411&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=411&e=.m3u8"
     },
     {
         "channel-name": "Wion",
@@ -501,7 +501,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=412&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=412&e=.m3u8"
     },
     {
         "channel-name": "Zee Cinemalu",
@@ -510,7 +510,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=413&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=413&e=.m3u8"
     },
     {
         "channel-name": "Zee Yuva",
@@ -519,7 +519,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=414&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=414&e=.m3u8"
     },
     {
         "channel-name": "Zee Anmol Cinema",
@@ -528,7 +528,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=415&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=415&e=.m3u8"
     },
     {
         "channel-name": "J Movies",
@@ -537,7 +537,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=417&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=417&e=.m3u8"
     },
     {
         "channel-name": "Jaya Plus",
@@ -546,7 +546,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=418&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=418&e=.m3u8"
     },
     {
         "channel-name": "Jaya TV HD",
@@ -555,7 +555,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=419&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=419&e=.m3u8"
     },
     {
         "channel-name": "Jaya Max",
@@ -564,7 +564,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=420&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=420&e=.m3u8"
     },
     {
         "channel-name": "GOA 365",
@@ -573,7 +573,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=421&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=421&e=.m3u8"
     },
     {
         "channel-name": "In Goa 24x7",
@@ -582,7 +582,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=422&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=422&e=.m3u8"
     },
     {
         "channel-name": "Colors Tamil HD",
@@ -591,7 +591,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=429&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=429&e=.m3u8"
     },
     {
         "channel-name": "9X Jalwa",
@@ -600,7 +600,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=440&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=440&e=.m3u8"
     },
     {
         "channel-name": "9x Jhakaas",
@@ -609,7 +609,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=441&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=441&e=.m3u8"
     },
     {
         "channel-name": "Zee 24 Taas",
@@ -618,7 +618,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=442&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=442&e=.m3u8"
     },
     {
         "channel-name": "Zee Marathi",
@@ -627,7 +627,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=445&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=445&e=.m3u8"
     },
     {
         "channel-name": "Discovery HD World",
@@ -636,7 +636,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=463&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=463&e=.m3u8"
     },
     {
         "channel-name": "24 Ghanta TV",
@@ -645,7 +645,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=464&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=464&e=.m3u8"
     },
     {
         "channel-name": "Jaihind tv",
@@ -654,7 +654,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=465&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=465&e=.m3u8"
     },
     {
         "channel-name": "Arihant TV",
@@ -663,7 +663,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=466&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=466&e=.m3u8"
     },
     {
         "channel-name": "Sony SAB HD",
@@ -672,7 +672,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=471&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=471&e=.m3u8"
     },
     {
         "channel-name": "And TV HD",
@@ -681,7 +681,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=472&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=472&e=.m3u8"
     },
     {
         "channel-name": "Zee Anmol",
@@ -690,7 +690,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=473&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=473&e=.m3u8"
     },
     {
         "channel-name": "Sony Pal",
@@ -699,7 +699,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=474&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=474&e=.m3u8"
     },
     {
         "channel-name": "Sony Max HD",
@@ -708,7 +708,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=476&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=476&e=.m3u8"
     },
     {
         "channel-name": "TLC HD",
@@ -717,7 +717,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=479&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=479&e=.m3u8"
     },
     {
         "channel-name": "Epic",
@@ -726,7 +726,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=481&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=481&e=.m3u8"
     },
     {
         "channel-name": "Colors Cineplex",
@@ -735,7 +735,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=482&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=482&e=.m3u8"
     },
     {
         "channel-name": "Sony MAX2",
@@ -744,7 +744,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=483&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=483&e=.m3u8"
     },
     {
         "channel-name": "Zee Cinema",
@@ -753,7 +753,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=484&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=484&e=.m3u8"
     },
     {
         "channel-name": "Enterr 10",
@@ -762,7 +762,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=485&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=485&e=.m3u8"
     },
     {
         "channel-name": "Bhojpuri Cinema",
@@ -771,7 +771,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=486&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=486&e=.m3u8"
     },
     {
         "channel-name": "Zee Bollywood",
@@ -780,7 +780,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=487&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=487&e=.m3u8"
     },
     {
         "channel-name": "Zee Action",
@@ -789,7 +789,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=488&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=488&e=.m3u8"
     },
     {
         "channel-name": "CNBC Tv 18",
@@ -798,7 +798,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=489&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=489&e=.m3u8"
     },
     {
         "channel-name": "CNBC Bazaar (MNO)",
@@ -807,7 +807,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=490&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=490&e=.m3u8"
     },
     {
         "channel-name": "Mirror Now",
@@ -816,7 +816,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=491&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=491&e=.m3u8"
     },
     {
         "channel-name": "CNN NEWS 18",
@@ -825,7 +825,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=492&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=492&e=.m3u8"
     },
     {
         "channel-name": "India Today",
@@ -834,7 +834,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=493&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=493&e=.m3u8"
     },
     {
         "channel-name": "AL Jazeera",
@@ -843,7 +843,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=494&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=494&e=.m3u8"
     },
     {
         "channel-name": "News X",
@@ -852,7 +852,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=495&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=495&e=.m3u8"
     },
     {
         "channel-name": "dw",
@@ -861,7 +861,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=496&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=496&e=.m3u8"
     },
     {
         "channel-name": "India news",
@@ -870,7 +870,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=498&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=498&e=.m3u8"
     },
     {
         "channel-name": "News Nation",
@@ -879,7 +879,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=499&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=499&e=.m3u8"
     },
     {
         "channel-name": "News 24",
@@ -888,7 +888,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=501&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=501&e=.m3u8"
     },
     {
         "channel-name": "Good News Today",
@@ -897,7 +897,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=502&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=502&e=.m3u8"
     },
     {
         "channel-name": "IBC24",
@@ -906,7 +906,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=503&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=503&e=.m3u8"
     },
     {
         "channel-name": "Zee News",
@@ -915,7 +915,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=504&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=504&e=.m3u8"
     },
     {
         "channel-name": "Sahara Samay Rastriya",
@@ -924,7 +924,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=506&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=506&e=.m3u8"
     },
     {
         "channel-name": "SAHARA SAMAY MP",
@@ -933,7 +933,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=507&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=507&e=.m3u8"
     },
     {
         "channel-name": "SAHARA SAMAY UP",
@@ -942,7 +942,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=508&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=508&e=.m3u8"
     },
     {
         "channel-name": "Sahara Samay Bihar",
@@ -951,7 +951,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=509&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=509&e=.m3u8"
     },
     {
         "channel-name": "Mh One News",
@@ -960,7 +960,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=511&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=511&e=.m3u8"
     },
     {
         "channel-name": "India News UP",
@@ -969,7 +969,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=512&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=512&e=.m3u8"
     },
     {
         "channel-name": "India News Rajasthan",
@@ -978,7 +978,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=513&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=513&e=.m3u8"
     },
     {
         "channel-name": "Sony Ten 1",
@@ -987,7 +987,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=514&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=514&e=.m3u8"
     },
     {
         "channel-name": "India News MP",
@@ -996,7 +996,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=515&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=515&e=.m3u8"
     },
     {
         "channel-name": "India News Haryana",
@@ -1005,7 +1005,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=516&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=516&e=.m3u8"
     },
     {
         "channel-name": "Chardikla Time TV",
@@ -1014,7 +1014,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=517&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=517&e=.m3u8"
     },
     {
         "channel-name": "Sudarshan",
@@ -1023,7 +1023,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=518&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=518&e=.m3u8"
     },
     {
         "channel-name": "Sadhna News Plus",
@@ -1032,7 +1032,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=519&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=519&e=.m3u8"
     },
     {
         "channel-name": "Sansad TV HD",
@@ -1041,7 +1041,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=520&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=520&e=.m3u8"
     },
     {
         "channel-name": "Sansad TV",
@@ -1050,7 +1050,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=522&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=522&e=.m3u8"
     },
     {
         "channel-name": "Ten 2",
@@ -1059,7 +1059,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=523&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=523&e=.m3u8"
     },
     {
         "channel-name": "Sony Ten 3",
@@ -1068,7 +1068,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=524&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=524&e=.m3u8"
     },
     {
         "channel-name": "Sony Ten 5",
@@ -1077,7 +1077,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=525&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=525&e=.m3u8"
     },
     {
         "channel-name": "Investigation Discovery",
@@ -1086,7 +1086,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=527&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=527&e=.m3u8"
     },
     {
         "channel-name": "DD India",
@@ -1095,7 +1095,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=528&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=528&e=.m3u8"
     },
     {
         "channel-name": "News18 MP",
@@ -1104,7 +1104,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=529&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=529&e=.m3u8"
     },
     {
         "channel-name": "News18 UP",
@@ -1113,7 +1113,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=530&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=530&e=.m3u8"
     },
     {
         "channel-name": "News18 RAJASTHAN",
@@ -1122,7 +1122,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=531&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=531&e=.m3u8"
     },
     {
         "channel-name": "Dabangg",
@@ -1131,7 +1131,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=532&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=532&e=.m3u8"
     },
     {
         "channel-name": "Raj Pariwar",
@@ -1140,7 +1140,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=533&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=533&e=.m3u8"
     },
     {
         "channel-name": "Dillagi TV",
@@ -1149,7 +1149,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=534&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=534&e=.m3u8"
     },
     {
         "channel-name": "Dhamaal TV",
@@ -1158,7 +1158,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=535&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=535&e=.m3u8"
     },
     {
         "channel-name": "DD Madhya Pradesh",
@@ -1167,7 +1167,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=536&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=536&e=.m3u8"
     },
     {
         "channel-name": "DD Rajasthan (Jaipur)",
@@ -1176,7 +1176,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=538&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=538&e=.m3u8"
     },
     {
         "channel-name": "DD Bihar",
@@ -1185,7 +1185,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=539&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=539&e=.m3u8"
     },
     {
         "channel-name": "DD Uttar Pradesh",
@@ -1194,7 +1194,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=540&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=540&e=.m3u8"
     },
     {
         "channel-name": "Discovery Turbo",
@@ -1203,7 +1203,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=541&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=541&e=.m3u8"
     },
     {
         "channel-name": "Pogo Tamil",
@@ -1212,7 +1212,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=542&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=542&e=.m3u8"
     },
     {
         "channel-name": "Nick Telugu",
@@ -1221,7 +1221,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=543&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=543&e=.m3u8"
     },
     {
         "channel-name": "Nick Junior",
@@ -1230,7 +1230,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=544&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=544&e=.m3u8"
     },
     {
         "channel-name": "Nick Hindi",
@@ -1239,7 +1239,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=545&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=545&e=.m3u8"
     },
     {
         "channel-name": "Nick Tamil",
@@ -1248,7 +1248,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=546&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=546&e=.m3u8"
     },
     {
         "channel-name": "Nickelodeon",
@@ -1257,7 +1257,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=547&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=547&e=.m3u8"
     },
     {
         "channel-name": "Nickelodeon Jr.",
@@ -1266,7 +1266,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=548&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=548&e=.m3u8"
     },
     {
         "channel-name": "Discovery Kids Tamil",
@@ -1275,7 +1275,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=550&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=550&e=.m3u8"
     },
     {
         "channel-name": "TEST14 HD",
@@ -1284,7 +1284,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=551&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=551&e=.m3u8"
     },
     {
         "channel-name": "Discovery Kids 2",
@@ -1293,7 +1293,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=554&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=554&e=.m3u8"
     },
     {
         "channel-name": "Chintu TV",
@@ -1302,7 +1302,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=555&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=555&e=.m3u8"
     },
     {
         "channel-name": "Kochu TV",
@@ -1311,7 +1311,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=556&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=556&e=.m3u8"
     },
     {
         "channel-name": "Chutti TV",
@@ -1320,7 +1320,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=557&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=557&e=.m3u8"
     },
     {
         "channel-name": "Kushi TV",
@@ -1329,7 +1329,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=558&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=558&e=.m3u8"
     },
     {
         "channel-name": "Pogo Hindi",
@@ -1338,7 +1338,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=559&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=559&e=.m3u8"
     },
     {
         "channel-name": "GOOD TiMES",
@@ -1347,7 +1347,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=560&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=560&e=.m3u8"
     },
     {
         "channel-name": "Food Food",
@@ -1356,7 +1356,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=561&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=561&e=.m3u8"
     },
     {
         "channel-name": "Travelxp HD Hindi",
@@ -1365,7 +1365,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=562&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=562&e=.m3u8"
     },
     {
         "channel-name": "Kaumudy TV",
@@ -1374,7 +1374,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=563&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=563&e=.m3u8"
     },
     {
         "channel-name": "ETV Abhiruchi",
@@ -1383,7 +1383,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=565&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=565&e=.m3u8"
     },
     {
         "channel-name": "Animal Planet Hindi",
@@ -1392,7 +1392,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=566&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=566&e=.m3u8"
     },
     {
         "channel-name": "Animal Planet English",
@@ -1401,7 +1401,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=567&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=567&e=.m3u8"
     },
     {
         "channel-name": "Discovery Science",
@@ -1410,7 +1410,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=568&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=568&e=.m3u8"
     },
     {
         "channel-name": "D Tamil",
@@ -1419,7 +1419,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=569&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=569&e=.m3u8"
     },
     {
         "channel-name": "ETV Life",
@@ -1428,7 +1428,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=570&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=570&e=.m3u8"
     },
     {
         "channel-name": "TLC Hindi",
@@ -1437,7 +1437,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=571&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=571&e=.m3u8"
     },
     {
         "channel-name": "Zee UP UK",
@@ -1446,7 +1446,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=572&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=572&e=.m3u8"
     },
     {
         "channel-name": "Discovery Channel Bengali",
@@ -1455,7 +1455,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=573&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=573&e=.m3u8"
     },
     {
         "channel-name": "TLC English",
@@ -1464,7 +1464,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=574&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=574&e=.m3u8"
     },
     {
         "channel-name": "Discovery Channel Hindi",
@@ -1473,7 +1473,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=575&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=575&e=.m3u8"
     },
     {
         "channel-name": "Discovery Channel Telugu",
@@ -1482,7 +1482,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=576&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=576&e=.m3u8"
     },
     {
         "channel-name": "History TV18 HD Telugu",
@@ -1491,7 +1491,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=577&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=577&e=.m3u8"
     },
     {
         "channel-name": "History TV18 HD Hindi",
@@ -1500,7 +1500,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=578&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=578&e=.m3u8"
     },
     {
         "channel-name": "History TV18 HD Tamil",
@@ -1509,7 +1509,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=579&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=579&e=.m3u8"
     },
     {
         "channel-name": "DD bharati",
@@ -1518,7 +1518,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=580&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=580&e=.m3u8"
     },
     {
         "channel-name": "DD Kisan",
@@ -1527,7 +1527,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=583&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=583&e=.m3u8"
     },
     {
         "channel-name": "Mastiii",
@@ -1536,7 +1536,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=584&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=584&e=.m3u8"
     },
     {
         "channel-name": "Zing",
@@ -1545,7 +1545,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=585&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=585&e=.m3u8"
     },
     {
         "channel-name": "9XM",
@@ -1554,7 +1554,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=587&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=587&e=.m3u8"
     },
     {
         "channel-name": "E 24",
@@ -1563,7 +1563,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=591&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=591&e=.m3u8"
     },
     {
         "channel-name": "ZOOM",
@@ -1572,7 +1572,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=592&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=592&e=.m3u8"
     },
     {
         "channel-name": "Sadhna",
@@ -1581,7 +1581,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=593&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=593&e=.m3u8"
     },
     {
         "channel-name": "Aastha Bhajan",
@@ -1590,7 +1590,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=594&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=594&e=.m3u8"
     },
     {
         "channel-name": "Jinvani TV",
@@ -1599,7 +1599,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=596&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=596&e=.m3u8"
     },
     {
         "channel-name": "Satsang TV",
@@ -1608,7 +1608,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=597&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=597&e=.m3u8"
     },
     {
         "channel-name": "Sri Venkateshwar Bhakti",
@@ -1617,7 +1617,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=598&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=598&e=.m3u8"
     },
     {
         "channel-name": "Disha tv",
@@ -1626,7 +1626,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=599&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=599&e=.m3u8"
     },
     {
         "channel-name": "Ishwar TV",
@@ -1635,7 +1635,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=601&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=601&e=.m3u8"
     },
     {
         "channel-name": "Paras tv",
@@ -1644,7 +1644,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=602&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=602&e=.m3u8"
     },
     {
         "channel-name": "Nambikkai",
@@ -1653,7 +1653,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=603&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=603&e=.m3u8"
     },
     {
         "channel-name": "Channel Win",
@@ -1662,7 +1662,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=605&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=605&e=.m3u8"
     },
     {
         "channel-name": "Shalom",
@@ -1671,7 +1671,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=606&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=606&e=.m3u8"
     },
     {
         "channel-name": "Subhavartha TV",
@@ -1680,7 +1680,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=607&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=607&e=.m3u8"
     },
     {
         "channel-name": "Shubhsandesh TV",
@@ -1689,7 +1689,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=608&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=608&e=.m3u8"
     },
     {
         "channel-name": "mh1 Shraddha",
@@ -1698,7 +1698,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=609&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=609&e=.m3u8"
     },
     {
         "channel-name": "Darshan 24",
@@ -1707,7 +1707,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=611&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=611&e=.m3u8"
     },
     {
         "channel-name": "ABP Majha",
@@ -1716,7 +1716,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=612&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=612&e=.m3u8"
     },
     {
         "channel-name": "Newslive",
@@ -1725,7 +1725,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=613&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=613&e=.m3u8"
     },
     {
         "channel-name": "ETV Andhra pradesh",
@@ -1734,7 +1734,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=614&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=614&e=.m3u8"
     },
     {
         "channel-name": "News 18 Tamilnadu",
@@ -1743,7 +1743,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=615&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=615&e=.m3u8"
     },
     {
         "channel-name": "Tv 9 Gujarat",
@@ -1752,7 +1752,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=616&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=616&e=.m3u8"
     },
     {
         "channel-name": "TV9 Maharashtra",
@@ -1761,7 +1761,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=617&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=617&e=.m3u8"
     },
     {
         "channel-name": "TV9 Telugu News",
@@ -1770,7 +1770,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=618&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=618&e=.m3u8"
     },
     {
         "channel-name": "TV9 Karnataka",
@@ -1779,7 +1779,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=619&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=619&e=.m3u8"
     },
     {
         "channel-name": "News18 Gujarati",
@@ -1788,7 +1788,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=620&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=620&e=.m3u8"
     },
     {
         "channel-name": "Rang",
@@ -1797,7 +1797,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=623&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=623&e=.m3u8"
     },
     {
         "channel-name": "Prag News",
@@ -1806,7 +1806,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=624&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=624&e=.m3u8"
     },
     {
         "channel-name": "Zee Bangla",
@@ -1815,7 +1815,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=625&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=625&e=.m3u8"
     },
     {
         "channel-name": "Suvarna News",
@@ -1824,7 +1824,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=626&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=626&e=.m3u8"
     },
     {
         "channel-name": "News 18 Assam",
@@ -1833,7 +1833,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=627&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=627&e=.m3u8"
     },
     {
         "channel-name": "Zee Tamil",
@@ -1842,7 +1842,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=628&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=628&e=.m3u8"
     },
     {
         "channel-name": "ETV Telugu",
@@ -1851,7 +1851,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=629&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=629&e=.m3u8"
     },
     {
         "channel-name": "ETV Telangana",
@@ -1860,7 +1860,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=630&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=630&e=.m3u8"
     },
     {
         "channel-name": "MBC",
@@ -1869,7 +1869,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=631&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=631&e=.m3u8"
     },
     {
         "channel-name": "Sakshi tv",
@@ -1878,7 +1878,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=632&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=632&e=.m3u8"
     },
     {
         "channel-name": "DY 365",
@@ -1887,7 +1887,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=633&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=633&e=.m3u8"
     },
     {
         "channel-name": "Flower TV",
@@ -1896,7 +1896,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=634&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=634&e=.m3u8"
     },
     {
         "channel-name": "Rengoni",
@@ -1905,7 +1905,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=635&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=635&e=.m3u8"
     },
     {
         "channel-name": "Polimer News",
@@ -1914,7 +1914,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=636&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=636&e=.m3u8"
     },
     {
         "channel-name": "North East Live",
@@ -1923,7 +1923,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=637&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=637&e=.m3u8"
     },
     {
         "channel-name": "Zee Telugu",
@@ -1932,7 +1932,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=638&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=638&e=.m3u8"
     },
     {
         "channel-name": "Ramdhenu",
@@ -1941,7 +1941,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=639&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=639&e=.m3u8"
     },
     {
         "channel-name": "ABP Asmita",
@@ -1950,7 +1950,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=641&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=641&e=.m3u8"
     },
     {
         "channel-name": "VTV Gujarati",
@@ -1959,7 +1959,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=642&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=642&e=.m3u8"
     },
     {
         "channel-name": "GS TV",
@@ -1968,7 +1968,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=643&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=643&e=.m3u8"
     },
     {
         "channel-name": "Captain News",
@@ -1977,7 +1977,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=645&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=645&e=.m3u8"
     },
     {
         "channel-name": "NTV",
@@ -1986,7 +1986,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=646&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=646&e=.m3u8"
     },
     {
         "channel-name": "Pratidin Time",
@@ -1995,7 +1995,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=647&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=647&e=.m3u8"
     },
     {
         "channel-name": "Mazhavil Manorama",
@@ -2004,7 +2004,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=648&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=648&e=.m3u8"
     },
     {
         "channel-name": "Raj News Malayalam",
@@ -2013,7 +2013,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=650&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=650&e=.m3u8"
     },
     {
         "channel-name": "Raj News Kannada",
@@ -2022,7 +2022,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=651&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=651&e=.m3u8"
     },
     {
         "channel-name": "Zee Hindustan",
@@ -2031,7 +2031,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=652&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=652&e=.m3u8"
     },
     {
         "channel-name": "News18 Kannada News",
@@ -2040,7 +2040,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=653&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=653&e=.m3u8"
     },
     {
         "channel-name": "Zee Punjabi HP Haryana",
@@ -2049,7 +2049,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=654&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=654&e=.m3u8"
     },
     {
         "channel-name": "News18 Punjab Haryana",
@@ -2058,7 +2058,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=655&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=655&e=.m3u8"
     },
     {
         "channel-name": "Zee Business",
@@ -2067,7 +2067,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=657&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=657&e=.m3u8"
     },
     {
         "channel-name": "Zee News MP Chattisgarh",
@@ -2076,7 +2076,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=658&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=658&e=.m3u8"
     },
     {
         "channel-name": "Zee Rajasthan",
@@ -2085,7 +2085,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=659&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=659&e=.m3u8"
     },
     {
         "channel-name": "Zee Bihar Jharkhand",
@@ -2094,7 +2094,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=661&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=661&e=.m3u8"
     },
     {
         "channel-name": "Manorama News",
@@ -2103,7 +2103,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=662&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=662&e=.m3u8"
     },
     {
         "channel-name": "Raj News Telugu",
@@ -2112,7 +2112,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=664&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=664&e=.m3u8"
     },
     {
         "channel-name": "HM TV",
@@ -2121,7 +2121,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=665&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=665&e=.m3u8"
     },
     {
         "channel-name": "ABN Andhra Jyothi",
@@ -2130,7 +2130,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=666&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=666&e=.m3u8"
     },
     {
         "channel-name": "T News",
@@ -2139,7 +2139,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=667&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=667&e=.m3u8"
     },
     {
         "channel-name": "TV 5 News",
@@ -2148,7 +2148,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=668&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=668&e=.m3u8"
     },
     {
         "channel-name": "Sathiyam TV",
@@ -2157,7 +2157,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=671&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=671&e=.m3u8"
     },
     {
         "channel-name": "ABP Ananda",
@@ -2166,7 +2166,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=672&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=672&e=.m3u8"
     },
     {
         "channel-name": "News7 Tamil",
@@ -2175,7 +2175,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=673&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=673&e=.m3u8"
     },
     {
         "channel-name": "Assam Talks",
@@ -2184,7 +2184,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=675&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=675&e=.m3u8"
     },
     {
         "channel-name": "Sun News",
@@ -2193,7 +2193,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=676&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=676&e=.m3u8"
     },
     {
         "channel-name": "Puthiya Thalimurai",
@@ -2202,7 +2202,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=677&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=677&e=.m3u8"
     },
     {
         "channel-name": "Udaya Movies",
@@ -2211,7 +2211,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=678&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=678&e=.m3u8"
     },
     {
         "channel-name": "Sun Life",
@@ -2220,7 +2220,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=682&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=682&e=.m3u8"
     },
     {
         "channel-name": "Raj Digital Plus",
@@ -2229,7 +2229,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=683&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=683&e=.m3u8"
     },
     {
         "channel-name": "Gemini Life",
@@ -2238,7 +2238,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=684&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=684&e=.m3u8"
     },
     {
         "channel-name": "Zee Bangla Cinema",
@@ -2247,7 +2247,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=685&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=685&e=.m3u8"
     },
     {
         "channel-name": "News Time TV",
@@ -2256,7 +2256,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=687&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=687&e=.m3u8"
     },
     {
         "channel-name": "Zee Kannada",
@@ -2265,7 +2265,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=689&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=689&e=.m3u8"
     },
     {
         "channel-name": "DD Bangla",
@@ -2274,7 +2274,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=690&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=690&e=.m3u8"
     },
     {
         "channel-name": "Saam Tv",
@@ -2283,7 +2283,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=691&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=691&e=.m3u8"
     },
     {
         "channel-name": "ETV Plus",
@@ -2292,7 +2292,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=692&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=692&e=.m3u8"
     },
     {
         "channel-name": "News18 BIHAR",
@@ -2301,7 +2301,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=693&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=693&e=.m3u8"
     },
     {
         "channel-name": "News18 JKLH",
@@ -2310,7 +2310,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=694&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=694&e=.m3u8"
     },
     {
         "channel-name": "DD Sahayadri",
@@ -2319,7 +2319,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=695&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=695&e=.m3u8"
     },
     {
         "channel-name": "News18 Oriya",
@@ -2328,7 +2328,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=696&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=696&e=.m3u8"
     },
     {
         "channel-name": "Sony aath",
@@ -2337,7 +2337,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=697&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=697&e=.m3u8"
     },
     {
         "channel-name": "Aakash Aath",
@@ -2346,7 +2346,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=698&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=698&e=.m3u8"
     },
     {
         "channel-name": "DD Malayalam",
@@ -2355,7 +2355,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=699&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=699&e=.m3u8"
     },
     {
         "channel-name": "Dangal",
@@ -2364,7 +2364,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=701&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=701&e=.m3u8"
     },
     {
         "channel-name": "DD Oriya",
@@ -2373,7 +2373,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=702&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=702&e=.m3u8"
     },
     {
         "channel-name": "Polimer TV",
@@ -2382,7 +2382,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=705&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=705&e=.m3u8"
     },
     {
         "channel-name": "DD Saptagiri",
@@ -2391,7 +2391,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=706&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=706&e=.m3u8"
     },
     {
         "channel-name": "Raj TV",
@@ -2400,7 +2400,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=707&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=707&e=.m3u8"
     },
     {
         "channel-name": "Makkal TV",
@@ -2409,7 +2409,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=708&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=708&e=.m3u8"
     },
     {
         "channel-name": "Adithya TV",
@@ -2418,7 +2418,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=709&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=709&e=.m3u8"
     },
     {
         "channel-name": "Kairali TV",
@@ -2427,7 +2427,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=710&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=710&e=.m3u8"
     },
     {
         "channel-name": "Captain tv",
@@ -2436,7 +2436,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=711&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=711&e=.m3u8"
     },
     {
         "channel-name": "DD urdu",
@@ -2445,7 +2445,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=712&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=712&e=.m3u8"
     },
     {
         "channel-name": "DD9 chandana (kannada)",
@@ -2454,7 +2454,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=713&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=713&e=.m3u8"
     },
     {
         "channel-name": "DD Girnar",
@@ -2463,7 +2463,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=714&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=714&e=.m3u8"
     },
     {
         "channel-name": "DD Punjabi",
@@ -2472,7 +2472,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=715&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=715&e=.m3u8"
     },
     {
         "channel-name": "DD Kashir",
@@ -2481,7 +2481,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=716&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=716&e=.m3u8"
     },
     {
         "channel-name": "News18 Bangla News",
@@ -2490,7 +2490,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=717&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=717&e=.m3u8"
     },
     {
         "channel-name": "Kanak News",
@@ -2499,7 +2499,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=718&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=718&e=.m3u8"
     },
     {
         "channel-name": "Nepal one",
@@ -2508,7 +2508,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=719&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=719&e=.m3u8"
     },
     {
         "channel-name": "DD13 Guwahati NE",
@@ -2517,7 +2517,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=720&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=720&e=.m3u8"
     },
     {
         "channel-name": "Zee Sarthak",
@@ -2526,7 +2526,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=722&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=722&e=.m3u8"
     },
     {
         "channel-name": "Amrita TV",
@@ -2535,7 +2535,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=723&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=723&e=.m3u8"
     },
     {
         "channel-name": "Zee Delhi NCR Haryana",
@@ -2544,7 +2544,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=724&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=724&e=.m3u8"
     },
     {
         "channel-name": "Kairali News",
@@ -2553,7 +2553,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=725&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=725&e=.m3u8"
     },
     {
         "channel-name": "DD5 Podhigai",
@@ -2562,7 +2562,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=726&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=726&e=.m3u8"
     },
     {
         "channel-name": "Vasanth TV",
@@ -2571,7 +2571,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=727&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=727&e=.m3u8"
     },
     {
         "channel-name": "Zee Salaam",
@@ -2580,7 +2580,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=728&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=728&e=.m3u8"
     },
     {
         "channel-name": "Gemini Comedy",
@@ -2589,7 +2589,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=729&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=729&e=.m3u8"
     },
     {
         "channel-name": "Kasturi",
@@ -2598,7 +2598,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=730&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=730&e=.m3u8"
     },
     {
         "channel-name": "Kairali WE TV",
@@ -2607,7 +2607,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=731&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=731&e=.m3u8"
     },
     {
         "channel-name": "9X Tashan",
@@ -2616,7 +2616,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=732&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=732&e=.m3u8"
     },
     {
         "channel-name": "Udaya Comedy",
@@ -2625,7 +2625,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=733&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=733&e=.m3u8"
     },
     {
         "channel-name": "Vissa TV",
@@ -2634,7 +2634,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=734&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=734&e=.m3u8"
     },
     {
         "channel-name": "Sangeet Marathi",
@@ -2643,7 +2643,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=735&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=735&e=.m3u8"
     },
     {
         "channel-name": "Maiboli",
@@ -2652,7 +2652,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=736&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=736&e=.m3u8"
     },
     {
         "channel-name": "Raj Music Telugu",
@@ -2661,7 +2661,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=737&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=737&e=.m3u8"
     },
     {
         "channel-name": "Fakt Marathi",
@@ -2670,7 +2670,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=738&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=738&e=.m3u8"
     },
     {
         "channel-name": "Raj Music Malayalam",
@@ -2679,7 +2679,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=739&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=739&e=.m3u8"
     },
     {
         "channel-name": "Sangeet Bangla",
@@ -2688,7 +2688,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=740&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=740&e=.m3u8"
     },
     {
         "channel-name": "Sangeet Bhojpuri",
@@ -2697,7 +2697,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=741&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=741&e=.m3u8"
     },
     {
         "channel-name": "mh1 (Music)",
@@ -2706,7 +2706,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=742&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=742&e=.m3u8"
     },
     {
         "channel-name": "Raj Music Kannada",
@@ -2715,7 +2715,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=743&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=743&e=.m3u8"
     },
     {
         "channel-name": "Udaya Music",
@@ -2724,7 +2724,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=744&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=744&e=.m3u8"
     },
     {
         "channel-name": "Surya Music",
@@ -2733,7 +2733,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=747&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=747&e=.m3u8"
     },
     {
         "channel-name": "Raj Musix",
@@ -2742,7 +2742,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=748&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=748&e=.m3u8"
     },
     {
         "channel-name": "Sahana Music",
@@ -2751,7 +2751,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=749&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=749&e=.m3u8"
     },
     {
         "channel-name": "MTV Beats HD",
@@ -2760,7 +2760,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=753&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=753&e=.m3u8"
     },
     {
         "channel-name": "Colors Marathi HD",
@@ -2769,7 +2769,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=755&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=755&e=.m3u8"
     },
     {
         "channel-name": "Colors Bengali HD",
@@ -2778,7 +2778,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=756&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=756&e=.m3u8"
     },
     {
         "channel-name": "Colors Kannada HD",
@@ -2787,7 +2787,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=757&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=757&e=.m3u8"
     },
     {
         "channel-name": "Sony Pix HD",
@@ -2796,7 +2796,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=762&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=762&e=.m3u8"
     },
     {
         "channel-name": "Channel News Asia International",
@@ -2805,7 +2805,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=764&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=764&e=.m3u8"
     },
     {
         "channel-name": "Jonack",
@@ -2814,7 +2814,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=765&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=765&e=.m3u8"
     },
     {
         "channel-name": "Raj News\u00a024x7",
@@ -2823,7 +2823,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=767&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=767&e=.m3u8"
     },
     {
         "channel-name": "Jan TV",
@@ -2832,7 +2832,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=768&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=768&e=.m3u8"
     },
     {
         "channel-name": "V6 News",
@@ -2841,7 +2841,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=769&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=769&e=.m3u8"
     },
     {
         "channel-name": "Kashish News",
@@ -2850,7 +2850,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=770&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=770&e=.m3u8"
     },
     {
         "channel-name": "Live Today",
@@ -2859,7 +2859,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=771&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=771&e=.m3u8"
     },
     {
         "channel-name": "CVR OM Spiritual",
@@ -2868,7 +2868,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=772&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=772&e=.m3u8"
     },
     {
         "channel-name": "Public Music",
@@ -2877,7 +2877,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=773&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=773&e=.m3u8"
     },
     {
         "channel-name": "CVR Health",
@@ -2886,7 +2886,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=774&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=774&e=.m3u8"
     },
     {
         "channel-name": "Vanitha",
@@ -2895,7 +2895,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=775&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=775&e=.m3u8"
     },
     {
         "channel-name": "Bhakti TV",
@@ -2904,7 +2904,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=776&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=776&e=.m3u8"
     },
     {
         "channel-name": "Aradhana TV",
@@ -2913,7 +2913,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=777&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=777&e=.m3u8"
     },
     {
         "channel-name": "Public TV",
@@ -2922,7 +2922,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=778&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=778&e=.m3u8"
     },
     {
         "channel-name": "Prameya News 7",
@@ -2931,7 +2931,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=779&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=779&e=.m3u8"
     },
     {
         "channel-name": "Mathrubhumi News",
@@ -2940,7 +2940,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=780&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=780&e=.m3u8"
     },
     {
         "channel-name": "Kalinga TV",
@@ -2949,7 +2949,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=781&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=781&e=.m3u8"
     },
     {
         "channel-name": "Sandesh News",
@@ -2958,7 +2958,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=782&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=782&e=.m3u8"
     },
     {
         "channel-name": "K News India",
@@ -2967,7 +2967,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=783&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=783&e=.m3u8"
     },
     {
         "channel-name": "CVR News",
@@ -2976,7 +2976,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=784&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=784&e=.m3u8"
     },
     {
         "channel-name": "Colors Super",
@@ -2985,7 +2985,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=785&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=785&e=.m3u8"
     },
     {
         "channel-name": "Kappa TV",
@@ -2994,7 +2994,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=786&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=786&e=.m3u8"
     },
     {
         "channel-name": "CVR English",
@@ -3003,7 +3003,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=787&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=787&e=.m3u8"
     },
     {
         "channel-name": "India Voice",
@@ -3012,7 +3012,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=788&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=788&e=.m3u8"
     },
     {
         "channel-name": "JK 24x7 News",
@@ -3021,7 +3021,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=789&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=789&e=.m3u8"
     },
     {
         "channel-name": "I News",
@@ -3030,7 +3030,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=790&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=790&e=.m3u8"
     },
     {
         "channel-name": "Taaza TV",
@@ -3039,7 +3039,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=791&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=791&e=.m3u8"
     },
     {
         "channel-name": "News State UK UP",
@@ -3048,7 +3048,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=792&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=792&e=.m3u8"
     },
     {
         "channel-name": "Sahara Samay Rajasthan",
@@ -3057,7 +3057,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=793&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=793&e=.m3u8"
     },
     {
         "channel-name": "Peace of Mind",
@@ -3066,7 +3066,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=794&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=794&e=.m3u8"
     },
     {
         "channel-name": "testa",
@@ -3075,7 +3075,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=795&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=795&e=.m3u8"
     },
     {
         "channel-name": "Peppers TV",
@@ -3084,7 +3084,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=796&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=796&e=.m3u8"
     },
     {
         "channel-name": "testii",
@@ -3093,7 +3093,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=797&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=797&e=.m3u8"
     },
     {
         "channel-name": "Naxatra News",
@@ -3102,7 +3102,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=799&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=799&e=.m3u8"
     },
     {
         "channel-name": "Divya TV",
@@ -3111,7 +3111,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=801&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=801&e=.m3u8"
     },
     {
         "channel-name": "Tunes 6",
@@ -3120,7 +3120,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=803&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=803&e=.m3u8"
     },
     {
         "channel-name": "Samachar Plus",
@@ -3129,7 +3129,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=804&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=804&e=.m3u8"
     },
     {
         "channel-name": "Gulistan News",
@@ -3138,7 +3138,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=807&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=807&e=.m3u8"
     },
     {
         "channel-name": "Hindi Khabar",
@@ -3147,7 +3147,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=808&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=808&e=.m3u8"
     },
     {
         "channel-name": "Maha Movies",
@@ -3156,7 +3156,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=809&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=809&e=.m3u8"
     },
     {
         "channel-name": "Janam TV",
@@ -3165,7 +3165,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=810&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=810&e=.m3u8"
     },
     {
         "channel-name": "Travelxp Tamil",
@@ -3174,7 +3174,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=814&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=814&e=.m3u8"
     },
     {
         "channel-name": "Sonic Hindi",
@@ -3183,7 +3183,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=815&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=815&e=.m3u8"
     },
     {
         "channel-name": "Cartoon Network Hindi",
@@ -3192,7 +3192,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=816&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=816&e=.m3u8"
     },
     {
         "channel-name": "Cartoon Network Tamil",
@@ -3201,7 +3201,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=817&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=817&e=.m3u8"
     },
     {
         "channel-name": "Sony BBC Earth HD",
@@ -3210,7 +3210,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=821&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=821&e=.m3u8"
     },
     {
         "channel-name": "Sony BBC Earth SD",
@@ -3219,7 +3219,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=823&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=823&e=.m3u8"
     },
     {
         "channel-name": "Puthu Yugam",
@@ -3228,7 +3228,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=824&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=824&e=.m3u8"
     },
     {
         "channel-name": "Malai Murasu",
@@ -3237,7 +3237,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=826&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=826&e=.m3u8"
     },
     {
         "channel-name": "Shubh TV",
@@ -3246,7 +3246,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=828&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=828&e=.m3u8"
     },
     {
         "channel-name": "Sri Sankara",
@@ -3255,7 +3255,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=829&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=829&e=.m3u8"
     },
     {
         "channel-name": "Thanthi TV",
@@ -3264,7 +3264,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=830&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=830&e=.m3u8"
     },
     {
         "channel-name": "Living India News",
@@ -3273,7 +3273,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=831&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=831&e=.m3u8"
     },
     {
         "channel-name": "10 TV",
@@ -3282,7 +3282,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=832&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=832&e=.m3u8"
     },
     {
         "channel-name": "Angel TV HD",
@@ -3291,7 +3291,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=835&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=835&e=.m3u8"
     },
     {
         "channel-name": "Euro News",
@@ -3300,7 +3300,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=837&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=837&e=.m3u8"
     },
     {
         "channel-name": "France 24",
@@ -3309,7 +3309,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=838&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=838&e=.m3u8"
     },
     {
         "channel-name": "Jeevan TV",
@@ -3318,7 +3318,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=842&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=842&e=.m3u8"
     },
     {
         "channel-name": "Madhimugam TV",
@@ -3327,7 +3327,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=843&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=843&e=.m3u8"
     },
     {
         "channel-name": "Mazavali Manorama HD",
@@ -3336,7 +3336,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=844&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=844&e=.m3u8"
     },
     {
         "channel-name": "MK Music",
@@ -3345,7 +3345,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=845&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=845&e=.m3u8"
     },
     {
         "channel-name": "MKN",
@@ -3354,7 +3354,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=846&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=846&e=.m3u8"
     },
     {
         "channel-name": "MK TV",
@@ -3363,7 +3363,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=847&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=847&e=.m3u8"
     },
     {
         "channel-name": "News India 24x7",
@@ -3372,7 +3372,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=850&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=850&e=.m3u8"
     },
     {
         "channel-name": "SMBC TV",
@@ -3381,7 +3381,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=851&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=851&e=.m3u8"
     },
     {
         "channel-name": "Sony BBC Earth HD English",
@@ -3390,7 +3390,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=852&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=852&e=.m3u8"
     },
     {
         "channel-name": "Sony BBC Earth HD Tamil",
@@ -3399,7 +3399,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=853&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=853&e=.m3u8"
     },
     {
         "channel-name": "Sony BBC Earth HD Telugu",
@@ -3408,7 +3408,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=854&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=854&e=.m3u8"
     },
     {
         "channel-name": "Total TV",
@@ -3417,7 +3417,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=855&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=855&e=.m3u8"
     },
     {
         "channel-name": "Vedic TV",
@@ -3426,7 +3426,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=856&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=856&e=.m3u8"
     },
     {
         "channel-name": "Vendhar TV",
@@ -3435,7 +3435,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=857&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=857&e=.m3u8"
     },
     {
         "channel-name": "Republic TV",
@@ -3444,7 +3444,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=858&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=858&e=.m3u8"
     },
     {
         "channel-name": "Jio Exclusive HD",
@@ -3453,7 +3453,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=866&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=866&e=.m3u8"
     },
     {
         "channel-name": "Jio Events HD",
@@ -3462,7 +3462,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=871&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=871&e=.m3u8"
     },
     {
         "channel-name": "Sony Yay Hindi",
@@ -3471,7 +3471,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=872&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=872&e=.m3u8"
     },
     {
         "channel-name": "Sony Yay Tamil",
@@ -3480,7 +3480,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=873&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=873&e=.m3u8"
     },
     {
         "channel-name": "Sony Yay Telugu",
@@ -3489,7 +3489,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=874&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=874&e=.m3u8"
     },
     {
         "channel-name": "Eurosport HD",
@@ -3498,7 +3498,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=875&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=875&e=.m3u8"
     },
     {
         "channel-name": "Times Now World",
@@ -3507,7 +3507,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=876&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=876&e=.m3u8"
     },
     {
         "channel-name": "Hare krsna",
@@ -3516,7 +3516,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=879&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=879&e=.m3u8"
     },
     {
         "channel-name": "Janta TV",
@@ -3525,7 +3525,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=880&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=880&e=.m3u8"
     },
     {
         "channel-name": "News11",
@@ -3534,7 +3534,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=882&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=882&e=.m3u8"
     },
     {
         "channel-name": "Oscar Movies",
@@ -3543,7 +3543,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=883&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=883&e=.m3u8"
     },
     {
         "channel-name": "TV5 Monde",
@@ -3552,7 +3552,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=885&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=885&e=.m3u8"
     },
     {
         "channel-name": "Lakshya TV",
@@ -3561,7 +3561,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=886&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=886&e=.m3u8"
     },
     {
         "channel-name": "Swar Shree",
@@ -3570,7 +3570,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=887&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=887&e=.m3u8"
     },
     {
         "channel-name": "Jio Sports HD",
@@ -3579,7 +3579,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=889&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=889&e=.m3u8"
     },
     {
         "channel-name": "Sony Ten 2 HD",
@@ -3588,7 +3588,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=891&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=891&e=.m3u8"
     },
     {
         "channel-name": "Sony Ten 3 HD",
@@ -3597,7 +3597,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=892&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=892&e=.m3u8"
     },
     {
         "channel-name": "KTV HD",
@@ -3606,7 +3606,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=894&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=894&e=.m3u8"
     },
     {
         "channel-name": "Sun Music HD",
@@ -3615,7 +3615,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=895&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=895&e=.m3u8"
     },
     {
         "channel-name": "Sun TV HD",
@@ -3624,7 +3624,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=896&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=896&e=.m3u8"
     },
     {
         "channel-name": "Gemini TV HD",
@@ -3633,7 +3633,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=897&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=897&e=.m3u8"
     },
     {
         "channel-name": "Gemini Music HD",
@@ -3642,7 +3642,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=898&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=898&e=.m3u8"
     },
     {
         "channel-name": "Gemini Movies HD",
@@ -3651,7 +3651,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=899&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=899&e=.m3u8"
     },
     {
         "channel-name": "Surya HD",
@@ -3660,7 +3660,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=900&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=900&e=.m3u8"
     },
     {
         "channel-name": "Udaya HD",
@@ -3669,7 +3669,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=901&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=901&e=.m3u8"
     },
     {
         "channel-name": "Only Music",
@@ -3678,7 +3678,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=903&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=903&e=.m3u8"
     },
     {
         "channel-name": "Sanjha TV",
@@ -3687,7 +3687,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=904&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=904&e=.m3u8"
     },
     {
         "channel-name": "PBN Music",
@@ -3696,7 +3696,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=905&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=905&e=.m3u8"
     },
     {
         "channel-name": "Desi Channel",
@@ -3705,7 +3705,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=906&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=906&e=.m3u8"
     },
     {
         "channel-name": "GoodNews Channel",
@@ -3714,7 +3714,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=907&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=907&e=.m3u8"
     },
     {
         "channel-name": "Indradhanu",
@@ -3723,7 +3723,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=908&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=908&e=.m3u8"
     },
     {
         "channel-name": "Media One TV",
@@ -3732,7 +3732,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=910&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=910&e=.m3u8"
     },
     {
         "channel-name": "Khabar Fast",
@@ -3741,7 +3741,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=915&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=915&e=.m3u8"
     },
     {
         "channel-name": "TV 100",
@@ -3750,7 +3750,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=916&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=916&e=.m3u8"
     },
     {
         "channel-name": "APN News",
@@ -3759,7 +3759,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=917&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=917&e=.m3u8"
     },
     {
         "channel-name": "Bharat Samachar",
@@ -3768,7 +3768,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=918&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=918&e=.m3u8"
     },
     {
         "channel-name": "Prime News",
@@ -3777,7 +3777,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=921&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=921&e=.m3u8"
     },
     {
         "channel-name": "Dighvijay TV",
@@ -3786,7 +3786,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=923&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=923&e=.m3u8"
     },
     {
         "channel-name": "Mercy TV",
@@ -3795,7 +3795,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=924&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=924&e=.m3u8"
     },
     {
         "channel-name": "A1 TV Rajasthan",
@@ -3804,7 +3804,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=926&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=926&e=.m3u8"
     },
     {
         "channel-name": "First India News",
@@ -3813,7 +3813,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=927&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=927&e=.m3u8"
     },
     {
         "channel-name": "Zee 24 Kalak",
@@ -3822,7 +3822,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=929&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=929&e=.m3u8"
     },
     {
         "channel-name": "4 TV",
@@ -3831,7 +3831,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=933&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=933&e=.m3u8"
     },
     {
         "channel-name": "Divya Vani",
@@ -3840,7 +3840,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=934&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=934&e=.m3u8"
     },
     {
         "channel-name": "News 1 India",
@@ -3849,7 +3849,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=936&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=936&e=.m3u8"
     },
     {
         "channel-name": "Sai TV",
@@ -3858,7 +3858,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=937&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=937&e=.m3u8"
     },
     {
         "channel-name": "BTV",
@@ -3867,7 +3867,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=938&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=938&e=.m3u8"
     },
     {
         "channel-name": "Bhaktisagar 2",
@@ -3876,7 +3876,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=939&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=939&e=.m3u8"
     },
     {
         "channel-name": "Mantavya News",
@@ -3885,7 +3885,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=944&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=944&e=.m3u8"
     },
     {
         "channel-name": "Pitaara",
@@ -3894,7 +3894,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=946&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=946&e=.m3u8"
     },
     {
         "channel-name": "R Plus",
@@ -3903,7 +3903,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=950&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=950&e=.m3u8"
     },
     {
         "channel-name": "Live Punjabi TV",
@@ -3912,7 +3912,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=951&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=951&e=.m3u8"
     },
     {
         "channel-name": "Garv Punjabi Gurbani",
@@ -3921,7 +3921,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=952&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=952&e=.m3u8"
     },
     {
         "channel-name": "Propex TV",
@@ -3930,7 +3930,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=953&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=953&e=.m3u8"
     },
     {
         "channel-name": "Prajaa TV",
@@ -3939,7 +3939,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=954&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=954&e=.m3u8"
     },
     {
         "channel-name": "Hindu Dharmam",
@@ -3948,7 +3948,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=955&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=955&e=.m3u8"
     },
     {
         "channel-name": "TV 5 Kannada",
@@ -3957,7 +3957,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=956&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=956&e=.m3u8"
     },
     {
         "channel-name": "INH 24x7",
@@ -3966,7 +3966,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=957&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=957&e=.m3u8"
     },
     {
         "channel-name": "DNN",
@@ -3975,7 +3975,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=958&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=958&e=.m3u8"
     },
     {
         "channel-name": "JUSPunjabi",
@@ -3984,7 +3984,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=959&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=959&e=.m3u8"
     },
     {
         "channel-name": "JUS 24x7",
@@ -3993,7 +3993,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=960&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=960&e=.m3u8"
     },
     {
         "channel-name": "JUSOne",
@@ -4002,7 +4002,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=961&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=961&e=.m3u8"
     },
     {
         "channel-name": "Boogle Bollywood",
@@ -4011,7 +4011,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=962&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=962&e=.m3u8"
     },
     {
         "channel-name": "Arre HD",
@@ -4020,7 +4020,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=963&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=963&e=.m3u8"
     },
     {
         "channel-name": "Om Shanti",
@@ -4029,7 +4029,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=964&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=964&e=.m3u8"
     },
     {
         "channel-name": "News 18 Kerala",
@@ -4038,7 +4038,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=965&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=965&e=.m3u8"
     },
     {
         "channel-name": "Prudent",
@@ -4047,7 +4047,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=966&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=966&e=.m3u8"
     },
     {
         "channel-name": "Win TV",
@@ -4056,7 +4056,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=970&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=970&e=.m3u8"
     },
     {
         "channel-name": "Vaanavil TV",
@@ -4065,7 +4065,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=971&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=971&e=.m3u8"
     },
     {
         "channel-name": "Sarv Dharam Sangam",
@@ -4074,7 +4074,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=972&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=972&e=.m3u8"
     },
     {
         "channel-name": "Jantantra",
@@ -4083,7 +4083,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=975&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=975&e=.m3u8"
     },
     {
         "channel-name": "Calvary",
@@ -4092,7 +4092,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=977&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=977&e=.m3u8"
     },
     {
         "channel-name": "TEST1 HD",
@@ -4101,7 +4101,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=978&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=978&e=.m3u8"
     },
     {
         "channel-name": "TEST2 HD",
@@ -4110,7 +4110,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=979&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=979&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 01",
@@ -4119,7 +4119,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=980&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=980&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 02",
@@ -4128,7 +4128,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=981&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=981&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 03",
@@ -4137,7 +4137,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=982&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=982&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 08",
@@ -4146,7 +4146,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=983&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=983&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 04",
@@ -4155,7 +4155,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=984&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=984&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 07",
@@ -4164,7 +4164,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=985&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=985&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 05",
@@ -4173,7 +4173,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=986&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=986&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 06",
@@ -4182,7 +4182,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=987&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=987&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 09",
@@ -4191,7 +4191,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=988&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=988&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 10",
@@ -4200,7 +4200,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=989&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=989&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 11",
@@ -4209,7 +4209,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=990&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=990&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 12",
@@ -4218,7 +4218,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=991&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=991&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 13",
@@ -4227,7 +4227,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=992&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=992&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 14",
@@ -4236,7 +4236,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=993&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=993&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 16",
@@ -4245,7 +4245,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=994&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=994&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 15",
@@ -4254,7 +4254,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=995&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=995&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 17",
@@ -4263,7 +4263,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=996&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=996&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 21",
@@ -4272,7 +4272,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=997&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=997&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 22",
@@ -4281,7 +4281,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=998&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=998&e=.m3u8"
     },
     {
         "channel-name": "Swayam Prabha 18",
@@ -4290,7 +4290,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=999&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=999&e=.m3u8"
     },
     {
         "channel-name": "TEST3 HD",
@@ -4299,7 +4299,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1059&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1059&e=.m3u8"
     },
     {
         "channel-name": "TEST4 HD",
@@ -4308,7 +4308,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1060&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1060&e=.m3u8"
     },
     {
         "channel-name": "TEST5 HD",
@@ -4317,7 +4317,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1061&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1061&e=.m3u8"
     },
     {
         "channel-name": "TEST6 HD",
@@ -4326,7 +4326,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1062&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1062&e=.m3u8"
     },
     {
         "channel-name": "TEST7 HD",
@@ -4335,7 +4335,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1063&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1063&e=.m3u8"
     },
     {
         "channel-name": "The Q",
@@ -4344,7 +4344,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1066&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1066&e=.m3u8"
     },
     {
         "channel-name": "Vande Gujarat 1",
@@ -4353,7 +4353,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1069&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1069&e=.m3u8"
     },
     {
         "channel-name": "Vande Gujarat 2",
@@ -4362,7 +4362,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1070&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1070&e=.m3u8"
     },
     {
         "channel-name": "Vande Gujarat 4",
@@ -4371,7 +4371,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1071&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1071&e=.m3u8"
     },
     {
         "channel-name": "Samara News",
@@ -4380,7 +4380,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1073&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1073&e=.m3u8"
     },
     {
         "channel-name": "Jio Cinema",
@@ -4389,7 +4389,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1074&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1074&e=.m3u8"
     },
     {
         "channel-name": "Ayush TV",
@@ -4398,7 +4398,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1075&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1075&e=.m3u8"
     },
     {
         "channel-name": "Sharnam TV",
@@ -4407,7 +4407,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1077&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1077&e=.m3u8"
     },
     {
         "channel-name": "Soham TV",
@@ -4416,7 +4416,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1078&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1078&e=.m3u8"
     },
     {
         "channel-name": "CN HD+ English",
@@ -4425,7 +4425,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1079&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1079&e=.m3u8"
     },
     {
         "channel-name": "CN HD+ Telugu",
@@ -4434,7 +4434,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1080&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1080&e=.m3u8"
     },
     {
         "channel-name": "CN HD+ Tamil",
@@ -4443,7 +4443,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1081&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1081&e=.m3u8"
     },
     {
         "channel-name": "Vande Gujarat 3",
@@ -4452,7 +4452,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1082&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1082&e=.m3u8"
     },
     {
         "channel-name": "Vande Gujarat 5",
@@ -4461,7 +4461,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1083&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1083&e=.m3u8"
     },
     {
         "channel-name": "Vande Gujarat 6",
@@ -4470,7 +4470,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1084&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1084&e=.m3u8"
     },
     {
         "channel-name": "Vande Gujarat 7",
@@ -4479,7 +4479,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1085&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1085&e=.m3u8"
     },
     {
         "channel-name": "Vande Gujarat 8",
@@ -4488,7 +4488,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1086&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1086&e=.m3u8"
     },
     {
         "channel-name": "Vande Gujarat 9",
@@ -4497,7 +4497,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1087&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1087&e=.m3u8"
     },
     {
         "channel-name": "Vande Gujarat 10",
@@ -4506,7 +4506,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1088&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1088&e=.m3u8"
     },
     {
         "channel-name": "Vande Gujarat 11",
@@ -4515,7 +4515,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1089&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1089&e=.m3u8"
     },
     {
         "channel-name": "Vande Gujarat 12",
@@ -4524,7 +4524,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1090&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1090&e=.m3u8"
     },
     {
         "channel-name": "Vande Gujarat 13",
@@ -4533,7 +4533,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1091&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1091&e=.m3u8"
     },
     {
         "channel-name": "Vande Gujarat 14",
@@ -4542,7 +4542,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1092&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1092&e=.m3u8"
     },
     {
         "channel-name": "Vande Gujarat 15",
@@ -4551,7 +4551,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1093&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1093&e=.m3u8"
     },
     {
         "channel-name": "Vande Gujarat 16",
@@ -4560,7 +4560,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1094&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1094&e=.m3u8"
     },
     {
         "channel-name": "Hamari Sanskruti",
@@ -4569,7 +4569,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1099&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1099&e=.m3u8"
     },
     {
         "channel-name": "RDX Goa",
@@ -4578,7 +4578,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1102&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1102&e=.m3u8"
     },
     {
         "channel-name": "PEACE MUSIC",
@@ -4587,7 +4587,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1103&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1103&e=.m3u8"
     },
     {
         "channel-name": "Namma TV",
@@ -4596,7 +4596,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1144&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1144&e=.m3u8"
     },
     {
         "channel-name": "MTV HD Plus",
@@ -4605,7 +4605,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1145&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1145&e=.m3u8"
     },
     {
         "channel-name": "Sony Marathi SD",
@@ -4614,7 +4614,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1146&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1146&e=.m3u8"
     },
     {
         "channel-name": "Rangamanch",
@@ -4623,7 +4623,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1151&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1151&e=.m3u8"
     },
     {
         "channel-name": "Jio Football HD",
@@ -4632,7 +4632,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1156&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1156&e=.m3u8"
     },
     {
         "channel-name": "Comedy Central HD",
@@ -4641,7 +4641,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1157&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1157&e=.m3u8"
     },
     {
         "channel-name": "Colors Infinity HD",
@@ -4650,7 +4650,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1158&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1158&e=.m3u8"
     },
     {
         "channel-name": "Tulja Bhavani",
@@ -4659,7 +4659,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1159&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1159&e=.m3u8"
     },
     {
         "channel-name": "Jio Cricket 1 HD",
@@ -4668,7 +4668,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1160&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1160&e=.m3u8"
     },
     {
         "channel-name": "Jio Cricket 2 HD",
@@ -4677,7 +4677,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1161&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1161&e=.m3u8"
     },
     {
         "channel-name": "Prime Asia HD",
@@ -4686,7 +4686,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1162&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1162&e=.m3u8"
     },
     {
         "channel-name": "JioGames HD",
@@ -4695,7 +4695,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1163&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1163&e=.m3u8"
     },
     {
         "channel-name": "Jio Football 1 HD",
@@ -4704,7 +4704,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1165&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1165&e=.m3u8"
     },
     {
         "channel-name": "Jio Cricket 3 HD",
@@ -4713,7 +4713,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1166&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1166&e=.m3u8"
     },
     {
         "channel-name": "Jio Football 2 HD",
@@ -4722,7 +4722,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1167&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1167&e=.m3u8"
     },
     {
         "channel-name": "Jio Football 3 HD",
@@ -4731,7 +4731,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1168&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1168&e=.m3u8"
     },
     {
         "channel-name": "Jio Football 4 HD",
@@ -4740,7 +4740,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1169&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1169&e=.m3u8"
     },
     {
         "channel-name": "PTC News",
@@ -4749,7 +4749,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1170&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1170&e=.m3u8"
     },
     {
         "channel-name": "PTC Punjabi",
@@ -4758,7 +4758,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1171&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1171&e=.m3u8"
     },
     {
         "channel-name": "PTC Chak De",
@@ -4767,7 +4767,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1172&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1172&e=.m3u8"
     },
     {
         "channel-name": "Fateh TV",
@@ -4776,7 +4776,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1174&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1174&e=.m3u8"
     },
     {
         "channel-name": "Awakening",
@@ -4785,7 +4785,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1175&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1175&e=.m3u8"
     },
     {
         "channel-name": "SRMD HD",
@@ -4794,7 +4794,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1176&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1176&e=.m3u8"
     },
     {
         "channel-name": "Bansal News",
@@ -4803,7 +4803,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1179&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1179&e=.m3u8"
     },
     {
         "channel-name": "Steelbird Music",
@@ -4812,7 +4812,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1184&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1184&e=.m3u8"
     },
     {
         "channel-name": "Swadesh News",
@@ -4821,7 +4821,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1185&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1185&e=.m3u8"
     },
     {
         "channel-name": "Kartavya TV",
@@ -4830,7 +4830,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1186&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1186&e=.m3u8"
     },
     {
         "channel-name": "Valam TV",
@@ -4839,7 +4839,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1187&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1187&e=.m3u8"
     },
     {
         "channel-name": "PTC DHOL TV",
@@ -4848,7 +4848,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1188&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1188&e=.m3u8"
     },
     {
         "channel-name": "PTC Music",
@@ -4857,7 +4857,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1189&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1189&e=.m3u8"
     },
     {
         "channel-name": "PTC Punjabi Gold ",
@@ -4866,7 +4866,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1190&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1190&e=.m3u8"
     },
     {
         "channel-name": "PTC Simran",
@@ -4875,7 +4875,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1191&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1191&e=.m3u8"
     },
     {
         "channel-name": "Brit Asia",
@@ -4884,7 +4884,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1192&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1192&e=.m3u8"
     },
     {
         "channel-name": "Hare Krsna Music",
@@ -4893,7 +4893,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1193&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1193&e=.m3u8"
     },
     {
         "channel-name": "Sadhguru Television HD",
@@ -4902,7 +4902,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1201&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1201&e=.m3u8"
     },
     {
         "channel-name": "ABP Ganga",
@@ -4911,7 +4911,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1205&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1205&e=.m3u8"
     },
     {
         "channel-name": "Kalaignar TV",
@@ -4920,7 +4920,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1209&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1209&e=.m3u8"
     },
     {
         "channel-name": "Kalaignar Seithigal ",
@@ -4929,7 +4929,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1210&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1210&e=.m3u8"
     },
     {
         "channel-name": "Hare Krsna Pravachan",
@@ -4938,7 +4938,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1212&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1212&e=.m3u8"
     },
     {
         "channel-name": "Highbrow",
@@ -4947,7 +4947,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1216&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1216&e=.m3u8"
     },
     {
         "channel-name": "Lord Shri Vitthal Rukmini",
@@ -4956,7 +4956,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1217&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1217&e=.m3u8"
     },
     {
         "channel-name": "Animal Planet HD Tamil",
@@ -4965,7 +4965,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1219&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1219&e=.m3u8"
     },
     {
         "channel-name": "Rajyoga TV",
@@ -4974,7 +4974,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1220&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1220&e=.m3u8"
     },
     {
         "channel-name": "Rajyoga TV Kannada",
@@ -4983,7 +4983,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1221&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1221&e=.m3u8"
     },
     {
         "channel-name": "Mandir Shri Govinddevji-Jaipur",
@@ -4992,7 +4992,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1222&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1222&e=.m3u8"
     },
     {
         "channel-name": "Dagdusheth Ganpati - Pune",
@@ -5001,7 +5001,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1223&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1223&e=.m3u8"
     },
     {
         "channel-name": "Nimbark TV",
@@ -5010,7 +5010,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1224&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1224&e=.m3u8"
     },
     {
         "channel-name": "Click Life",
@@ -5019,7 +5019,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1225&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1225&e=.m3u8"
     },
     {
         "channel-name": "Nick HD+",
@@ -5028,7 +5028,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1226&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1226&e=.m3u8"
     },
     {
         "channel-name": "Digishala",
@@ -5037,7 +5037,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1227&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1227&e=.m3u8"
     },
     {
         "channel-name": "Ambabai Temple-Kolhapur",
@@ -5046,7 +5046,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1228&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1228&e=.m3u8"
     },
     {
         "channel-name": "PTC VR",
@@ -5055,7 +5055,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1230&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1230&e=.m3u8"
     },
     {
         "channel-name": "Hi Dost!",
@@ -5064,7 +5064,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1232&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1232&e=.m3u8"
     },
     {
         "channel-name": "Jio Football Hindi HD",
@@ -5073,7 +5073,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1234&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1234&e=.m3u8"
     },
     {
         "channel-name": "Jio Football Malayalam HD",
@@ -5082,7 +5082,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1236&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1236&e=.m3u8"
     },
     {
         "channel-name": "Jio Football Bengali HD",
@@ -5091,7 +5091,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1239&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1239&e=.m3u8"
     },
     {
         "channel-name": "TEST10 HD",
@@ -5100,7 +5100,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1240&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1240&e=.m3u8"
     },
     {
         "channel-name": "God TV",
@@ -5109,7 +5109,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1241&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1241&e=.m3u8"
     },
     {
         "channel-name": "Sonic Telugu",
@@ -5118,7 +5118,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1242&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1242&e=.m3u8"
     },
     {
         "channel-name": "Sonic Kannada",
@@ -5127,7 +5127,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1243&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1243&e=.m3u8"
     },
     {
         "channel-name": "Nick Kannada",
@@ -5136,7 +5136,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1244&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1244&e=.m3u8"
     },
     {
         "channel-name": "Sakkat",
@@ -5145,7 +5145,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1245&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1245&e=.m3u8"
     },
     {
         "channel-name": "Headlines Tripura",
@@ -5154,7 +5154,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1246&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1246&e=.m3u8"
     },
     {
         "channel-name": "Bol Hadippa",
@@ -5163,7 +5163,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1248&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1248&e=.m3u8"
     },
     {
         "channel-name": "Kadak Hits",
@@ -5172,7 +5172,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1249&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1249&e=.m3u8"
     },
     {
         "channel-name": "Twenty Four News",
@@ -5181,7 +5181,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1250&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1250&e=.m3u8"
     },
     {
         "channel-name": "TV9 Bharatvarsh",
@@ -5190,7 +5190,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1251&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1251&e=.m3u8"
     },
     {
         "channel-name": "Tehzeeb TV",
@@ -5199,7 +5199,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1252&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1252&e=.m3u8"
     },
     {
         "channel-name": "Kolkata Live",
@@ -5208,7 +5208,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1253&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1253&e=.m3u8"
     },
     {
         "channel-name": "Aastha Telugu",
@@ -5217,7 +5217,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1254&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1254&e=.m3u8"
     },
     {
         "channel-name": "Aastha Tamil",
@@ -5226,7 +5226,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1255&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1255&e=.m3u8"
     },
     {
         "channel-name": "Aastha Kannada",
@@ -5235,7 +5235,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1256&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1256&e=.m3u8"
     },
     {
         "channel-name": "Ctvn Akd Plus",
@@ -5244,7 +5244,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1260&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1260&e=.m3u8"
     },
     {
         "channel-name": "Calcutta News",
@@ -5253,7 +5253,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1261&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1261&e=.m3u8"
     },
     {
         "channel-name": "Total Tv Haryana",
@@ -5262,7 +5262,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1263&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1263&e=.m3u8"
     },
     {
         "channel-name": "Kolkata TV",
@@ -5271,7 +5271,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1264&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1264&e=.m3u8"
     },
     {
         "channel-name": "Global Sanjh",
@@ -5280,7 +5280,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1265&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1265&e=.m3u8"
     },
     {
         "channel-name": "Bflix Movies",
@@ -5289,7 +5289,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1266&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1266&e=.m3u8"
     },
     {
         "channel-name": "iLove",
@@ -5298,7 +5298,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1267&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1267&e=.m3u8"
     },
     {
         "channel-name": "Sri Krishna Matha Udupi",
@@ -5307,7 +5307,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1271&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1271&e=.m3u8"
     },
     {
         "channel-name": "Jio Cricket 4 HD",
@@ -5316,7 +5316,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1272&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1272&e=.m3u8"
     },
     {
         "channel-name": "Sugran",
@@ -5325,7 +5325,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1273&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1273&e=.m3u8"
     },
     {
         "channel-name": "Studio One",
@@ -5334,7 +5334,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1274&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1274&e=.m3u8"
     },
     {
         "channel-name": "Nireekshana TV",
@@ -5343,7 +5343,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1277&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1277&e=.m3u8"
     },
     {
         "channel-name": "Prarthana Bhawan",
@@ -5352,7 +5352,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1278&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1278&e=.m3u8"
     },
     {
         "channel-name": "Manoranjan Grand",
@@ -5361,7 +5361,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1279&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1279&e=.m3u8"
     },
     {
         "channel-name": "Manoranjan TV",
@@ -5370,7 +5370,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1280&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1280&e=.m3u8"
     },
     {
         "channel-name": "Manoranjan Movies",
@@ -5379,7 +5379,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1281&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1281&e=.m3u8"
     },
     {
         "channel-name": "Khushboo TV",
@@ -5388,7 +5388,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1282&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1282&e=.m3u8"
     },
     {
         "channel-name": "Mahavir Mandir Patna",
@@ -5397,7 +5397,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1283&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1283&e=.m3u8"
     },
     {
         "channel-name": "Vignesh TV",
@@ -5406,7 +5406,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1284&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1284&e=.m3u8"
     },
     {
         "channel-name": "Insync",
@@ -5415,7 +5415,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1286&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1286&e=.m3u8"
     },
     {
         "channel-name": "ANB News",
@@ -5424,7 +5424,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1287&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1287&e=.m3u8"
     },
     {
         "channel-name": "Shri Omkareshwar Mandir",
@@ -5433,7 +5433,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1288&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1288&e=.m3u8"
     },
     {
         "channel-name": "Stars Tell",
@@ -5442,7 +5442,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1290&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1290&e=.m3u8"
     },
     {
         "channel-name": "ABP Sanjha",
@@ -5451,7 +5451,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1291&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1291&e=.m3u8"
     },
     {
         "channel-name": "Wellness",
@@ -5460,7 +5460,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1292&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1292&e=.m3u8"
     },
     {
         "channel-name": "Lokshahi News",
@@ -5469,7 +5469,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1293&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1293&e=.m3u8"
     },
     {
         "channel-name": "Eurosport",
@@ -5478,7 +5478,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1294&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1294&e=.m3u8"
     },
     {
         "channel-name": "B4U Kadak",
@@ -5487,7 +5487,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1295&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1295&e=.m3u8"
     },
     {
         "channel-name": "B4U Bhojpuri",
@@ -5496,7 +5496,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1296&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1296&e=.m3u8"
     },
     {
         "channel-name": "Manjari TV",
@@ -5505,7 +5505,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1299&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1299&e=.m3u8"
     },
     {
         "channel-name": "HHDL",
@@ -5514,7 +5514,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1315&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1315&e=.m3u8"
     },
     {
         "channel-name": "Takht Sri Patna Sahib - Patna",
@@ -5523,7 +5523,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1317&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1317&e=.m3u8"
     },
     {
         "channel-name": "Zee Cafe HD",
@@ -5532,7 +5532,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1319&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1319&e=.m3u8"
     },
     {
         "channel-name": "VH1 HD",
@@ -5541,7 +5541,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1320&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1320&e=.m3u8"
     },
     {
         "channel-name": "&Flix HD",
@@ -5550,7 +5550,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1322&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1322&e=.m3u8"
     },
     {
         "channel-name": "Colors Gujarati Cinema",
@@ -5559,7 +5559,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1324&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1324&e=.m3u8"
     },
     {
         "channel-name": "Colors Infinity SD",
@@ -5568,7 +5568,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1325&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1325&e=.m3u8"
     },
     {
         "channel-name": "Colors Marathi SD",
@@ -5577,7 +5577,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1326&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1326&e=.m3u8"
     },
     {
         "channel-name": "Comedy Central SD",
@@ -5586,7 +5586,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1327&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1327&e=.m3u8"
     },
     {
         "channel-name": "DD Arunprabha",
@@ -5595,7 +5595,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1328&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1328&e=.m3u8"
     },
     {
         "channel-name": "DD Gyandarshan",
@@ -5604,7 +5604,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1329&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1329&e=.m3u8"
     },
     {
         "channel-name": "Top Tutor",
@@ -5613,7 +5613,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1337&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1337&e=.m3u8"
     },
     {
         "channel-name": "RT TV",
@@ -5622,7 +5622,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1338&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1338&e=.m3u8"
     },
     {
         "channel-name": "Nick Malayalam",
@@ -5631,7 +5631,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1340&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1340&e=.m3u8"
     },
     {
         "channel-name": "Nick Bangla",
@@ -5640,7 +5640,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1341&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1341&e=.m3u8"
     },
     {
         "channel-name": "Nick Marathi",
@@ -5649,7 +5649,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1342&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1342&e=.m3u8"
     },
     {
         "channel-name": "Sonic Malayalam",
@@ -5658,7 +5658,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1344&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1344&e=.m3u8"
     },
     {
         "channel-name": "Sonic Bangla",
@@ -5667,7 +5667,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1345&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1345&e=.m3u8"
     },
     {
         "channel-name": "Sonic Marathi",
@@ -5676,7 +5676,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1346&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1346&e=.m3u8"
     },
     {
         "channel-name": "And Prive HD",
@@ -5685,7 +5685,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1349&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1349&e=.m3u8"
     },
     {
         "channel-name": "Zee TV",
@@ -5694,7 +5694,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1351&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1351&e=.m3u8"
     },
     {
         "channel-name": "Zee Telugu HD",
@@ -5703,7 +5703,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1354&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1354&e=.m3u8"
     },
     {
         "channel-name": "Zee Tamil HD",
@@ -5712,7 +5712,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1356&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1356&e=.m3u8"
     },
     {
         "channel-name": "Zee Talkies HD ",
@@ -5721,7 +5721,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1358&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1358&e=.m3u8"
     },
     {
         "channel-name": "Big Magic",
@@ -5730,7 +5730,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1359&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1359&e=.m3u8"
     },
     {
         "channel-name": "Zee Marathi HD",
@@ -5739,7 +5739,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1360&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1360&e=.m3u8"
     },
     {
         "channel-name": "Zee Kannada HD",
@@ -5748,7 +5748,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1362&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1362&e=.m3u8"
     },
     {
         "channel-name": "Zee Cinemalu HD",
@@ -5757,7 +5757,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1363&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1363&e=.m3u8"
     },
     {
         "channel-name": "Colors SD",
@@ -5766,7 +5766,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1368&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1368&e=.m3u8"
     },
     {
         "channel-name": "Colors Bangla SD",
@@ -5775,7 +5775,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1369&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1369&e=.m3u8"
     },
     {
         "channel-name": "Colors Kannada SD",
@@ -5784,7 +5784,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1370&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1370&e=.m3u8"
     },
     {
         "channel-name": "Colors Tamil",
@@ -5793,7 +5793,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1371&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1371&e=.m3u8"
     },
     {
         "channel-name": "VH1",
@@ -5802,7 +5802,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1378&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1378&e=.m3u8"
     },
     {
         "channel-name": "Sony Wah",
@@ -5811,7 +5811,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1393&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1393&e=.m3u8"
     },
     {
         "channel-name": "Set SD",
@@ -5820,7 +5820,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1396&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1396&e=.m3u8"
     },
     {
         "channel-name": "MTV Beats SD",
@@ -5829,7 +5829,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1400&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1400&e=.m3u8"
     },
     {
         "channel-name": "Republic Bharat",
@@ -5838,7 +5838,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1403&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1403&e=.m3u8"
     },
     {
         "channel-name": "NHK World Japan",
@@ -5847,7 +5847,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1405&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1405&e=.m3u8"
     },
     {
         "channel-name": "Sai Leela",
@@ -5856,7 +5856,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1407&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1407&e=.m3u8"
     },
     {
         "channel-name": "Reporter TV",
@@ -5865,7 +5865,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1408&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1408&e=.m3u8"
     },
     {
         "channel-name": "PM e Vidya 11",
@@ -5874,7 +5874,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1410&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1410&e=.m3u8"
     },
     {
         "channel-name": "SongDew TV",
@@ -5883,7 +5883,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1411&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1411&e=.m3u8"
     },
     {
         "channel-name": "Shani Shingnapur",
@@ -5892,7 +5892,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1412&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1412&e=.m3u8"
     },
     {
         "channel-name": "Prati Shirdi Saibaba",
@@ -5901,7 +5901,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1414&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1414&e=.m3u8"
     },
     {
         "channel-name": "Ganga Darshan Varanasi",
@@ -5910,7 +5910,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1415&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1415&e=.m3u8"
     },
     {
         "channel-name": "SVBC2",
@@ -5919,7 +5919,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1417&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1417&e=.m3u8"
     },
     {
         "channel-name": "Ichhapuran Balaji Rajasthan",
@@ -5928,7 +5928,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1418&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1418&e=.m3u8"
     },
     {
         "channel-name": "Iskon Girgaon",
@@ -5937,7 +5937,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1419&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1419&e=.m3u8"
     },
     {
         "channel-name": "Ashtavinayak Ranjangaon",
@@ -5946,7 +5946,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1420&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1420&e=.m3u8"
     },
     {
         "channel-name": "Karani Mata Rajasthan",
@@ -5955,7 +5955,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1421&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1421&e=.m3u8"
     },
     {
         "channel-name": "Mahalaxmi Mumbai",
@@ -5964,7 +5964,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1422&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1422&e=.m3u8"
     },
     {
         "channel-name": "Babulnaath Mumbai",
@@ -5973,7 +5973,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1423&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1423&e=.m3u8"
     },
     {
         "channel-name": "Mumbadevi Mumbai",
@@ -5982,7 +5982,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1424&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1424&e=.m3u8"
     },
     {
         "channel-name": "1Sports",
@@ -5991,7 +5991,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1425&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1425&e=.m3u8"
     },
     {
         "channel-name": "Santvani",
@@ -6000,7 +6000,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1426&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1426&e=.m3u8"
     },
     {
         "channel-name": "Nandighosha",
@@ -6009,7 +6009,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1427&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1427&e=.m3u8"
     },
     {
         "channel-name": "Gyan Brikshya",
@@ -6018,7 +6018,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1428&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1428&e=.m3u8"
     },
     {
         "channel-name": "KITE VICTERS",
@@ -6027,7 +6027,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1429&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1429&e=.m3u8"
     },
     {
         "channel-name": "Jio KIDS",
@@ -6036,7 +6036,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1430&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1430&e=.m3u8"
     },
     {
         "channel-name": "TIME8",
@@ -6045,7 +6045,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1432&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1432&e=.m3u8"
     },
     {
         "channel-name": "India Science",
@@ -6054,7 +6054,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1433&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1433&e=.m3u8"
     },
     {
         "channel-name": "Utkarsh Primary",
@@ -6063,7 +6063,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1434&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1434&e=.m3u8"
     },
     {
         "channel-name": "Utkarsh HSBTE",
@@ -6072,7 +6072,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1435&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1435&e=.m3u8"
     },
     {
         "channel-name": "Utkarsh Secondary",
@@ -6081,7 +6081,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1436&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1436&e=.m3u8"
     },
     {
         "channel-name": "Utkarsh Higher",
@@ -6090,7 +6090,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1437&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1437&e=.m3u8"
     },
     {
         "channel-name": "Velukkudi Discourses",
@@ -6099,7 +6099,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1438&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1438&e=.m3u8"
     },
     {
         "channel-name": "Krishna Vani",
@@ -6108,7 +6108,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1440&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1440&e=.m3u8"
     },
     {
         "channel-name": "Wah Punjabi",
@@ -6117,7 +6117,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1441&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1441&e=.m3u8"
     },
     {
         "channel-name": "YTV India",
@@ -6126,7 +6126,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1444&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1444&e=.m3u8"
     },
     {
         "channel-name": "TV Teacher",
@@ -6135,7 +6135,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1447&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1447&e=.m3u8"
     },
     {
         "channel-name": "Parmarth TV",
@@ -6144,7 +6144,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1449&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1449&e=.m3u8"
     },
     {
         "channel-name": "Colors Cineplex Superhit",
@@ -6153,7 +6153,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1450&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1450&e=.m3u8"
     },
     {
         "channel-name": "9 Bharat Samachar",
@@ -6162,7 +6162,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1451&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1451&e=.m3u8"
     },
     {
         "channel-name": "Shemaroo MarathiBana",
@@ -6171,7 +6171,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1452&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1452&e=.m3u8"
     },
     {
         "channel-name": "Balle Balle TV",
@@ -6180,7 +6180,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1453&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1453&e=.m3u8"
     },
     {
         "channel-name": "Shiksha TV",
@@ -6189,7 +6189,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1454&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1454&e=.m3u8"
     },
     {
         "channel-name": "Janapriyam",
@@ -6198,7 +6198,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1455&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1455&e=.m3u8"
     },
     {
         "channel-name": "Lairik",
@@ -6207,7 +6207,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1456&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1456&e=.m3u8"
     },
     {
         "channel-name": "News Only",
@@ -6216,7 +6216,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1457&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1457&e=.m3u8"
     },
     {
         "channel-name": "Gurkibani",
@@ -6225,7 +6225,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1458&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1458&e=.m3u8"
     },
     {
         "channel-name": "Home Learning Gujarat Standard-9",
@@ -6234,7 +6234,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1460&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1460&e=.m3u8"
     },
     {
         "channel-name": "Shree Ganesh - Moti Doongri Jaipur",
@@ -6243,7 +6243,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1463&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1463&e=.m3u8"
     },
     {
         "channel-name": "Daijiworld TV 24x7",
@@ -6252,7 +6252,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1464&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1464&e=.m3u8"
     },
     {
         "channel-name": "History TV18 SD",
@@ -6261,7 +6261,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1471&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1471&e=.m3u8"
     },
     {
         "channel-name": "TEST11 HD",
@@ -6270,7 +6270,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1475&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1475&e=.m3u8"
     },
     {
         "channel-name": "TEST12 HD",
@@ -6279,7 +6279,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1476&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1476&e=.m3u8"
     },
     {
         "channel-name": "Colors Cineplex HD",
@@ -6288,7 +6288,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1477&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1477&e=.m3u8"
     },
     {
         "channel-name": "Akal Academy Group",
@@ -6297,7 +6297,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1478&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1478&e=.m3u8"
     },
     {
         "channel-name": "Shri Jain Nakoda Parshwanath Tirth",
@@ -6306,7 +6306,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1479&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1479&e=.m3u8"
     },
     {
         "channel-name": "Argus News",
@@ -6315,7 +6315,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1481&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1481&e=.m3u8"
     },
     {
         "channel-name": "AMMA TV",
@@ -6324,7 +6324,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1482&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1482&e=.m3u8"
     },
     {
         "channel-name": "BHOOMI 24x7",
@@ -6333,7 +6333,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1494&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1494&e=.m3u8"
     },
     {
         "channel-name": "Kannur One",
@@ -6342,7 +6342,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1514&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1514&e=.m3u8"
     },
     {
         "channel-name": "News J",
@@ -6351,7 +6351,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1515&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1515&e=.m3u8"
     },
     {
         "channel-name": "Moon TV",
@@ -6360,7 +6360,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1518&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1518&e=.m3u8"
     },
     {
         "channel-name": "Birla Brainiacs",
@@ -6369,7 +6369,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1521&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1521&e=.m3u8"
     },
     {
         "channel-name": "TEST13 HD",
@@ -6378,7 +6378,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1525&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1525&e=.m3u8"
     },
     {
         "channel-name": "Vedant TV",
@@ -6387,7 +6387,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1526&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1526&e=.m3u8"
     },
     {
         "channel-name": "Haryanvi Hits",
@@ -6396,7 +6396,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1527&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1527&e=.m3u8"
     },
     {
         "channel-name": "Network 10",
@@ -6405,7 +6405,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1528&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1528&e=.m3u8"
     },
     {
         "channel-name": "MI TV",
@@ -6414,7 +6414,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1529&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1529&e=.m3u8"
     },
     {
         "channel-name": "Sony Pix SD",
@@ -6423,7 +6423,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1530&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1530&e=.m3u8"
     },
     {
         "channel-name": "Gyanvani 1",
@@ -6432,7 +6432,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1531&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1531&e=.m3u8"
     },
     {
         "channel-name": "PM e Vidya 12",
@@ -6441,7 +6441,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1532&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1532&e=.m3u8"
     },
     {
         "channel-name": "World  Punjabi",
@@ -6450,7 +6450,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1534&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1534&e=.m3u8"
     },
     {
         "channel-name": "RadheKrishna TV",
@@ -6459,7 +6459,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1537&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1537&e=.m3u8"
     },
     {
         "channel-name": "Samachar Today",
@@ -6468,7 +6468,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1538&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1538&e=.m3u8"
     },
     {
         "channel-name": "Sangat TV",
@@ -6477,7 +6477,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1539&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1539&e=.m3u8"
     },
     {
         "channel-name": "Tute",
@@ -6486,7 +6486,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1542&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1542&e=.m3u8"
     },
     {
         "channel-name": "Subharti",
@@ -6495,7 +6495,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1543&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1543&e=.m3u8"
     },
     {
         "channel-name": "Punjab School TV",
@@ -6504,7 +6504,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1545&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1545&e=.m3u8"
     },
     {
         "channel-name": "AAS Vidyalaya CBSE NCERT",
@@ -6513,7 +6513,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1547&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1547&e=.m3u8"
     },
     {
         "channel-name": "Khandoba Majha, Jejuri",
@@ -6522,7 +6522,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1548&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1548&e=.m3u8"
     },
     {
         "channel-name": "Dharm Granth TV",
@@ -6531,7 +6531,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1549&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1549&e=.m3u8"
     },
     {
         "channel-name": "AB News",
@@ -6540,7 +6540,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1550&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1550&e=.m3u8"
     },
     {
         "channel-name": "P News",
@@ -6549,7 +6549,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1551&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1551&e=.m3u8"
     },
     {
         "channel-name": "Malanadu TV",
@@ -6558,7 +6558,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1552&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1552&e=.m3u8"
     },
     {
         "channel-name": "AB Star News",
@@ -6567,7 +6567,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1553&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1553&e=.m3u8"
     },
     {
         "channel-name": "Sanatan TV",
@@ -6576,7 +6576,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1554&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1554&e=.m3u8"
     },
     {
         "channel-name": "News First",
@@ -6585,7 +6585,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1555&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1555&e=.m3u8"
     },
     {
         "channel-name": "Express TV",
@@ -6594,7 +6594,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1557&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1557&e=.m3u8"
     },
     {
         "channel-name": "Jigyasa TV",
@@ -6603,7 +6603,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1559&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1559&e=.m3u8"
     },
     {
         "channel-name": "35mm",
@@ -6612,7 +6612,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1560&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1560&e=.m3u8"
     },
     {
         "channel-name": "Sristi TV",
@@ -6621,7 +6621,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1561&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1561&e=.m3u8"
     },
     {
         "channel-name": "Himshiksha Elementary",
@@ -6630,7 +6630,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1562&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1562&e=.m3u8"
     },
     {
         "channel-name": "Himshiksha Higher",
@@ -6639,7 +6639,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1563&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1563&e=.m3u8"
     },
     {
         "channel-name": "Himshiksha Vocational",
@@ -6648,7 +6648,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1564&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1564&e=.m3u8"
     },
     {
         "channel-name": "AP-BIE-ARTS",
@@ -6657,7 +6657,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1565&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1565&e=.m3u8"
     },
     {
         "channel-name": "AP-BIE-SCIENCE",
@@ -6666,7 +6666,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1566&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1566&e=.m3u8"
     },
     {
         "channel-name": "AP-CIE-SIVE",
@@ -6675,7 +6675,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1567&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1567&e=.m3u8"
     },
     {
         "channel-name": "Atmadarshan TV",
@@ -6684,7 +6684,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1568&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1568&e=.m3u8"
     },
     {
         "channel-name": "Sanskrit",
@@ -6693,7 +6693,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1590&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1590&e=.m3u8"
     },
     {
         "channel-name": "Lokmanch News",
@@ -6702,7 +6702,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1592&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1592&e=.m3u8"
     },
     {
         "channel-name": "Lifology",
@@ -6711,7 +6711,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1593&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1593&e=.m3u8"
     },
     {
         "channel-name": "Samachar 24",
@@ -6720,7 +6720,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1594&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1594&e=.m3u8"
     },
     {
         "channel-name": "HITS HD",
@@ -6729,7 +6729,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1603&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1603&e=.m3u8"
     },
     {
         "channel-name": "Bangla Bhakti",
@@ -6738,7 +6738,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1605&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1605&e=.m3u8"
     },
     {
         "channel-name": "Ken TV Keralam",
@@ -6747,7 +6747,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1606&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1606&e=.m3u8"
     },
     {
         "channel-name": "Manav Dharam",
@@ -6756,7 +6756,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1607&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1607&e=.m3u8"
     },
     {
         "channel-name": "MP News",
@@ -6765,7 +6765,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1608&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1608&e=.m3u8"
     },
     {
         "channel-name": "Ishvani TV",
@@ -6774,7 +6774,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1609&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1609&e=.m3u8"
     },
     {
         "channel-name": "Divyang News",
@@ -6783,7 +6783,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1610&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1610&e=.m3u8"
     },
     {
         "channel-name": "Tara TV",
@@ -6792,7 +6792,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1612&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1612&e=.m3u8"
     },
     {
         "channel-name": "Medha Secondary",
@@ -6801,7 +6801,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1613&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1613&e=.m3u8"
     },
     {
         "channel-name": "Omnicuris",
@@ -6810,7 +6810,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1614&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1614&e=.m3u8"
     },
     {
         "channel-name": "India Ahead",
@@ -6819,7 +6819,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1617&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1617&e=.m3u8"
     },
     {
         "channel-name": "Real News Kerala",
@@ -6828,7 +6828,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1618&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1618&e=.m3u8"
     },
     {
         "channel-name": "Colors Kannada Cinema",
@@ -6837,7 +6837,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1632&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1632&e=.m3u8"
     },
     {
         "channel-name": "Siri Kannada",
@@ -6846,7 +6846,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1634&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1634&e=.m3u8"
     },
     {
         "channel-name": "Zee Keralam HD",
@@ -6855,7 +6855,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1641&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1641&e=.m3u8"
     },
     {
         "channel-name": "Harvest TV 24x7",
@@ -6864,7 +6864,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1643&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1643&e=.m3u8"
     },
     {
         "channel-name": "Madha TV",
@@ -6873,7 +6873,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1655&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1655&e=.m3u8"
     },
     {
         "channel-name": "Colors Bangla Cinema",
@@ -6882,7 +6882,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1657&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1657&e=.m3u8"
     },
     {
         "channel-name": "Aalami Samay",
@@ -6891,7 +6891,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1658&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1658&e=.m3u8"
     },
     {
         "channel-name": "Surya Comedy",
@@ -6900,7 +6900,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1662&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1662&e=.m3u8"
     },
     {
         "channel-name": "Rongeen TV",
@@ -6909,7 +6909,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1667&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1667&e=.m3u8"
     },
     {
         "channel-name": "Sun Bangla",
@@ -6918,7 +6918,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1669&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1669&e=.m3u8"
     },
     {
         "channel-name": "C News Bharat",
@@ -6927,7 +6927,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1670&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1670&e=.m3u8"
     },
     {
         "channel-name": "Gyanvani 2",
@@ -6936,7 +6936,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1672&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1672&e=.m3u8"
     },
     {
         "channel-name": "PTD Chhattisgarrh",
@@ -6945,7 +6945,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1673&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1673&e=.m3u8"
     },
     {
         "channel-name": "ESG TV",
@@ -6954,7 +6954,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1675&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1675&e=.m3u8"
     },
     {
         "channel-name": "BVTV",
@@ -6963,7 +6963,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1690&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1690&e=.m3u8"
     },
     {
         "channel-name": "Zee Classic",
@@ -6972,7 +6972,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1691&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1691&e=.m3u8"
     },
     {
         "channel-name": "Badakhabar",
@@ -6981,7 +6981,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1692&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1692&e=.m3u8"
     },
     {
         "channel-name": "Haryana Beats",
@@ -6990,7 +6990,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1694&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1694&e=.m3u8"
     },
     {
         "channel-name": "Prime TV",
@@ -6999,7 +6999,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1695&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1695&e=.m3u8"
     },
     {
         "channel-name": "SSV TV",
@@ -7008,7 +7008,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1696&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1696&e=.m3u8"
     },
     {
         "channel-name": "FM News",
@@ -7017,7 +7017,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1697&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1697&e=.m3u8"
     },
     {
         "channel-name": "IND 24",
@@ -7026,7 +7026,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1698&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1698&e=.m3u8"
     },
     {
         "channel-name": "ANN News",
@@ -7035,7 +7035,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1699&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1699&e=.m3u8"
     },
     {
         "channel-name": "Shri Hingulambika Devi Temple",
@@ -7044,7 +7044,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1705&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1705&e=.m3u8"
     },
     {
         "channel-name": "Shri Mangal Dev Grah Temple",
@@ -7053,7 +7053,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1706&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1706&e=.m3u8"
     },
     {
         "channel-name": "SKY 12",
@@ -7062,7 +7062,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1708&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1708&e=.m3u8"
     },
     {
         "channel-name": "24Hrs TV",
@@ -7071,7 +7071,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1725&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1725&e=.m3u8"
     },
     {
         "channel-name": "Anaadi TV",
@@ -7080,7 +7080,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1728&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1728&e=.m3u8"
     },
     {
         "channel-name": "Live 7",
@@ -7089,7 +7089,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1729&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1729&e=.m3u8"
     },
     {
         "channel-name": "Luv Punjab TV",
@@ -7098,7 +7098,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1730&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1730&e=.m3u8"
     },
     {
         "channel-name": "N5TV",
@@ -7107,7 +7107,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1731&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1731&e=.m3u8"
     },
     {
         "channel-name": "ND 24",
@@ -7116,7 +7116,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1733&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1733&e=.m3u8"
     },
     {
         "channel-name": "Ek Onkar",
@@ -7125,7 +7125,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1734&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1734&e=.m3u8"
     },
     {
         "channel-name": "TV9 Bangla",
@@ -7134,7 +7134,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1735&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1735&e=.m3u8"
     },
     {
         "channel-name": "LUXE TV HD",
@@ -7143,7 +7143,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1736&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1736&e=.m3u8"
     },
     {
         "channel-name": "Hosanna TV",
@@ -7152,7 +7152,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1738&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1738&e=.m3u8"
     },
     {
         "channel-name": "JKAC News",
@@ -7161,7 +7161,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1739&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1739&e=.m3u8"
     },
     {
         "channel-name": "Purnima TV",
@@ -7170,7 +7170,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1740&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1740&e=.m3u8"
     },
     {
         "channel-name": "Bharat AtoZ",
@@ -7179,7 +7179,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1741&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1741&e=.m3u8"
     },
     {
         "channel-name": "Sanskrit Ganga",
@@ -7188,7 +7188,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1742&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1742&e=.m3u8"
     },
     {
         "channel-name": "Hornbill TV",
@@ -7197,7 +7197,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1743&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1743&e=.m3u8"
     },
     {
         "channel-name": "Zee Picchar HD",
@@ -7206,7 +7206,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1746&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1746&e=.m3u8"
     },
     {
         "channel-name": "India News Gujarat",
@@ -7215,7 +7215,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1747&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1747&e=.m3u8"
     },
     {
         "channel-name": "Zee Punjabi",
@@ -7224,7 +7224,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1751&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1751&e=.m3u8"
     },
     {
         "channel-name": "Surya Movies",
@@ -7233,7 +7233,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1754&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1754&e=.m3u8"
     },
     {
         "channel-name": "TTV News",
@@ -7242,7 +7242,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1755&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1755&e=.m3u8"
     },
     {
         "channel-name": "NK TV Plus",
@@ -7251,7 +7251,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1757&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1757&e=.m3u8"
     },
     {
         "channel-name": "DPK News",
@@ -7260,7 +7260,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1758&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1758&e=.m3u8"
     },
     {
         "channel-name": "Buletin India",
@@ -7269,7 +7269,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1759&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1759&e=.m3u8"
     },
     {
         "channel-name": "Aryan TV National",
@@ -7278,7 +7278,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1761&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1761&e=.m3u8"
     },
     {
         "channel-name": "Channel Vision",
@@ -7287,7 +7287,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1762&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1762&e=.m3u8"
     },
     {
         "channel-name": "Colors Cineplex Bollywood",
@@ -7296,7 +7296,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1763&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1763&e=.m3u8"
     },
     {
         "channel-name": "Dada Bhagwan Foundation",
@@ -7305,7 +7305,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1764&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1764&e=.m3u8"
     },
     {
         "channel-name": "Doinandin",
@@ -7314,7 +7314,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1765&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1765&e=.m3u8"
     },
     {
         "channel-name": "Zorins TV",
@@ -7323,7 +7323,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1766&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1766&e=.m3u8"
     },
     {
         "channel-name": "Naaptol",
@@ -7332,7 +7332,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1768&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1768&e=.m3u8"
     },
     {
         "channel-name": "LWA",
@@ -7341,7 +7341,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1769&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1769&e=.m3u8"
     },
     {
         "channel-name": "Express News",
@@ -7350,7 +7350,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1771&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1771&e=.m3u8"
     },
     {
         "channel-name": "Sony Ten 4 HD Tamil",
@@ -7359,7 +7359,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1772&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1772&e=.m3u8"
     },
     {
         "channel-name": "Sony Ten 4 HD Telugu",
@@ -7368,7 +7368,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1773&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1773&e=.m3u8"
     },
     {
         "channel-name": "Sony Ten 4 Tamil",
@@ -7377,7 +7377,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1774&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1774&e=.m3u8"
     },
     {
         "channel-name": "Sony Ten 4 Telugu",
@@ -7386,7 +7386,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1775&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1775&e=.m3u8"
     },
     {
         "channel-name": "Bharat News TV",
@@ -7395,7 +7395,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1777&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1777&e=.m3u8"
     },
     {
         "channel-name": "HooplaKidz TV",
@@ -7404,7 +7404,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1780&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1780&e=.m3u8"
     },
     {
         "channel-name": "Samachar Express TV",
@@ -7413,7 +7413,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1786&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1786&e=.m3u8"
     },
     {
         "channel-name": "VISVAS",
@@ -7422,7 +7422,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1787&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1787&e=.m3u8"
     },
     {
         "channel-name": "Yeshuaa TV",
@@ -7431,7 +7431,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1788&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1788&e=.m3u8"
     },
     {
         "channel-name": "Dada Bhagwan Foundation Gujarati",
@@ -7440,7 +7440,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1789&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1789&e=.m3u8"
     },
     {
         "channel-name": "VR Live",
@@ -7449,7 +7449,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1790&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1790&e=.m3u8"
     },
     {
         "channel-name": "KP News 24x7",
@@ -7458,7 +7458,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1791&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1791&e=.m3u8"
     },
     {
         "channel-name": "Sattaxpress News",
@@ -7467,7 +7467,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1793&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1793&e=.m3u8"
     },
     {
         "channel-name": "Mangalmay Live",
@@ -7476,7 +7476,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1794&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1794&e=.m3u8"
     },
     {
         "channel-name": "Shri Amarnathji Shrine Board",
@@ -7485,7 +7485,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1795&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1795&e=.m3u8"
     },
     {
         "channel-name": "Ananda Barta",
@@ -7494,7 +7494,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1796&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1796&e=.m3u8"
     },
     {
         "channel-name": "Pasand",
@@ -7503,7 +7503,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1798&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1798&e=.m3u8"
     },
     {
         "channel-name": "Studio Yuva Alpha",
@@ -7512,7 +7512,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1799&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1799&e=.m3u8"
     },
     {
         "channel-name": "News World India",
@@ -7521,7 +7521,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1802&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1802&e=.m3u8"
     },
     {
         "channel-name": "Jan Setu News",
@@ -7530,7 +7530,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1804&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1804&e=.m3u8"
     },
     {
         "channel-name": "Jio Football 5 HD",
@@ -7539,7 +7539,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1813&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1813&e=.m3u8"
     },
     {
         "channel-name": "Jio Football 6 HD",
@@ -7548,7 +7548,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1814&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1814&e=.m3u8"
     },
     {
         "channel-name": "DTV Bharat",
@@ -7557,7 +7557,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1816&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1816&e=.m3u8"
     },
     {
         "channel-name": "NEWS 24 MPCG",
@@ -7566,7 +7566,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1817&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1817&e=.m3u8"
     },
     {
         "channel-name": "Jio Football 7 HD",
@@ -7575,7 +7575,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1823&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1823&e=.m3u8"
     },
     {
         "channel-name": "Jio Football 8 HD",
@@ -7584,7 +7584,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1824&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1824&e=.m3u8"
     },
     {
         "channel-name": "Swaralasika Sangeetalaya",
@@ -7593,7 +7593,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1826&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1826&e=.m3u8"
     },
     {
         "channel-name": "Aakash EduTV NEET",
@@ -7602,7 +7602,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1827&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1827&e=.m3u8"
     },
     {
         "channel-name": "Green Chillies",
@@ -7611,7 +7611,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1834&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1834&e=.m3u8"
     },
     {
         "channel-name": "Sadhna Bhakti",
@@ -7620,7 +7620,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1838&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1838&e=.m3u8"
     },
     {
         "channel-name": "And Pictures",
@@ -7629,7 +7629,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1839&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1839&e=.m3u8"
     },
     {
         "channel-name": "Z10 TV",
@@ -7638,7 +7638,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1847&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1847&e=.m3u8"
     },
     {
         "channel-name": "AAS Vidyalaya State Boards",
@@ -7647,7 +7647,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1848&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1848&e=.m3u8"
     },
     {
         "channel-name": "India At Dubai Expo",
@@ -7656,7 +7656,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1849&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1849&e=.m3u8"
     },
     {
         "channel-name": "SVBC",
@@ -7665,7 +7665,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1850&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1850&e=.m3u8"
     },
     {
         "channel-name": "Aakash EduTV JEE",
@@ -7674,7 +7674,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1851&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1851&e=.m3u8"
     },
     {
         "channel-name": "News11 Bharat",
@@ -7683,7 +7683,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1853&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1853&e=.m3u8"
     },
     {
         "channel-name": "STV Haryana News",
@@ -7692,7 +7692,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1854&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1854&e=.m3u8"
     },
     {
         "channel-name": "NL TV",
@@ -7701,7 +7701,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1855&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1855&e=.m3u8"
     },
     {
         "channel-name": "Pratham Khabar 24x7",
@@ -7710,7 +7710,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1856&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1856&e=.m3u8"
     },
     {
         "channel-name": "SVBC3",
@@ -7719,7 +7719,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1858&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1858&e=.m3u8"
     },
     {
         "channel-name": "SVBC4",
@@ -7728,7 +7728,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1859&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1859&e=.m3u8"
     },
     {
         "channel-name": "Punjab Plus",
@@ -7737,7 +7737,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1868&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1868&e=.m3u8"
     },
     {
         "channel-name": "7X Music",
@@ -7746,7 +7746,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1871&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1871&e=.m3u8"
     },
     {
         "channel-name": "DreamWorks",
@@ -7755,7 +7755,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1872&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1872&e=.m3u8"
     },
     {
         "channel-name": "E!",
@@ -7764,7 +7764,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1881&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1881&e=.m3u8"
     },
     {
         "channel-name": "TEST15 HD",
@@ -7773,7 +7773,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1882&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1882&e=.m3u8"
     },
     {
         "channel-name": "Pogo Telugu",
@@ -7782,7 +7782,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1883&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1883&e=.m3u8"
     },
     {
         "channel-name": "Kripa TV",
@@ -7791,7 +7791,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1885&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1885&e=.m3u8"
     },
     {
         "channel-name": "Sansad TV Rajya Sabha",
@@ -7800,7 +7800,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1886&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1886&e=.m3u8"
     },
     {
         "channel-name": "Jio Sports 1 HD",
@@ -7809,7 +7809,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1889&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1889&e=.m3u8"
     },
     {
         "channel-name": "Jio Sports 2 HD",
@@ -7818,7 +7818,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1890&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1890&e=.m3u8"
     },
     {
         "channel-name": "Tribe TV",
@@ -7827,7 +7827,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1891&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1891&e=.m3u8"
     },
     {
         "channel-name": "Padhega Bharat",
@@ -7836,7 +7836,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1894&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1894&e=.m3u8"
     },
     {
         "channel-name": "Today 24 News",
@@ -7845,7 +7845,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1895&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1895&e=.m3u8"
     },
     {
         "channel-name": "News Flash",
@@ -7854,7 +7854,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1896&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1896&e=.m3u8"
     },
     {
         "channel-name": "Pulse 24",
@@ -7863,7 +7863,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1897&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1897&e=.m3u8"
     },
     {
         "channel-name": "GBN24",
@@ -7872,7 +7872,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1898&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1898&e=.m3u8"
     },
     {
         "channel-name": "VK News",
@@ -7881,7 +7881,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1899&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1899&e=.m3u8"
     },
     {
         "channel-name": "Express News Bharat",
@@ -7890,7 +7890,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1900&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1900&e=.m3u8"
     },
     {
         "channel-name": "Adhyatam TV",
@@ -7899,7 +7899,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1901&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1901&e=.m3u8"
     },
     {
         "channel-name": "Aaj Ki Baat Gujarati",
@@ -7908,7 +7908,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1903&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1903&e=.m3u8"
     },
     {
         "channel-name": "Times Now Navbharat",
@@ -7917,7 +7917,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1906&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1906&e=.m3u8"
     },
     {
         "channel-name": "ET Now Swadesh",
@@ -7926,7 +7926,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1907&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1907&e=.m3u8"
     },
     {
         "channel-name": "Jio Cricket English HD",
@@ -7935,7 +7935,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1918&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1918&e=.m3u8"
     },
     {
         "channel-name": "The Q Kahaniyan",
@@ -7944,7 +7944,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1920&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1920&e=.m3u8"
     },
     {
         "channel-name": "MH1 Dil Se",
@@ -7953,7 +7953,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1925&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1925&e=.m3u8"
     },
     {
         "channel-name": "Sanskriti 24x7",
@@ -7962,7 +7962,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1926&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1926&e=.m3u8"
     },
     {
         "channel-name": "Shri Trimbakeshwar Devasthan Trust",
@@ -7971,7 +7971,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1933&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1933&e=.m3u8"
     },
     {
         "channel-name": "News Tamil 24x7",
@@ -7980,7 +7980,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1954&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1954&e=.m3u8"
     },
     {
         "channel-name": "Foodxp",
@@ -7989,7 +7989,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1955&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1955&e=.m3u8"
     },
     {
         "channel-name": "Sidharth TV",
@@ -7998,7 +7998,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1956&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1956&e=.m3u8"
     },
     {
         "channel-name": "Sidharth Gold",
@@ -8007,7 +8007,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1957&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1957&e=.m3u8"
     },
     {
         "channel-name": "Sidharth Bhakti",
@@ -8016,7 +8016,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1958&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1958&e=.m3u8"
     },
     {
         "channel-name": "Global India",
@@ -8025,7 +8025,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1959&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1959&e=.m3u8"
     },
     {
         "channel-name": "Shemaroo TV",
@@ -8034,7 +8034,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1961&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1961&e=.m3u8"
     },
     {
         "channel-name": "Amaar Bangla",
@@ -8043,7 +8043,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1962&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1962&e=.m3u8"
     },
     {
         "channel-name": "KVP Bhaarat",
@@ -8052,7 +8052,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1963&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1963&e=.m3u8"
     },
     {
         "channel-name": "ABC News",
@@ -8061,7 +8061,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1964&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1964&e=.m3u8"
     },
     {
         "channel-name": "VNM TV",
@@ -8070,7 +8070,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1965&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1965&e=.m3u8"
     },
     {
         "channel-name": "Live TV Kerala",
@@ -8079,7 +8079,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1966&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1966&e=.m3u8"
     },
     {
         "channel-name": "PMC Hindi",
@@ -8088,7 +8088,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1967&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1967&e=.m3u8"
     },
     {
         "channel-name": "Jio Sports 3 HD",
@@ -8097,7 +8097,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1970&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1970&e=.m3u8"
     },
     {
         "channel-name": "Jio Sports 4 HD",
@@ -8106,7 +8106,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1971&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1971&e=.m3u8"
     },
     {
         "channel-name": "Top News Marathi",
@@ -8115,7 +8115,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1972&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1972&e=.m3u8"
     },
     {
         "channel-name": "ETV HD",
@@ -8124,7 +8124,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1973&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1973&e=.m3u8"
     },
     {
         "channel-name": "Gujarat 1st 24x7",
@@ -8133,7 +8133,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1974&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1974&e=.m3u8"
     },
     {
         "channel-name": "PMC Telugu",
@@ -8142,7 +8142,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1975&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1975&e=.m3u8"
     },
     {
         "channel-name": "Zee Bangla HD",
@@ -8151,7 +8151,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1977&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1977&e=.m3u8"
     },
     {
         "channel-name": "Sports18 1 HD",
@@ -8160,7 +8160,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1984&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1984&e=.m3u8"
     },
     {
         "channel-name": "Sports18 1",
@@ -8169,7 +8169,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1985&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1985&e=.m3u8"
     },
     {
         "channel-name": "Sports18 Khel",
@@ -8178,7 +8178,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1998&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1998&e=.m3u8"
     },
     {
         "channel-name": "Raftaar Media",
@@ -8187,7 +8187,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=1999&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=1999&e=.m3u8"
     },
     {
         "channel-name": "PlusTest1",
@@ -8196,7 +8196,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2000&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2000&e=.m3u8"
     },
     {
         "channel-name": "PlusTest2 HD",
@@ -8205,7 +8205,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2001&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2001&e=.m3u8"
     },
     {
         "channel-name": "Aadinath TV",
@@ -8214,7 +8214,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2002&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2002&e=.m3u8"
     },
     {
         "channel-name": "3.0 TV",
@@ -8223,7 +8223,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2003&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2003&e=.m3u8"
     },
     {
         "channel-name": "Shekinah TV",
@@ -8232,7 +8232,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2004&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2004&e=.m3u8"
     },
     {
         "channel-name": "Virat 24",
@@ -8241,7 +8241,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2005&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2005&e=.m3u8"
     },
     {
         "channel-name": "Sattva TV",
@@ -8250,7 +8250,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2006&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2006&e=.m3u8"
     },
     {
         "channel-name": "BS9 News",
@@ -8259,7 +8259,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2007&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2007&e=.m3u8"
     },
     {
         "channel-name": "News 21",
@@ -8268,7 +8268,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2008&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2008&e=.m3u8"
     },
     {
         "channel-name": "Ekamra Nilach akra",
@@ -8277,7 +8277,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2010&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2010&e=.m3u8"
     },
     {
         "channel-name": "Ekamra Bharat Odia",
@@ -8286,7 +8286,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2011&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2011&e=.m3u8"
     },
     {
         "channel-name": "Paramatma",
@@ -8295,7 +8295,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2012&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2012&e=.m3u8"
     },
     {
         "channel-name": "Leaking Top Secret",
@@ -8304,7 +8304,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2013&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2013&e=.m3u8"
     },
     {
         "channel-name": "Rajpath TV",
@@ -8313,7 +8313,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2014&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2014&e=.m3u8"
     },
     {
         "channel-name": "Ekamra Musiq",
@@ -8322,7 +8322,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2015&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2015&e=.m3u8"
     },
     {
         "channel-name": "Ekamra Cinema",
@@ -8331,7 +8331,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2016&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2016&e=.m3u8"
     },
     {
         "channel-name": "Munsif TV",
@@ -8340,7 +8340,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2017&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2017&e=.m3u8"
     },
     {
         "channel-name": "Samachar Nation",
@@ -8349,7 +8349,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2018&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2018&e=.m3u8"
     },
     {
         "channel-name": "Global Punjab",
@@ -8358,7 +8358,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2019&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2019&e=.m3u8"
     },
     {
         "channel-name": "KKD News",
@@ -8367,7 +8367,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2020&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2020&e=.m3u8"
     },
     {
         "channel-name": "HNN 24x7",
@@ -8376,7 +8376,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2021&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2021&e=.m3u8"
     },
     {
         "channel-name": "NB News",
@@ -8385,7 +8385,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2022&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2022&e=.m3u8"
     },
     {
         "channel-name": "And TV",
@@ -8394,7 +8394,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2024&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2024&e=.m3u8"
     },
     {
         "channel-name": "Raatdin News Network",
@@ -8403,7 +8403,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2027&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2027&e=.m3u8"
     },
     {
         "channel-name": "Sadvidya TV",
@@ -8412,7 +8412,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2028&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2028&e=.m3u8"
     },
     {
         "channel-name": "Aaryaa Bhakti",
@@ -8421,7 +8421,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2029&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2029&e=.m3u8"
     },
     {
         "channel-name": "Aaryaa News",
@@ -8430,7 +8430,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2030&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2030&e=.m3u8"
     },
     {
         "channel-name": "Fashion India",
@@ -8439,7 +8439,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2031&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2031&e=.m3u8"
     },
     {
         "channel-name": "NSDC TV",
@@ -8448,7 +8448,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2034&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2034&e=.m3u8"
     },
     {
         "channel-name": "Amritwani",
@@ -8457,7 +8457,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2035&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2035&e=.m3u8"
     },
     {
         "channel-name": "Dil Se",
@@ -8466,7 +8466,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2036&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2036&e=.m3u8"
     },
     {
         "channel-name": "Pop Pataka",
@@ -8475,7 +8475,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2037&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2037&e=.m3u8"
     },
     {
         "channel-name": "Dhamaal",
@@ -8484,7 +8484,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2038&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2038&e=.m3u8"
     },
     {
         "channel-name": "Adipolli",
@@ -8493,7 +8493,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2039&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2039&e=.m3u8"
     },
     {
         "channel-name": "Bollywood Hungama",
@@ -8502,7 +8502,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2040&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2040&e=.m3u8"
     },
     {
         "channel-name": "Bhakti Sagar",
@@ -8511,7 +8511,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2041&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2041&e=.m3u8"
     },
     {
         "channel-name": "Nazraana",
@@ -8520,7 +8520,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2042&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2042&e=.m3u8"
     },
     {
         "channel-name": "Artist Aloud",
@@ -8529,7 +8529,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2043&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2043&e=.m3u8"
     },
     {
         "channel-name": "Auroville TV",
@@ -8538,7 +8538,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2045&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2045&e=.m3u8"
     },
     {
         "channel-name": "RS Bharat",
@@ -8547,7 +8547,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2063&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2063&e=.m3u8"
     },
     {
         "channel-name": "Merchant Records",
@@ -8556,7 +8556,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2064&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2064&e=.m3u8"
     },
     {
         "channel-name": "Saregama Music",
@@ -8565,7 +8565,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2065&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2065&e=.m3u8"
     },
     {
         "channel-name": "The Q Marathi",
@@ -8574,7 +8574,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2071&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2071&e=.m3u8"
     },
     {
         "channel-name": "Prime Media Goa",
@@ -8583,7 +8583,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2074&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2074&e=.m3u8"
     },
     {
         "channel-name": "Gangaur",
@@ -8592,7 +8592,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2077&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2077&e=.m3u8"
     },
     {
         "channel-name": "Shemaroo Umang",
@@ -8601,7 +8601,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2078&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2078&e=.m3u8"
     },
     {
         "channel-name": "Bharat 24",
@@ -8610,7 +8610,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2079&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2079&e=.m3u8"
     },
     {
         "channel-name": "TV27 News",
@@ -8619,7 +8619,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2081&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2081&e=.m3u8"
     },
     {
         "channel-name": "22Scope News",
@@ -8628,7 +8628,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2082&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2082&e=.m3u8"
     },
     {
         "channel-name": "Voot TEST voot",
@@ -8637,7 +8637,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2148&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2148&e=.m3u8"
     },
     {
         "channel-name": "Jio Prime HD",
@@ -8646,7 +8646,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2149&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2149&e=.m3u8"
     },
     {
         "channel-name": "India 24x7",
@@ -8655,7 +8655,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2176&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2176&e=.m3u8"
     },
     {
         "channel-name": "Arya Sandesh TV",
@@ -8664,7 +8664,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2177&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2177&e=.m3u8"
     },
     {
         "channel-name": "Q GameX",
@@ -8673,7 +8673,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2183&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2183&e=.m3u8"
     },
     {
         "channel-name": "U Bangla",
@@ -8682,7 +8682,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2184&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2184&e=.m3u8"
     },
     {
         "channel-name": "Swatantra News",
@@ -8691,7 +8691,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2187&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2187&e=.m3u8"
     },
     {
         "channel-name": "Globe TV",
@@ -8700,7 +8700,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2188&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2188&e=.m3u8"
     },
     {
         "channel-name": "Aaryaa Cinema",
@@ -8709,7 +8709,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2189&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2189&e=.m3u8"
     },
     {
         "channel-name": "Atrangii TV",
@@ -8718,7 +8718,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2191&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2191&e=.m3u8"
     },
     {
         "channel-name": "Gurukul",
@@ -8727,7 +8727,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2192&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2192&e=.m3u8"
     },
     {
         "channel-name": "Guruvayur Devaswom",
@@ -8736,7 +8736,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2205&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2205&e=.m3u8"
     },
     {
         "channel-name": "India News Punjab",
@@ -8745,7 +8745,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2224&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2224&e=.m3u8"
     },
     {
         "channel-name": "TV24",
@@ -8754,7 +8754,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2225&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2225&e=.m3u8"
     },
     {
         "channel-name": "Jatra Ekamra",
@@ -8763,7 +8763,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2227&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2227&e=.m3u8"
     },
     {
         "channel-name": "Samay Kolkata",
@@ -8772,7 +8772,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2228&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2228&e=.m3u8"
     },
     {
         "channel-name": "Bhojpuri Junction",
@@ -8781,7 +8781,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2229&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2229&e=.m3u8"
     },
     {
         "channel-name": "Jio Specials HD",
@@ -8790,7 +8790,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2230&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2230&e=.m3u8"
     },
     {
         "channel-name": "News 80",
@@ -8799,7 +8799,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2233&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2233&e=.m3u8"
     },
     {
         "channel-name": "Desi Music Station",
@@ -8808,7 +8808,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2252&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2252&e=.m3u8"
     },
     {
         "channel-name": "Nakshatra Digital TV",
@@ -8817,7 +8817,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2253&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2253&e=.m3u8"
     },
     {
         "channel-name": "Media9",
@@ -8826,7 +8826,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2254&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2254&e=.m3u8"
     },
     {
         "channel-name": "RRN News",
@@ -8835,7 +8835,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2255&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2255&e=.m3u8"
     },
     {
         "channel-name": "Zee Thirai",
@@ -8844,7 +8844,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2256&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2256&e=.m3u8"
     },
     {
         "channel-name": "Animax",
@@ -8853,7 +8853,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2258&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2258&e=.m3u8"
     },
     {
         "channel-name": "Divyalok TV",
@@ -8862,7 +8862,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2322&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2322&e=.m3u8"
     },
     {
         "channel-name": "TTN24",
@@ -8871,7 +8871,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2323&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2323&e=.m3u8"
     },
     {
         "channel-name": "Punjabi Melodies",
@@ -8880,7 +8880,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2325&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2325&e=.m3u8"
     },
     {
         "channel-name": "Firstpost",
@@ -8889,7 +8889,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2326&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2326&e=.m3u8"
     },
     {
         "channel-name": "CyberPeace TV",
@@ -8898,7 +8898,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2328&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2328&e=.m3u8"
     },
     {
         "channel-name": "Tom TV",
@@ -8907,7 +8907,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2349&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2349&e=.m3u8"
     },
     {
         "channel-name": "SRS Bhakti TV",
@@ -8916,7 +8916,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2351&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2351&e=.m3u8"
     },
     {
         "channel-name": "Narikaa",
@@ -8925,7 +8925,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2352&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2352&e=.m3u8"
     },
     {
         "channel-name": "Bharat Express",
@@ -8934,7 +8934,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2353&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2353&e=.m3u8"
     },
     {
         "channel-name": "Friends TV",
@@ -8943,7 +8943,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2354&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2354&e=.m3u8"
     },
     {
         "channel-name": "One Paschima",
@@ -8952,7 +8952,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2355&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2355&e=.m3u8"
     },
     {
         "channel-name": "Sadhguru Television SD",
@@ -8961,7 +8961,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2388&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2388&e=.m3u8"
     },
     {
         "channel-name": "Vande Bharat News",
@@ -8970,7 +8970,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2423&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2423&e=.m3u8"
     },
     {
         "channel-name": "Sun Marathi",
@@ -8979,7 +8979,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2424&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2424&e=.m3u8"
     },
     {
         "channel-name": "E News 79",
@@ -8988,7 +8988,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2433&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2433&e=.m3u8"
     },
     {
         "channel-name": "M Nadu",
@@ -8997,7 +8997,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2434&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2434&e=.m3u8"
     },
     {
         "channel-name": "Spondon",
@@ -9006,7 +9006,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2435&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2435&e=.m3u8"
     },
     {
         "channel-name": "Prime 9 News",
@@ -9015,7 +9015,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2436&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2436&e=.m3u8"
     },
     {
         "channel-name": "Wild Earth",
@@ -9024,7 +9024,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2437&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2437&e=.m3u8"
     },
     {
         "channel-name": "D Plus",
@@ -9033,7 +9033,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2438&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2438&e=.m3u8"
     },
     {
         "channel-name": "Krishi Pitara",
@@ -9042,7 +9042,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2439&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2439&e=.m3u8"
     },
     {
         "channel-name": "Desika daya",
@@ -9051,7 +9051,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2448&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2448&e=.m3u8"
     },
     {
         "channel-name": "Jyothishavartha",
@@ -9060,7 +9060,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2686&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2686&e=.m3u8"
     },
     {
         "channel-name": "The Book Channel",
@@ -9069,7 +9069,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2687&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2687&e=.m3u8"
     },
     {
         "channel-name": "Vistara News",
@@ -9078,7 +9078,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2732&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2732&e=.m3u8"
     },
     {
         "channel-name": "Popular TV",
@@ -9087,7 +9087,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2734&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2734&e=.m3u8"
     },
     {
         "channel-name": "Samachar Plus Jharkhand Bihar",
@@ -9096,7 +9096,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2735&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2735&e=.m3u8"
     },
     {
         "channel-name": "Shree Disha Bhakti",
@@ -9105,7 +9105,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2741&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2741&e=.m3u8"
     },
     {
         "channel-name": "Zee Kannada News",
@@ -9114,7 +9114,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2742&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2742&e=.m3u8"
     },
     {
         "channel-name": "Bhakti Darpan International",
@@ -9123,7 +9123,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2744&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2744&e=.m3u8"
     },
     {
         "channel-name": "Saregama Telugu",
@@ -9132,7 +9132,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2745&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2745&e=.m3u8"
     },
     {
         "channel-name": "Saga Music",
@@ -9141,7 +9141,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2750&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2750&e=.m3u8"
     },
     {
         "channel-name": "Saga Music Haryanvi",
@@ -9150,7 +9150,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2751&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2751&e=.m3u8"
     },
     {
         "channel-name": "Ghaint Punjab",
@@ -9159,7 +9159,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2752&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2752&e=.m3u8"
     },
     {
         "channel-name": "YRF Music",
@@ -9168,7 +9168,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2753&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2753&e=.m3u8"
     },
     {
         "channel-name": "Sikh Ratnavali",
@@ -9177,7 +9177,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2754&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2754&e=.m3u8"
     },
     {
         "channel-name": "Saregama Hum Bhojpuri",
@@ -9186,7 +9186,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2755&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2755&e=.m3u8"
     },
     {
         "channel-name": "Star Entertainment",
@@ -9195,7 +9195,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2756&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2756&e=.m3u8"
     },
     {
         "channel-name": "Zee Zest HD",
@@ -9204,7 +9204,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2757&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2757&e=.m3u8"
     },
     {
         "channel-name": "Zee Chitramandir",
@@ -9213,7 +9213,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2758&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2758&e=.m3u8"
     },
     {
         "channel-name": "DD North East",
@@ -9222,7 +9222,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2759&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2759&e=.m3u8"
     },
     {
         "channel-name": "My Bharat News",
@@ -9231,7 +9231,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2760&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2760&e=.m3u8"
     },
     {
         "channel-name": "Zee Ganga",
@@ -9240,7 +9240,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2761&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2761&e=.m3u8"
     },
     {
         "channel-name": "NH Studioz",
@@ -9249,7 +9249,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2762&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2762&e=.m3u8"
     },
     {
         "channel-name": "News State Maharashtra Goa",
@@ -9258,7 +9258,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2763&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2763&e=.m3u8"
     },
     {
         "channel-name": "News State Bihar Jharkhand",
@@ -9267,7 +9267,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2764&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2764&e=.m3u8"
     },
     {
         "channel-name": "BSTV",
@@ -9276,7 +9276,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2765&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2765&e=.m3u8"
     },
     {
         "channel-name": "BRAVE TV",
@@ -9285,7 +9285,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2766&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2766&e=.m3u8"
     },
     {
         "channel-name": "Sacchi Report",
@@ -9294,7 +9294,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2767&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2767&e=.m3u8"
     },
     {
         "channel-name": "Harvest TV Keralam",
@@ -9303,7 +9303,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2769&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2769&e=.m3u8"
     },
     {
         "channel-name": "Har Khabar",
@@ -9312,7 +9312,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2770&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2770&e=.m3u8"
     },
     {
         "channel-name": "Sadhna News MP CG",
@@ -9321,7 +9321,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2771&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2771&e=.m3u8"
     },
     {
         "channel-name": "India Daily Live",
@@ -9330,7 +9330,7 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2772&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2772&e=.m3u8"
     },
     {
         "channel-name": "Aaj Ki Khabar",
@@ -9339,6 +9339,6 @@
         "license-type": "widevine",
         "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": "",
-        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/dfgh.php?id=2773&e=.m3u8"
+        "video-streaming-link": "https:\/\/tv.jatiyatopic.xyz\/jiotv\/sthh.php?id=2773&e=.m3u8"
     }
 ]
