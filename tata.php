@@ -1,5 +1,15 @@
 [
   {
+    "tvg-logo": "",
+    "group-title": "Kids",
+    "channel-name": "IND VS SA ",
+    "tvg-id": "disneychannel.in",
+    "video-streaming-link": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/_IxZkFk9EVQY0KyjEhc8jvD2CFn1G_QpLFxbj-Fetl60I3pG7tOCVLbM2A6Nod9q3PNw9tj_daozfn3sO-XJ-Q/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live",
+    "license-type": "widevine",
+    "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
+    "license-key-local": ""
+  },
+  {
     "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6c\/2014_Disney_Channel_logo.svg\/1200px-2014_Disney_Channel_logo.svg.png",
     "group-title": "Kids",
     "channel-name": "Disney Channel HD ",
