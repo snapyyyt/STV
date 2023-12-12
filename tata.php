@@ -4,7 +4,7 @@
     "group-title": "Kids",
     "channel-name": "IND VS SA ",
     "tvg-id": "disneychannel.in",
-    "video-streaming-link": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/_IxZkFk9EVQY0KyjEhc8jvD2CFn1G_QpLFxbj-Fetl60I3pG7tOCVLbM2A6Nod9q3PNw9tj_daozfn3sO-XJ-Q/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live",
+    "video-streaming-link": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/Vb_WP-e8C_eucxoNFjSLI_8eK1hH0TmuMCfX-TCDU-6981utS25iNy2Cb9dZZK6XyLPuq_7yKeLevmbmGPBJ0w/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8",
     "license-type": "widevine",
     "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
     "license-key-local": ""
