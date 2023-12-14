@@ -54,7 +54,7 @@
     "group-title": "Kids",
     "channel-name": "Hungama",
     "tvg-id": "",
-    "video-streaming-link": "",
+    "video-streaming-link": "http:\/\/sysadminhost.net:8080\/F18530\/MTwIU8RUO8vwHAHK\/267168",
     "license-type": "widevine",
     "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
     "license-key-local": ""
